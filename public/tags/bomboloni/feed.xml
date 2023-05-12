@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bomboloni on HERESY LEVAIN</title><link>/tags/bomboloni/</link><description>Latest experiments in bomboloni from HERESY LEVAIN</description><language>en-us</language><copyright>© 2023 HERESY LEVAIN 🍞 CC BY-NC-SA 4.0</copyright><lastBuildDate>Mon, 15 May 2023 02:02:44 +0000</lastBuildDate><atom:link href="/tags/bomboloni/feed.xml" rel="self" type="application/rss+xml"/><item><title>levure de bière #5.2: Tropical Chico bomboloni</title><link>/posts/byb-5-2/</link><pubDate>Mon, 15 May 2023 02:02:44 +0000</pubDate><guid>/posts/byb-5-2/</guid><description>Experimental thiol-complimentary wholegrain &lt;em>bomboloni&lt;/em> (yeasted Italian donuts), via co-fermentation of 2 yeast strains: California ale yeast and thiolized London Tropics. An intentionally austere dough that highlights the yeast&amp;rsquo;s super power.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;/blockquote>
+&lt;p>Since making that &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">POG bomb&lt;/a> with Berkeley&amp;rsquo;s &lt;a href="https://berkeleyyeast.com/strains/london-tropics/">London Tropics&lt;/a> and &lt;a href="https://berkeleyyeast.com/boost/thiol/">Thiol Boost&lt;/a>, I&amp;rsquo;ve been thinking a lot about the goldmine of thiol precursors in malts &amp;ndash; and malts alone.&lt;/p>
+&lt;p>Given a lot more thiol precursors come from malts than hops, it probably makes more sense to play with different base malts and malt varieties than with new age hops.&lt;/p>
+&lt;p>German scientists have devised &lt;a href="https://pubs.acs.org/doi/full/10.1021/acs.jafc.0c06305">a solvent-free, automated method&lt;/a> for brewers to measure and track hop-derived thiols during the brewing process. How cool would it be, to be able to quantify the amount of thiol precursors in different malts, and find out which malt varieties pair the best with a particular thiolized yeast?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/montana_barley_green.jpg"
+alt="Montana barley into harvest"/>&lt;figcaption class="right">&lt;p>Gorgeous barley heading into harvest, on Karl De Jonge&amp;rsquo;s farm in Gallatin Valley, Montana.&lt;/p>&lt;p>Source: &lt;a href="https://www.facebook.com/gallatinvalleymaltco/photos/a.707201556296362/978615135821668/" target="_blank" rel="noreferrer">Gallatin Valley Malt Co.&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Most maltsters don&amp;rsquo;t list information about their grain varieties, only generic info like the malt type (pale, pilsner, crystal, etc). To find out the specific varietals of grains the malts are made from, I&amp;rsquo;ve had to ask the maltsters directly for COAs (certificates of analysis).&lt;/p>
+&lt;p>I&amp;rsquo;ve worked with enough grains (of different varieties) to know that the varietal can make a big difference in the end-product, e.g. a bread made from 100% &lt;a href="https://breadbuster.github.io/tags/turkey-red/">Turkey Red&lt;/a> is noticeably different from one made from 100% &lt;a href="https://breadbuster.github.io/tags/joaquin-oro/">Joaquin Oro&lt;/a> or &lt;a href="https://breadbuster.github.io/tags/white-sonora/">Sonora Blanca&lt;/a>. In pale ales, modern barley varieties like Metcalfe and Copeland from Montana or western Canada may be more suited to the American style than the others, while heirloom varieties like Golden Promise or Maris Otter add a bit of nutty character to British variations.&lt;/p>
+&lt;p>Many brewers proudly describe their base malts &amp;ndash; the vast majority of the grist in most beers &amp;ndash; simply as &amp;ldquo;2-row.&amp;rdquo; That label merely indicates it&amp;rsquo;s not the &amp;ldquo;inferior&amp;rdquo;, higher-protein 6-row barley variety. But those are broad categories &amp;ndash; just like &lt;a href="https://newenglandapples.org/2020/10/16/russets-small-size-big-flavor/">russet&lt;/a>, &lt;a href="https://www.chelseagreen.com/2022/surprisingly-sweet-crab-apples/">crab&lt;/a>, and club are categories of apples (so much for the Johnny Appleseed fairy tale) &amp;ndash; and imply nothing about the actual barley variety, even less about how the grain is malted. Most brewers just take whatever malt variety is available, maybe occasionally thinking about 2-row vs. 6-row, winter vs. summer, maltster vs. maltster, and US-Canada vs. Europe.&lt;/p>
+&lt;p>As with wheat, I&amp;rsquo;ve learned that if a malt is generic enough to be characterized by just its category, it&amp;rsquo;s not going to give the end-product much flavor or character. But what really made me appreciate malt as a craft, in and of itself, was 2 things:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Learning how to make traditional Baltic peasant rye bread from single-variety grain (rye) during 2020 COVID lockdown. In rural villages in Belarus and Latvia, for example, grandmas still make some of the world&amp;rsquo;s most flavorful (and underrated) breads today &amp;ndash; with only rye flour, water, salt, and natural yeast; they coax incredibly complex flavors out of the unassuming rye kernel through different stages of chemical reactions. That inspired me to malt my own rye for breadmaking: pale rye malt, Russian red fermented rye malt (&lt;em>solod&lt;/em>), chocolate rye malt, and even malt syrup, from different varieties of rye (Abruzzi, Gazelle, Hazlet, Ryman, &lt;em>Svedjerug&lt;/em>, Prima, etc). I was absolutely mesmerized by the different flavor profile and intensity each rye malt (and each rye variety) added to the final bread.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Studying European beer history. European beer styles evolved in tandem with local barley varieties and malt. Particularly in places like Bavaria, &lt;em>Helles&lt;/em> (pale lagers) &amp;ndash; despite being delicately hopped and regularly made with just a single malt &amp;ndash; taste different across breweries, because the malt, which is the whole ballgame, is different. Breweries have access to dozens of different malthouses, each making their pilsner malts slightly differently, from a range of different barley varieties. The same is true &amp;ndash; and even more pronounced &amp;ndash; in the UK, where ale brewers not only know which facility makes their malt, but also have passionate opinions about the barley variety. In cask ales, for example, the differences between different barley varieties and malts are magnified, creating distinct flavors.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/montana_barley.jpg"
+alt="Montana barley"/>&lt;figcaption class="right">&lt;p>Heritage barley near harvest time, on Karl De Jonge&amp;rsquo;s farm in Gallatin Valley, Montana.&lt;/p>&lt;p>Source: &lt;a href="https://www.instagram.com/p/ChQ6zVeLJDc/" target="_blank" rel="noreferrer">Gallatin Valley Malt Co.&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>One of the factors that contributed to the development of the brewing industry as a whole was the spread of pale malts. In the Late Middle Ages, England had been struggling with wood shortages and switched to using the cheaper coal. A major problem with coal was that it produces sulfurous fumes during burning, and the flavors imparted to malt dried in coal-fueled kilns &amp;ndash; and subsequently the beer &amp;ndash; were &lt;a href="https://www.beeretseq.com/where-theres-smoke-theres-pale-ale/">not acceptable&lt;/a>. Hence, in &lt;em>ye olden times&lt;/em> malt had to be dried over wood, peat, or straw &amp;ndash; all of which infused malt with the smoky character of the heat source and gave it a brown color &amp;ndash; or the best Welsh anthracite, the supply of which was quite limited.&lt;/p>
+&lt;p>In 1603, &lt;a href="https://en.wikipedia.org/wiki/Hugh_Plat">Sir Hugh Plat&lt;/a> suggested that coal might be charred in a manner analogous to the way charcoal is produced from wood. He heated some coal without burning it, which distilled the coal, removed its offensive sulfurous smell, and left a residue with a high carbon content and few impurities. This was coke, which proved to be a highly useful fuel for heating and industry.&lt;/p>
+&lt;p>The coke process remained unnoticed until 1642, when malt makers in Derbyshire began to employ coke for roasting malt. Coke demonstrated superior qualities over other fuels at the time: It generates a great deal of heat without the attendant soot and smoke, and it allows better thermal control. Coke-dried malt was considered an improvement in quality over wood-dried malt, and brought about an &amp;ldquo;alteration which all England admired.&amp;rdquo; Brewers were finally able to mass-produce a lighter roast of the malt that was not &amp;ldquo;smoked.&amp;rdquo; This malt was called &amp;ldquo;pale,&amp;rdquo; and it led to the creation of what by the end of the 17th century was called &lt;!-- raw HTML omitted -->&amp;quot;&lt;strong>pale ale&lt;/strong>.&amp;quot;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> Coke became the &lt;em>crème de la crème&lt;/em> of fuels in England. Coke-fired blast furnaces made the production of inexpensive cast iron possible, which was one of the factors that drove the Industrial Revolution.&lt;/p>
+&lt;p>The British Empire was in full sway, with merchants and traders traveling around the world. India was the &amp;ldquo;crown jewel&amp;rdquo; of the empire, hosting a large British military and civilian population with a thirst for beer. The tropical climate in India made local brewing of typical English pale ales impossible. Casks of porters and stouts shipped in from England fared poorly because of the long sea voyage and temperature fluctuations; bottled products produced mixed results as well.&lt;/p>
+&lt;p>In 1790, George Hogeson of the Bow Brewery in London developed a recipe for pale ale that included a huge increase in hops and a much higher alcohol content (both known to have preservative qualities). The export casks were primed with sugar and dry-hopped prior to shipping. The resulting beer arrived in India unspoiled, but much stronger and hoppier than the domestic version. This &amp;ldquo;India Pale Ale&amp;rdquo; (&lt;strong>IPA&lt;/strong>) quickly became hugely popular and profitable.&lt;/p>
+&lt;p>Pale malt has a huge advantage over darker malts: It contains more enzymes and more fermentable sugars, which allows for more efficient beer production; the taste of the finished beer is much cleaner, as yeasts are able to break down a higher percentage of the chemical compounds dissolved in wort. This fact was likely not explicitly known to brewers until the &lt;a href="https://en.wikipedia.org/wiki/Hydrometer#Saccharometer">saccharometer&lt;/a> was invented in the late 18th century. Given that coke was too expensive for commercial brewing back then, pale ales remained mostly exclusive to the households of the wealthy gentry in northern England.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/barley-germinating.jpg"
+alt="germinating barley"/>&lt;figcaption class="right">&lt;p>Germinating barley&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In the US, light lager was the focus of domestic breweries until ~2000. The specific needs of breweries for producing this style of beer trumped the beer&amp;rsquo;s &amp;ldquo;character&amp;rdquo; development. 2-row malt is good enough; the barley and malt industries became streamlined to efficiently produce this neutral, light-flavored product for the purpose of brewing domestic light lagers. This specialization, however, created a structural problem for craft breweries looking for malt flavors &amp;ndash; worse, it led to a zymurgic myopia.&lt;/p>
+&lt;p>As a result, American breweries don&amp;rsquo;t have nearly the selection of malts that Germans have. Weyermann, a common source, makes a high-quality pilsner malt from 2-row spring barley. Brewers love its strong, distinctive character, which really makes a lager pop. The problem is every lager tastes like Weyermann® pilsner malt, which is why so many breweries in Bavaria use different malthouses to differentiate their beers.&lt;/p>
+&lt;p>Craft brewing has gone through eras of hop enlightenment and yeast consciousness. Not too long ago, brewers were content with a handful of C-hops and some Chico yeast. Now hop breeders release dozens of new hops a year; yeast labs and yeast varieties are mushrooming. Brewers are constantly tinkering with ingredients to produce new flavors, and highly attuned to subtle differences.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;I ask my maltsters to include the barley variety mix in their analysis data. Having a malt analysis without varietal data is like describing a dog without knowing the breed.&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>Dan Carey, New Glarus Brewing&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>It seemed like a watershed moment when we first scratched the surface of &amp;ldquo;biotransformation&amp;rdquo; and, subsequently, the effect of ester-rich yeasts on IPAs. As this style has evolved by leaps and bounds, we have gained a better understanding of how hops interact with different processes &amp;ndash; and with yeast.&lt;/p>
+&lt;p>How might different base malts affect beers?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/gallatin_malts.jpg"
+alt="Gallatin malts steeps"/>&lt;figcaption class="right">&lt;p>Color &amp;amp; flavor analysis steeps at Gallatin Valley Malt&lt;/p>&lt;p>Source: &lt;a href="https://www.facebook.com/gallatinvalleymaltco/photos/a.707201556296362/1198845917131921/" target="_blank" rel="noreferrer">Gallatin Valley Malt Co.&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>America does have a number of &lt;a href="https://craftmalting.com/">craft malthouses&lt;/a>. Although many aren&amp;rsquo;t yet able to supply breweries with a reliable source of base malts for a year of regular-production beer, things might change with growing interest that will allow them to increase production and lower prices to compete with mass-produced malts. Some of these craft malts are not only interesting and flavorful, but also benefit the local economy and environment. A world with dozens of small, viable malthouses has the potential to transform beer tremendously, like hops and yeasts did.&lt;/p>
+&lt;p>For example, the single-origin base malts crafted by &lt;a href="https://www.gallatinvalleymalt.com/">Gallatin Valley Malt&lt;/a> (a farmer-owned craft malthouse in Manhattan, Montana) are quite distinct from the same types I&amp;rsquo;ve tried from several other malthouses (including &lt;a href="https://montanacraftmalt.com/">Montana Craft Malt&lt;/a>, which is located only ~1 hour away from Gallatin Valley Malt).&lt;/p>
+&lt;p>Heather Sargent, Head Maltstress at Gallatin Valley Malt, articulates the variability to me:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Malts will generally vary in flavor and analysis between malt houses for several reasons. Where the barley is grown and how it&amp;rsquo;s grown play a huge part in the quality that the Maltster has to work with. Whether or not the grain is blended is another factor. Dry farming vs. irrigated. The way in which the grain is malted. Therefore, brewers can make their determinations based on the outcomes and what they like.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>That means, there are thousands of variations in just the &amp;ldquo;pale malt&amp;rdquo;! And the malt that goes into the recipe matters.&lt;/p>
+&lt;p>Breweries' chalkboards and printed menus often boast hop varieties, hoping (often correctly) that words like Citra, Enigma, or Lemondrop will entice customers to order a pint.&lt;/p>
+&lt;p>It&amp;rsquo;s rare, literally unheard of, for a brewery to advertise the malt bill on a menu (although it does show up from time to time on labels). The most overlooked ingredient can mean the difference between an enjoyable pint and a drain pour, and even help a brewery stand out and differentiate itself from the pack.&lt;/p>
+&lt;p>In what appears to be a fairly mature industry, craft malts have a chance to inject a new wave of innovation into our glasses.&lt;/p>
+&lt;p>The varieties of the grains that go into the malt are just as important as the hops that go into the wort. And not only the variety, but also the growing region (terroir) affects the malt&amp;rsquo;s flavor, haze, and foam stability.&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_175115.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In this experiment, I wanted to change the grains in the malt and see how that would impact the thiols in the final product.&lt;/p>
+&lt;h3 id="saccharified-mash">Saccharified mash&lt;/h3>
+&lt;p>I limited thiol precursor-loaded, diastatic barley malt to 30% of total grains in the mash; the rest was all adjuncts, as far as diastatic powers and thiol precursors are concerned.&lt;/p>
+&lt;p>The light-golden &lt;a href="https://www.gallatinvalleymalt.com/gallatin-pale">pale malt&lt;/a> by Gallatin Valley Malt, made from Genie barley (grown, harvested, and malted right on GVM&amp;rsquo;s own farm in Montana&amp;rsquo;s breadbasket, the fertile &lt;a href="https://bozemanmagazine.com/articles/2018/09/04/102964-gallatin-agricultural-history">Gallatin Valley&lt;/a>, in a true field-to-kiln fashion), has an endearing aroma of sweet biscuits out of the box. When freshly ground, the malt tastes like Honey Nut Cheerios with a yummy sunflower seed butter drizzle &amp;ndash; none of the grass/straw/hay notes I&amp;rsquo;ve noticed in pale malts from some other malthouses.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>%&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Oberkülmer spelt flour (unmalted, unsifted)&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>68g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>pale barley malt (Genie - Gallatin Valley Malt)&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>51g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sourdough breadcrumbs, toasted&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>51g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>warm water (~100°F)&lt;/td>
+&lt;td>135%&lt;/td>
+&lt;td>230g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total: 400g&lt;/p>
+&lt;p>I milled the grains into a flour, and mixed everything with water. I intentionally kept the mash thick, because I wanted to create an Italian &lt;em>lievito madre&lt;/em>-style stiff barm.&lt;/p>
+&lt;p>The mash then went through&lt;/p>
+&lt;ul>
+&lt;li>30 minutes at ~105°F&lt;/li>
+&lt;li>30 minutes at ~114°F&lt;/li>
+&lt;li>4 hours at 144-154°F&lt;/li>
+&lt;/ul>
+&lt;p>After saccharification, the mash tasted brightly sweet and malty &amp;ndash; it reminded me of &lt;em>cannelés bordelais&lt;/em> drizzled with a decadent caramel sauce. GVM&amp;rsquo;s flagship &lt;a href="https://www.gallatinvalleymalt.com/gallatin-pale">pale malt&lt;/a> well deserved the silver medal at the 2022 Craft Maltsters Guild.&lt;/p>
+&lt;h3 id="barm">Barm&lt;/h3>
+&lt;p>People seem to love to hate on the &amp;ldquo;Chico&amp;rdquo; strain. I&amp;rsquo;m guessing the main reason is that it&amp;rsquo;s a &amp;ldquo;boring&amp;rdquo; strain that doesn&amp;rsquo;t get you &amp;ldquo;fun&amp;rdquo; flavors like some other yeasts.&lt;/p>
+&lt;p>Interestingly, Jeremy Myers, head of production for Bachs Biermanufaktur in Saarland, Germany, &lt;a href="https://beerandbrewing.com/cold-healthy-and-crowded-lager-fermentation-simplified/">suggests&lt;/a> using White Labs WLP001 for lagers. He says &amp;ldquo;fermenting cold with that yeast leaves behind a beer with just the kind of clean, crisp flavor we want in a lager.&amp;rdquo;&lt;/p>
+&lt;p>IMO, &amp;ldquo;boring&amp;rdquo; strains like WLP001 are clean, versatile, low-ester, and low-phenol. They can be super useful and valuable in the right context. For example, they are &lt;a href="https://breadbuster.github.io/tags/wlp001/">terrific for breads&lt;/a> that are intended to highlight a grain&amp;rsquo;s &lt;em>terroir&lt;/em>. If you ferment a few doughs with WLP001, keeping everything the same except the flours (use different varieties of wheat, e.g. Joaquin Oro vs. Sonora Blanca vs. Turkey Red), I bet you&amp;rsquo;d taste different flavors and &amp;ldquo;grain-forwardness&amp;rdquo; in each baked product. At least I did. In the &lt;a href="https://breadbuster.github.io/posts/byb-1-2/">whole wheat bread&lt;/a> I made with WLP001, the yeast elevated the character of Turkey Red to such a degree that I never thought it was possible (with sourdough or bread yeast), and produced a stunningly pure, robust wheat flavor without the slightest hint of acidity &amp;ndash; it was like eating a box of Triscuit Original or drinking an American wheat beer. Pure, authentic, natural wheatopia.&lt;/p>
+&lt;p>Like how the Chico strain drove IPA 2.0 due to its &amp;ldquo;cleanness&amp;rdquo; that emphasizes malt and allows hops to shine through, I think it has the potential to do the same thing for Pizza/Bread 3.0 (especially when coupled with the &amp;ldquo;local grain&amp;rdquo; movement). Clean strains highlight the humble grain and let the grain flavor shine through, much more so than sourdough or bread yeast.&lt;/p>
+&lt;p>In this case, I scooped out 140g of the cooled mash (260g remaining), and added a 50/50 blend of &lt;a href="https://breadbuster.github.io/tags/london-tropics/">London Tropics&lt;/a> and &lt;a href="https://breadbuster.github.io/tags/wlp001/">WLP001 California ale yeast&lt;/a>. I intended to temper the thiol levels and let other characteristics stand out, to create a multi-layered, balanced bouquet of tropical aromas/flavors. (ICYMI, London Tropics proved to be an incredibly powerful &amp;ldquo;weapon of mass thiolization&amp;rdquo; in my &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">last experiment&lt;/a>.)&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>%&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>saccharified mash&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>140g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>London Tropics liquid yeast (Berkeley Yeast)&lt;/td>
+&lt;td>0.5%&lt;/td>
+&lt;td>0.7g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>California ale yeast (WLP001 - White Labs)&lt;/td>
+&lt;td>0.5%&lt;/td>
+&lt;td>0.7g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total: 141.4g&lt;/p>
+&lt;p>I added both yeasts at the same time, since they have similar optimal temperature range. I let the barm ferment, loosely covered, at 68-72°F for ~18 hours. The barm doubled in volume by the end.&lt;/p>
+&lt;p>Like &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">last time&lt;/a>, POG-type tropical aromas started to manifest ~3 hours in, but never got as pungent, which was expected, since the amount of precursors in the mash was drastically reduced and the inoculation rate of thiolized yeast was halved.&lt;/p>
+&lt;h3 id="final-dough">Final dough&lt;/h3>
+&lt;p>This time, I decided to make a batch of &lt;em>bomboloni&lt;/em> (yeasted Italian donuts), instead of a loaf of bread. And I intentionally made these &lt;em>bomboloni&lt;/em> much more austere than &lt;a href="https://breadbuster.github.io/posts/california-dreamin-5/">the Sonora Blanca version&lt;/a>. I wanted the yeasts to shine, untempered by spices or other add-ins.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>%&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red whole wheat flour&lt;/td>
+&lt;td>50.0%&lt;/td>
+&lt;td>150g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>India Jammu whole wheat flour&lt;/td>
+&lt;td>50.0%&lt;/td>
+&lt;td>150g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>barm&lt;/td>
+&lt;td>47.1%&lt;/td>
+&lt;td>141.4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>saccharified mash&lt;/td>
+&lt;td>86.7%&lt;/td>
+&lt;td>260g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>tap water&lt;/td>
+&lt;td>15.0%&lt;/td>
+&lt;td>45g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1.0%&lt;/td>
+&lt;td>3g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total: 749.4g &amp;mdash;-&amp;gt; makes 12 donuts @ ~62g each&lt;/p>
+&lt;p>No sugar in the dough, because I wanted the sweetness to come from the coating on the outside, which would make the layers complement each other as you bite through them. Heterogeneity and contrast!&lt;/p>
+&lt;p>Unadorned ingredients can make something greater than the sum of its parts.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_174455.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The process was straightforward, too.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Mix everything together into a stiff dough. (The dough smelt gently sweet and fruity, like a floral forest after rain.)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bulk ferment at ~72°F for 6 hours. Fold once every 30 mins, 4 times in total.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Retard in the fermentation fridge (~45°F) for 12 hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divide into 12 pieces (~62g each), and shape into taut balls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof at ~72°F for ~6 hours until doubled in size.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heat a pot of coconut oil to 350°F; fry for 5-7 minutes on each side until brown and crispy.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove from oil and let dry on a wire rack lined with paper towels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once cool (but still warm), coat in homemade powdered sugar enhanced with a dash of cinnamon.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_174710.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>These donuts had a super fluffy, airy texture, almost completely concealing the fact they were made from unsifted whole grains. They also had a substantial mouthfeel &amp;ndash; quite contrary to the emptiness I always experience when eating donuts from national donut chains, which tend to be so overloaded with sugar that they melt in your mouth like cotton candy (in a bad way).&lt;/p>
+&lt;p>The tropical aroma was hard to distinguish underneath the cinnamon sugar coating, but a ripe fruit flavor was noticeable in the crumb, alongside an unyielding wheat flavor. It mildly reminded me of Kellogg&amp;rsquo;s Tropical Froot Loops cereal. Definitely not POG bombs this time.&lt;/p>
+&lt;p>Overall, I think these thiol-complimentary &lt;em>bomboloni&lt;/em> turned out much more balanced and delectable than my &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">last thiol-dominant bake&lt;/a> &amp;ndash; once again, proving &amp;ldquo;more isn&amp;rsquo;t always better.&amp;rdquo;&lt;/p>
+&lt;p>Still, I don&amp;rsquo;t think the flavor was quite right &amp;ndash; it didn&amp;rsquo;t have the multi-layered bouquet of aromas/flavors I was expecting. Something was still amiss.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_175742.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Never underestimate what a yeast can do.&lt;/p>
+&lt;hr>
+&lt;p>🍻🍻🍻🍻&lt;/p>
+&lt;p>Special thanks to&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://berkeleyyeast.com/">Berkeley Yeast&lt;/a>, for generously offering me the opportunity to do these fun thiol experiments.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heather Sargent (the awesome Head Maltstress at &lt;a href="https://www.gallatinvalleymalt.com/">Gallatin Valley Malt&lt;/a>), for indulging my curiosity in malts and giving me the opportunity to experiment with GVM&amp;rsquo;s high-quality, single-origin malts.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Peckham, Stephen (1880). &lt;em>Special Reports on Petroleum, Coke, and Building Stones.&lt;/em> United States Census Office. 10th census. p. 53.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>California Dreamin' #5: Sonora Blanca</title><link>/posts/california-dreamin-5/</link><pubDate>Sun, 12 Mar 2023 23:07:37 +0000</pubDate><guid>/posts/california-dreamin-5/</guid><description>[California Grain Adventure #5] Sonora Blanca coma: 30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour, &lt;em>beurre noisette&lt;/em>, caramelized kabocha purée, and cinnamon sugar. Decadent, melt-in-your-mouth creamy, one-of-a-kind pumpkin donuts. The bomb diggity.</description><content>&lt;p>&lt;em>This is part 5 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Californians invented the concept of life-style. This alone warrants their doom.&lt;/p>
+&lt;ul>
+&lt;li>Don DeLillo, &lt;em>White Noise&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Virginia Postrel&amp;rsquo;s book, &lt;em>The Power of Glamour&lt;/em>, highlights California as a particularly glamorous icon. It has always attracted some of the most ambitious, gifted, and can-do people in the world. But for all the innovations of Silicon Valley and Hollywood, northern California&amp;rsquo;s NIMBYism is paradoxically antithetical to a culture that embraces change and risk. The local governments don&amp;rsquo;t seem so can-do, either. Longtime residents and Uber drivers are eager to tell you how their city &lt;a href="https://www.nytimes.com/2023/02/26/opinion/san-francisco-democrats-board-of-supervisors.html">isn&amp;rsquo;t what it once was&lt;/a>.&lt;/p>
+&lt;p>Despite all the media blitz, maybe Silicon Valley is imprinted with more of the East Coast finance culture than the techies would like to admit.&lt;/p>
+&lt;p>On Friday (10 March 2023), the 16th largest commercial bank in the US, a S&amp;amp;P 500 component, and $209 billion in assets got &lt;a href="https://www.cbsnews.com/news/silicon-valley-bank-sivb-stock-fdic-cbs-explains/">wiped out&lt;/a> overnight.&lt;/p>
+&lt;blockquote>
+&lt;p>California regulators on Friday abruptly shuttered Silicon Valley Bank, closing a 40-year-old financial institution that catered to the tech industry and that was the 16th largest U.S. bank before its sudden collapse. The company&amp;rsquo;s stock tumbled 60% on Thursday and had plunged another 70% on Friday before trading of its shares was halted.&lt;/p>
+&lt;p>The nosedive reflected fears of a bank run, concerns that materialized as depositors &amp;ndash; mostly technology company workers and venture capital-backed companies &amp;ndash; rushed to withdraw money this week as anxiety over the bank&amp;rsquo;s balance sheet spread.&lt;/p>
+&lt;p>Regulators stepped in to take control, with the California Department of Financial Protection and Innovation closing the bank and appointing the Federal Deposit Insurance Corporation (FDIC) as receiver. It&amp;rsquo;s the largest failure of a financial institution since Washington Mutual in 2008 at the height of the financial crisis more than a decade ago.&lt;/p>
+&lt;/blockquote>
+&lt;p>Two things were happening on Wall Street this weekend: Junior analysts were watching &lt;em>&lt;a href="https://www.imdb.com/title/tt0038650/">It&amp;rsquo;s a Wonderful Life&lt;/a>&lt;/em> to see what a good old-fashioned bank run looks like; mid-level analysts were hammering the F9 key to see what higher &lt;a href="https://www.investopedia.com/terms/w/wacc.asp">weighted average cost of capital&lt;/a> (WACC) was doing to valuations.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/EOzMdEwYmDU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Nearly every major US bank has mark-to-market losses on its held-to-maturity (HTM) Treasury bond portfolio. For Wells Fargo, it&amp;rsquo;s ~20%. For Bank of America, it&amp;rsquo;s closer to 40%. For Silicon Valley Bank, those losses exceeded total equity.&lt;/p>
+&lt;p>SVB is a unique outlier &amp;ndash; it made terrible decisions that were several orders of magnitude worse than other banks. The truly unique feature of SVB was its deposit profile, instead of its investment profile. Because SVB was not a retail bank, but rather a corporate bank focused on serving startups and VCs, the vast majority of its deposit accounts were corporate in nature and well above the FDIC-insured limits of $250k. (If that sounds like an extreme amount to you, then you don&amp;rsquo;t realize America is inundated with millionaires and billionaires &amp;ndash; thanks to their real estate holdings, if nothing else. SVB had almost no insured deposits. It was literally a bank for millionaires and billionaires, who are called &amp;ldquo;oligarchs&amp;rdquo; in Russia.) As news began to percolate that SVB was raising equity capital to offset losses in a HTM portfolio, VCs and startups scampered away at the first sign of trouble.&lt;/p>
+&lt;p>Risk happens slowly, then all at once. Deposit outflows from SVB likely hit full stride on Friday, with Peter Thiel&amp;rsquo;s Founders Fund calling for VCs to pull their money out. Nothing like biting the hand that feeds you. Nowadays one tweet is all it takes to trigger a &amp;ldquo;bank run.&amp;rdquo; On Saturday, desperate customers &lt;a href="https://www.dailymail.co.uk/news/article-11849049/Customers-line-outside-Republic-Bank-money-SVB-bank-collapsed.html">lined up outside First Republic Bank&lt;/a> in southern California to take their money out.&lt;/p>
+&lt;blockquote>
+&lt;p>California Gov. Gavin Newsom said Saturday that he&amp;rsquo;s talking with the White House to help &amp;ldquo;stabilize the situation as quickly as possible, to protect jobs, people&amp;rsquo;s livelihoods, and the entire innovation ecosystem that has served as a &lt;em>tent pole&lt;/em> for our economy.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>A &lt;em>tent pole&lt;/em> is a fragile skeleton. If it breaks, your tent may wobble, flap or completely collapse.&lt;/p>
+&lt;p>To anyone who works in or follows tech, SVB is &lt;em>not&lt;/em> &amp;ldquo;a little-known California bank&amp;rdquo; as portrayed by East Coast mainstream media. It&amp;rsquo;s &lt;em>the go-to bank&lt;/em> for US tech startups &amp;ndash; it provided funding to &lt;a href="https://www.svb.com/venture-funded">44%&lt;/a> of all VC-backed tech and healthcare companies that publicly listed on a stock exchange last year.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">In a deep sense — though not a legal sense — what SVB actually did was a kind of affinity fraud a la Madoff. It managed to convince the VC/startup/crypto etc world that it was one of them, part of their community, and hence trustworthy 5/&lt;/p>&amp;mdash; Paul Krugman (@paulkrugman) &lt;a href="https://twitter.com/paulkrugman/status/1634911360227201025?ref_src=twsrc%5Etfw">March 12, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>And when it comes to money, people aren&amp;rsquo;t concerned with getting Covid&amp;hellip; FWIW, yesterday marked the 3-year anniversary of the official declaration of the &amp;ldquo;COVID-19 Pandemic.&amp;rdquo;&lt;/p>
+&lt;p>The sophisticated investors, those with far in excess of $250k and saw the writing on the wall ahead of the crowd, began pulling their money from SVB weeks ago. Which means the bank had to have the cash to pay them. Which means the bank had to sell assets to raise the cash. And if the assets are long-duration bonds with rising yields, they had to be liquidated at a loss. SVB lost ~$2 billion trying to meet withdrawals.&lt;/p>
+&lt;p>But it still wasn&amp;rsquo;t enough. The bank collapsed. The government took it over. Which means if you had &amp;lt;$250k in your account, you are good. If you had more&amp;hellip;you get a piece of paper saying you will hopefully get 100% back, but it depends on the liquidation of the bank. During the 2008-2009 financial crisis, with IndyMac, you got 50 cents on the dollar.&lt;/p>
+&lt;p>That&amp;rsquo;s why people were rushing to those non-diversified banks like First Republic to get their money out ASAP.&lt;/p>
+&lt;blockquote>
+&lt;p>When the tide goes out, you find out who is swimming naked.&lt;/p>
+&lt;/blockquote>
+&lt;p>Bill.com had to come out and assure investors that its banking relationship with SVB is easily replaceable. Roku held ~$487 million, or ~26%, of its $1.9 billion cash and cash equivalents at SVB, and most of its deposits with the bank are &lt;em>uninsured&lt;/em>. Toronto-based AcuityAds Holding held &amp;gt;90% of its deposits (USD $55 million) in SVB. BlockFi also had $227 million with SVB, but it&amp;rsquo;s &lt;em>not FDIC-insured&lt;/em> because it was in a money market mutual fund. Business continuity concerns are high for many companies exposed to SVB, which will cause reverberations across sectors.&lt;/p>
+&lt;p>A lot of analogies to Long-Term Capital Management (LTCM) and even Bear Stearns are being made. If SVB wants to have a chance to be remembered as &amp;ldquo;fondly&amp;rdquo; as those, it will take more than a 2-day SPX decline of 3.3%. No movie is made about little blips.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">The failure of &lt;a href="https://twitter.com/SVB_Financial?ref_src=twsrc%5Etfw">@SVB_Financial&lt;/a> could destroy an important long-term driver of the economy as VC-backed companies rely on SVB for loans and holding their operating cash. If private capital can’t provide a solution, a highly dilutive gov’t preferred bailout should be considered.&lt;/p>&amp;mdash; Bill Ackman (@BillAckman) &lt;a href="https://twitter.com/BillAckman/status/1634028534107602944?ref_src=twsrc%5Etfw">March 10, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Is SVB as important to the national financial plumbing as Bank of America? Not even close. Is this another Lehman or Bear Stearns? Absolutely not. But still, to think this massive banking entity exists in a vacuum with no implications for the rest of the economy is naive. There will be ripple effects.&lt;/p>
+&lt;p>The odds of your local bank failing, which is probably a national bank anyway, are low, but once consumer &lt;em>con&lt;/em>fidence fades&amp;hellip;you have no idea what might happen. Western banks and financial markets are already fragile, and psychology is fracturing. Pile on deteriorating asset quality from emerging markets and toxic CRE exposures&amp;hellip;&lt;/p>
+&lt;p>You can&amp;rsquo;t count on anyone but yourself these days. And be wary of listening to your friends or people you run into. Most people are not sophisticated, and full of sh*t anyway. They want to make themselves look good; some are &lt;em>con&lt;/em>fident salesmen&amp;hellip;.&lt;/p>
+&lt;p>We live in an information economy, which means those with the most information win. It&amp;rsquo;s true in each and every business. After all, the executives at SVB got paid, as always. As for the depositors&amp;hellip;the savvy ones with the most information got their money out. The rest?&lt;/p>
+&lt;p>Silicon Valley appears to be great at massive differential equations, but has difficulty balancing a check book. Probably because they do not know what a check book is.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">How financially innumerate is Silicon Valley…?! The FDIC has already indicated that uninsured depositors will be receiving substantial proceeds(50%)as early as tomorrow. Shouldn’t that be enough for one payroll? &lt;a href="https://t.co/3VJxuXPvbi">https://t.co/3VJxuXPvbi&lt;/a>&lt;/p>&amp;mdash; Diogenes (@WallStCynic) &lt;a href="https://twitter.com/WallStCynic/status/1634948491704434688?ref_src=twsrc%5Etfw">March 12, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Now the biggest question: Is the SVB failure another isolated / non-systemic / contained event?&lt;/p>
+&lt;p>History is the poet that loves to rhyme. FTX was the spark that lit the fuse.&lt;/p>
+&lt;p>~24 hours earlier, Silvergate Bank, a cornerstone in the crypto world, &lt;a href="https://www.theverge.com/2023/3/8/23631320/silvergate-wind-down-liquidiation-announcement">announced it would shut down&lt;/a> &amp;ldquo;in light of recent industry and regulatory developments.&amp;rdquo; Signature Bank, another key crypto bank with more than $110 billion in assets, &lt;a href="https://www.reuters.com/business/finance/new-york-state-regulators-close-signature-bank-2023-03-12/">crashed this morning&lt;/a>. The second &lt;em>and&lt;/em> third largest bank failures in US history, after Washington Mutual in 2008, happened in the span of 48 hours.&lt;/p>
+&lt;p>Bank liquidity is front and center, and mark-to-market shenanigans are leaving a capital crater. SVB has many valuable assets (people/relationships) that got caught in a classic bank run (using short-term financing to buy long-term assets). EVERYTHING hinges on what the regulators decide this weekend. My prediction is the Fed opens the discount window for all assets to provide short-term financing for all FDIC banks. Some entity will buy the carcass of SVB. (12 months ago, every banker wanted this bank. That&amp;rsquo;s still the case and SVB is now 75% off.) Peter Thiel hitting the button has set the wheels in motion. The &amp;ldquo;bad loans&amp;rdquo; will be shoved onto Uncle Sam, the best government money can buy. Play the cards you are dealt, not the ones you want.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">At my direction, &lt;a href="https://twitter.com/SecYellen?ref_src=twsrc%5Etfw">@SecYellen&lt;/a> and my National Economic Council Director worked with banking regulators to address problems at Silicon Valley Bank and Signature Bank.&lt;br>&lt;br>I’m pleased they reached a solution that protects workers, small businesses, taxpayers, and our financial system. &lt;a href="https://t.co/CxcdvLVP6l">https://t.co/CxcdvLVP6l&lt;/a>&lt;/p>&amp;mdash; President Biden (@POTUS) &lt;a href="https://twitter.com/POTUS/status/1635080376572956672?ref_src=twsrc%5Etfw">March 13, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Once again, it&amp;rsquo;s not just SVB, it&amp;rsquo;s the system that is being examined. A month ago, Brookfield Corp., parent of the largest office landlord in downtown Los Angeles, &lt;a href="https://archive.is/v4Ike">defaulted&lt;/a> on two office towers in DTLA. The news was ignored. Why are major asset players defaulting on mortgages on CRE? Negative carry. Raising capital at 7% to finance a 4% cap rate building is a losing trade. Brookfield is one of many entities that has levered up their CRE to pay their owners and buy other assets. This plan worked well in a 0% interest rate world, but not so much in the current environment. The question is, who owns the mortgages on these and many other half-filled CRE? Pension funds? Private equity? Insurance companies? Regional Banks? Wall Street? Time will tell. Economic iceberg dead ahead.&lt;/p>
+&lt;p>Bank runs, like war, are big business for the establishment. Never let a crisis go to waste.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/qAt7Rg1u2l8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>What created California, economically and politically, was actually constant support from the eastern web of American society, industry, and, especially, the federal government. The sheer geographical isolation of different parts of the state tends to obscure the elementary fact of its interrelatedness. The refusal to acknowledge this public interrelatedness, to insist on the determining value of the personal, the private, and the exceptional, has been California&amp;rsquo;s fragmenting delusion.&lt;/p>
+&lt;p>This assertion that California is a stronghold of urbanity and groundedness is contrary, even petulant. The national narrative of the West Coast &amp;ndash; what goes on there, what it means &amp;ndash; has been fashioned by editors and emissaries from the East Coast. But, where the East Coast press had decided that California once stood for futurism, beaches, lush life, and togetherness, now you find a California full of dusty houses, arid inland landscapes, fires and blackouts, dotcom bust 2.0, and social alienation.&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_151044.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I keep coming back to the San Joaquin Valley-grown Sonora Blanca. The wheat&amp;rsquo;s unique terroir and wonderful flavor profile linger in my mind.&lt;/p>
+&lt;p>The more I use it, the more special this wheat feels to me. Each kernel holds a universe of long-forgotten flavors. I think too many people are afraid to try new things with Sonora because of its commercial classification as a &amp;ldquo;soft&amp;rdquo; wheat, which is sad. Sonora has soooo much potential &amp;ndash; yet to be discovered. I&amp;rsquo;d use it for everything. &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">Wholegrain Sonora cookies&lt;/a> turned out absolutely scrumptious, and &lt;a href="https://breadbuster.github.io/posts/california-dreamin-4">wholegrain &lt;em>pan de sonora&lt;/em>&lt;/a> was equally delectable.&lt;/p>
+&lt;p>Baking, in my mind, is one of those &amp;ldquo;low-stakes&amp;rdquo; activities that require significantly less risk-taking than, say, starting a company. If it takes this much guts for bakers to try a new flour, then there&amp;rsquo;s no hope for this country.&lt;/p>
+&lt;p>I remember someone once told me the closest they got to winning the Hunger Games was when they spotted the last donut in the office kitchen. So I decided to make some wholegrain sourdough &lt;em>bomboloni&lt;/em> (Italian-style donuts).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_152238.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>These turned out, hands down, the best pumpkin donuts I&amp;rsquo;d ever made! With a handful of simple yet unexpected ingredients, you can turn your old-school pumpkin pie into crispy-fried perfection.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca flour, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>250g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt powder&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>whole milk&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>fresh carrot juice&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>roasted caramelized kabocha purée&lt;/td>
+&lt;td>50%&lt;/td>
+&lt;td>125g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>lievito madre&lt;/em>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>75g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>beurre noisette&lt;/em> (brown &lt;!-- raw HTML omitted -->butter&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->), softened&lt;/td>
+&lt;td>16%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>piloncillo oscuro&lt;/em>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, softened &amp;amp; chopped&lt;/td>
+&lt;td>12%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ground spices (cinnamon, allspice, ginger, cloves)&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>citrus zest&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>As &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">mentioned&lt;/a> a few weeks ago, I haven&amp;rsquo;t been using eggs due to the ongoing egg shortage. Feel free to use eggs instead of milk.&lt;/p>
+&lt;p>Kabocha is a squat and round hard squash with a dull green rind, but the inside hidden beneath that unassuming exterior is sweet, nutty, and delightfully starchy. The flavor of kabocha is a mix of sweet potato and pumpkin; the texture is drier and airier than butternut squash, which makes it perfect for &lt;a href="https://www.thespruceeats.com/kabocha-tempura-recipe-2031602">tempura&lt;/a>. Roasting kabocha is one of my favorite ways to enjoy it. Simply, cut kabocha into wedges, toss with some olive oil, and roast in a 400°F oven until tender and caramelized, about 25-30 minutes, to concentrate the squash&amp;rsquo;s texture and flavor. If you can&amp;rsquo;t find kabocha, substitute with 1/2 sweet potato and 1/2 hard winter squash (delicata, butternut, acorn, calabaza, Seminole, etc).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_150938.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Here goes the zen and the art of making soft and fluffy &lt;em>bomboloni&lt;/em>, which very much reminds me of making &lt;em>panettoni&lt;/em>:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Mix everything together into a stiff dough.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bulk ferment at 75°F for 6 hours. Fold once every 30 mins, 4 times in total.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Retard in the fridge for 12 hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divide into 10 pieces (~60g each), and shape into taut balls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof at 73°F for 12 hours until tripled in size.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heat a pot of coconut oil to 350°F-360°F; fry ~5 minutes on each side. You want both sides to be brown and crispy.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove from oil and let dry on a wire rack lined with paper towels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once cool (but still warm), coat in homemade cinnamon sugar. Fill with &lt;em>crema pasticciera&lt;/em>, if desired. They are delicious without filling, IMO.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_150718.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>bomboloni integrali di sonora blanca&lt;/em>: 100% wholegrain Sonora Blanca flour + caramelized kabocha purée + cinnamon sugar&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Typically, you need a strong bread flour to make these &lt;em>bomboloni&lt;/em>, but I&amp;rsquo;m quite surprised &amp;ndash; and pleased &amp;ndash; with how well these Sonora Blanca &lt;em>bomboloni integrali&lt;/em> have turned out!&lt;/p>
+&lt;p>The extended fermentation time give these &lt;em>bomboloni&lt;/em> a super fluffy, airy texture &amp;ndash; you won&amp;rsquo;t know it&amp;rsquo;s whole wheat!&lt;/p>
+&lt;p>&lt;em>Bomboloni&lt;/em> literally translates as &amp;ldquo;big bombs&amp;rdquo; &amp;ndash; a perfect name for these big round donuts and an apt moniker for the current era.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_151738.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>bomboloni integrali di sonora blanca&lt;/em>: yum!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>&lt;em>This is part 5 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>. If you enjoyed this, why not check out my other &lt;a href="https://breadbuster.github.io/archives/">breadstories&lt;/a> and spread the word?&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>I made my diastatic barley malt powder from unhulled malted barley, finely ground and unsifted.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>Whole wheat levain at 50% hydration; refreshed at least twice.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>Making brown butter at home is &lt;a href="https://food52.com/recipes/7234-beurre-noisette">super easy&lt;/a>. Just melt the butter and continue to cook over medium-low heat until it turns nutty brown.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Substitute with unrefined raw cane sugar or coconut sugar.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item></channel></rss>

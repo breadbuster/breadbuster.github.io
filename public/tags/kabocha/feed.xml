@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kabocha on HERESY LEVAIN</title><link>/tags/kabocha/</link><description>Latest experiments in kabocha from HERESY LEVAIN</description><language>en-us</language><copyright>© 2023 HERESY LEVAIN 🍞 CC BY-NC-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 23:07:37 +0000</lastBuildDate><atom:link href="/tags/kabocha/feed.xml" rel="self" type="application/rss+xml"/><item><title>California Dreamin' #5: Sonora Blanca</title><link>/posts/california-dreamin-5/</link><pubDate>Sun, 12 Mar 2023 23:07:37 +0000</pubDate><guid>/posts/california-dreamin-5/</guid><description>[California Grain Adventure #5] Sonora Blanca coma: 30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour, &lt;em>beurre noisette&lt;/em>, caramelized kabocha purée, and cinnamon sugar. Decadent, melt-in-your-mouth creamy, one-of-a-kind pumpkin donuts. The bomb diggity.</description><content>&lt;p>&lt;em>This is part 5 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Californians invented the concept of life-style. This alone warrants their doom.&lt;/p>
+&lt;ul>
+&lt;li>Don DeLillo, &lt;em>White Noise&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Virginia Postrel&amp;rsquo;s book, &lt;em>The Power of Glamour&lt;/em>, highlights California as a particularly glamorous icon. It has always attracted some of the most ambitious, gifted, and can-do people in the world. But for all the innovations of Silicon Valley and Hollywood, northern California&amp;rsquo;s NIMBYism is paradoxically antithetical to a culture that embraces change and risk. The local governments don&amp;rsquo;t seem so can-do, either. Longtime residents and Uber drivers are eager to tell you how their city &lt;a href="https://www.nytimes.com/2023/02/26/opinion/san-francisco-democrats-board-of-supervisors.html">isn&amp;rsquo;t what it once was&lt;/a>.&lt;/p>
+&lt;p>Despite all the media blitz, maybe Silicon Valley is imprinted with more of the East Coast finance culture than the techies would like to admit.&lt;/p>
+&lt;p>On Friday (10 March 2023), the 16th largest commercial bank in the US, a S&amp;amp;P 500 component, and $209 billion in assets got &lt;a href="https://www.cbsnews.com/news/silicon-valley-bank-sivb-stock-fdic-cbs-explains/">wiped out&lt;/a> overnight.&lt;/p>
+&lt;blockquote>
+&lt;p>California regulators on Friday abruptly shuttered Silicon Valley Bank, closing a 40-year-old financial institution that catered to the tech industry and that was the 16th largest U.S. bank before its sudden collapse. The company&amp;rsquo;s stock tumbled 60% on Thursday and had plunged another 70% on Friday before trading of its shares was halted.&lt;/p>
+&lt;p>The nosedive reflected fears of a bank run, concerns that materialized as depositors &amp;ndash; mostly technology company workers and venture capital-backed companies &amp;ndash; rushed to withdraw money this week as anxiety over the bank&amp;rsquo;s balance sheet spread.&lt;/p>
+&lt;p>Regulators stepped in to take control, with the California Department of Financial Protection and Innovation closing the bank and appointing the Federal Deposit Insurance Corporation (FDIC) as receiver. It&amp;rsquo;s the largest failure of a financial institution since Washington Mutual in 2008 at the height of the financial crisis more than a decade ago.&lt;/p>
+&lt;/blockquote>
+&lt;p>Two things were happening on Wall Street this weekend: Junior analysts were watching &lt;em>&lt;a href="https://www.imdb.com/title/tt0038650/">It&amp;rsquo;s a Wonderful Life&lt;/a>&lt;/em> to see what a good old-fashioned bank run looks like; mid-level analysts were hammering the F9 key to see what higher &lt;a href="https://www.investopedia.com/terms/w/wacc.asp">weighted average cost of capital&lt;/a> (WACC) was doing to valuations.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/EOzMdEwYmDU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Nearly every major US bank has mark-to-market losses on its held-to-maturity (HTM) Treasury bond portfolio. For Wells Fargo, it&amp;rsquo;s ~20%. For Bank of America, it&amp;rsquo;s closer to 40%. For Silicon Valley Bank, those losses exceeded total equity.&lt;/p>
+&lt;p>SVB is a unique outlier &amp;ndash; it made terrible decisions that were several orders of magnitude worse than other banks. The truly unique feature of SVB was its deposit profile, instead of its investment profile. Because SVB was not a retail bank, but rather a corporate bank focused on serving startups and VCs, the vast majority of its deposit accounts were corporate in nature and well above the FDIC-insured limits of $250k. (If that sounds like an extreme amount to you, then you don&amp;rsquo;t realize America is inundated with millionaires and billionaires &amp;ndash; thanks to their real estate holdings, if nothing else. SVB had almost no insured deposits. It was literally a bank for millionaires and billionaires, who are called &amp;ldquo;oligarchs&amp;rdquo; in Russia.) As news began to percolate that SVB was raising equity capital to offset losses in a HTM portfolio, VCs and startups scampered away at the first sign of trouble.&lt;/p>
+&lt;p>Risk happens slowly, then all at once. Deposit outflows from SVB likely hit full stride on Friday, with Peter Thiel&amp;rsquo;s Founders Fund calling for VCs to pull their money out. Nothing like biting the hand that feeds you. Nowadays one tweet is all it takes to trigger a &amp;ldquo;bank run.&amp;rdquo; On Saturday, desperate customers &lt;a href="https://www.dailymail.co.uk/news/article-11849049/Customers-line-outside-Republic-Bank-money-SVB-bank-collapsed.html">lined up outside First Republic Bank&lt;/a> in southern California to take their money out.&lt;/p>
+&lt;blockquote>
+&lt;p>California Gov. Gavin Newsom said Saturday that he&amp;rsquo;s talking with the White House to help &amp;ldquo;stabilize the situation as quickly as possible, to protect jobs, people&amp;rsquo;s livelihoods, and the entire innovation ecosystem that has served as a &lt;em>tent pole&lt;/em> for our economy.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>A &lt;em>tent pole&lt;/em> is a fragile skeleton. If it breaks, your tent may wobble, flap or completely collapse.&lt;/p>
+&lt;p>To anyone who works in or follows tech, SVB is &lt;em>not&lt;/em> &amp;ldquo;a little-known California bank&amp;rdquo; as portrayed by East Coast mainstream media. It&amp;rsquo;s &lt;em>the go-to bank&lt;/em> for US tech startups &amp;ndash; it provided funding to &lt;a href="https://www.svb.com/venture-funded">44%&lt;/a> of all VC-backed tech and healthcare companies that publicly listed on a stock exchange last year.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">In a deep sense — though not a legal sense — what SVB actually did was a kind of affinity fraud a la Madoff. It managed to convince the VC/startup/crypto etc world that it was one of them, part of their community, and hence trustworthy 5/&lt;/p>&amp;mdash; Paul Krugman (@paulkrugman) &lt;a href="https://twitter.com/paulkrugman/status/1634911360227201025?ref_src=twsrc%5Etfw">March 12, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>And when it comes to money, people aren&amp;rsquo;t concerned with getting Covid&amp;hellip; FWIW, yesterday marked the 3-year anniversary of the official declaration of the &amp;ldquo;COVID-19 Pandemic.&amp;rdquo;&lt;/p>
+&lt;p>The sophisticated investors, those with far in excess of $250k and saw the writing on the wall ahead of the crowd, began pulling their money from SVB weeks ago. Which means the bank had to have the cash to pay them. Which means the bank had to sell assets to raise the cash. And if the assets are long-duration bonds with rising yields, they had to be liquidated at a loss. SVB lost ~$2 billion trying to meet withdrawals.&lt;/p>
+&lt;p>But it still wasn&amp;rsquo;t enough. The bank collapsed. The government took it over. Which means if you had &amp;lt;$250k in your account, you are good. If you had more&amp;hellip;you get a piece of paper saying you will hopefully get 100% back, but it depends on the liquidation of the bank. During the 2008-2009 financial crisis, with IndyMac, you got 50 cents on the dollar.&lt;/p>
+&lt;p>That&amp;rsquo;s why people were rushing to those non-diversified banks like First Republic to get their money out ASAP.&lt;/p>
+&lt;blockquote>
+&lt;p>When the tide goes out, you find out who is swimming naked.&lt;/p>
+&lt;/blockquote>
+&lt;p>Bill.com had to come out and assure investors that its banking relationship with SVB is easily replaceable. Roku held ~$487 million, or ~26%, of its $1.9 billion cash and cash equivalents at SVB, and most of its deposits with the bank are &lt;em>uninsured&lt;/em>. Toronto-based AcuityAds Holding held &amp;gt;90% of its deposits (USD $55 million) in SVB. BlockFi also had $227 million with SVB, but it&amp;rsquo;s &lt;em>not FDIC-insured&lt;/em> because it was in a money market mutual fund. Business continuity concerns are high for many companies exposed to SVB, which will cause reverberations across sectors.&lt;/p>
+&lt;p>A lot of analogies to Long-Term Capital Management (LTCM) and even Bear Stearns are being made. If SVB wants to have a chance to be remembered as &amp;ldquo;fondly&amp;rdquo; as those, it will take more than a 2-day SPX decline of 3.3%. No movie is made about little blips.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">The failure of &lt;a href="https://twitter.com/SVB_Financial?ref_src=twsrc%5Etfw">@SVB_Financial&lt;/a> could destroy an important long-term driver of the economy as VC-backed companies rely on SVB for loans and holding their operating cash. If private capital can’t provide a solution, a highly dilutive gov’t preferred bailout should be considered.&lt;/p>&amp;mdash; Bill Ackman (@BillAckman) &lt;a href="https://twitter.com/BillAckman/status/1634028534107602944?ref_src=twsrc%5Etfw">March 10, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Is SVB as important to the national financial plumbing as Bank of America? Not even close. Is this another Lehman or Bear Stearns? Absolutely not. But still, to think this massive banking entity exists in a vacuum with no implications for the rest of the economy is naive. There will be ripple effects.&lt;/p>
+&lt;p>The odds of your local bank failing, which is probably a national bank anyway, are low, but once consumer &lt;em>con&lt;/em>fidence fades&amp;hellip;you have no idea what might happen. Western banks and financial markets are already fragile, and psychology is fracturing. Pile on deteriorating asset quality from emerging markets and toxic CRE exposures&amp;hellip;&lt;/p>
+&lt;p>You can&amp;rsquo;t count on anyone but yourself these days. And be wary of listening to your friends or people you run into. Most people are not sophisticated, and full of sh*t anyway. They want to make themselves look good; some are &lt;em>con&lt;/em>fident salesmen&amp;hellip;.&lt;/p>
+&lt;p>We live in an information economy, which means those with the most information win. It&amp;rsquo;s true in each and every business. After all, the executives at SVB got paid, as always. As for the depositors&amp;hellip;the savvy ones with the most information got their money out. The rest?&lt;/p>
+&lt;p>Silicon Valley appears to be great at massive differential equations, but has difficulty balancing a check book. Probably because they do not know what a check book is.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">How financially innumerate is Silicon Valley…?! The FDIC has already indicated that uninsured depositors will be receiving substantial proceeds(50%)as early as tomorrow. Shouldn’t that be enough for one payroll? &lt;a href="https://t.co/3VJxuXPvbi">https://t.co/3VJxuXPvbi&lt;/a>&lt;/p>&amp;mdash; Diogenes (@WallStCynic) &lt;a href="https://twitter.com/WallStCynic/status/1634948491704434688?ref_src=twsrc%5Etfw">March 12, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Now the biggest question: Is the SVB failure another isolated / non-systemic / contained event?&lt;/p>
+&lt;p>History is the poet that loves to rhyme. FTX was the spark that lit the fuse.&lt;/p>
+&lt;p>~24 hours earlier, Silvergate Bank, a cornerstone in the crypto world, &lt;a href="https://www.theverge.com/2023/3/8/23631320/silvergate-wind-down-liquidiation-announcement">announced it would shut down&lt;/a> &amp;ldquo;in light of recent industry and regulatory developments.&amp;rdquo; Signature Bank, another key crypto bank with more than $110 billion in assets, &lt;a href="https://www.reuters.com/business/finance/new-york-state-regulators-close-signature-bank-2023-03-12/">crashed this morning&lt;/a>. The second &lt;em>and&lt;/em> third largest bank failures in US history, after Washington Mutual in 2008, happened in the span of 48 hours.&lt;/p>
+&lt;p>Bank liquidity is front and center, and mark-to-market shenanigans are leaving a capital crater. SVB has many valuable assets (people/relationships) that got caught in a classic bank run (using short-term financing to buy long-term assets). EVERYTHING hinges on what the regulators decide this weekend. My prediction is the Fed opens the discount window for all assets to provide short-term financing for all FDIC banks. Some entity will buy the carcass of SVB. (12 months ago, every banker wanted this bank. That&amp;rsquo;s still the case and SVB is now 75% off.) Peter Thiel hitting the button has set the wheels in motion. The &amp;ldquo;bad loans&amp;rdquo; will be shoved onto Uncle Sam, the best government money can buy. Play the cards you are dealt, not the ones you want.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">At my direction, &lt;a href="https://twitter.com/SecYellen?ref_src=twsrc%5Etfw">@SecYellen&lt;/a> and my National Economic Council Director worked with banking regulators to address problems at Silicon Valley Bank and Signature Bank.&lt;br>&lt;br>I’m pleased they reached a solution that protects workers, small businesses, taxpayers, and our financial system. &lt;a href="https://t.co/CxcdvLVP6l">https://t.co/CxcdvLVP6l&lt;/a>&lt;/p>&amp;mdash; President Biden (@POTUS) &lt;a href="https://twitter.com/POTUS/status/1635080376572956672?ref_src=twsrc%5Etfw">March 13, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Once again, it&amp;rsquo;s not just SVB, it&amp;rsquo;s the system that is being examined. A month ago, Brookfield Corp., parent of the largest office landlord in downtown Los Angeles, &lt;a href="https://archive.is/v4Ike">defaulted&lt;/a> on two office towers in DTLA. The news was ignored. Why are major asset players defaulting on mortgages on CRE? Negative carry. Raising capital at 7% to finance a 4% cap rate building is a losing trade. Brookfield is one of many entities that has levered up their CRE to pay their owners and buy other assets. This plan worked well in a 0% interest rate world, but not so much in the current environment. The question is, who owns the mortgages on these and many other half-filled CRE? Pension funds? Private equity? Insurance companies? Regional Banks? Wall Street? Time will tell. Economic iceberg dead ahead.&lt;/p>
+&lt;p>Bank runs, like war, are big business for the establishment. Never let a crisis go to waste.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/qAt7Rg1u2l8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>What created California, economically and politically, was actually constant support from the eastern web of American society, industry, and, especially, the federal government. The sheer geographical isolation of different parts of the state tends to obscure the elementary fact of its interrelatedness. The refusal to acknowledge this public interrelatedness, to insist on the determining value of the personal, the private, and the exceptional, has been California&amp;rsquo;s fragmenting delusion.&lt;/p>
+&lt;p>This assertion that California is a stronghold of urbanity and groundedness is contrary, even petulant. The national narrative of the West Coast &amp;ndash; what goes on there, what it means &amp;ndash; has been fashioned by editors and emissaries from the East Coast. But, where the East Coast press had decided that California once stood for futurism, beaches, lush life, and togetherness, now you find a California full of dusty houses, arid inland landscapes, fires and blackouts, dotcom bust 2.0, and social alienation.&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_151044.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I keep coming back to the San Joaquin Valley-grown Sonora Blanca. The wheat&amp;rsquo;s unique terroir and wonderful flavor profile linger in my mind.&lt;/p>
+&lt;p>The more I use it, the more special this wheat feels to me. Each kernel holds a universe of long-forgotten flavors. I think too many people are afraid to try new things with Sonora because of its commercial classification as a &amp;ldquo;soft&amp;rdquo; wheat, which is sad. Sonora has soooo much potential &amp;ndash; yet to be discovered. I&amp;rsquo;d use it for everything. &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">Wholegrain Sonora cookies&lt;/a> turned out absolutely scrumptious, and &lt;a href="https://breadbuster.github.io/posts/california-dreamin-4">wholegrain &lt;em>pan de sonora&lt;/em>&lt;/a> was equally delectable.&lt;/p>
+&lt;p>Baking, in my mind, is one of those &amp;ldquo;low-stakes&amp;rdquo; activities that require significantly less risk-taking than, say, starting a company. If it takes this much guts for bakers to try a new flour, then there&amp;rsquo;s no hope for this country.&lt;/p>
+&lt;p>I remember someone once told me the closest they got to winning the Hunger Games was when they spotted the last donut in the office kitchen. So I decided to make some wholegrain sourdough &lt;em>bomboloni&lt;/em> (Italian-style donuts).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_152238.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>These turned out, hands down, the best pumpkin donuts I&amp;rsquo;d ever made! With a handful of simple yet unexpected ingredients, you can turn your old-school pumpkin pie into crispy-fried perfection.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca flour, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>250g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt powder&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>whole milk&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>fresh carrot juice&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>roasted caramelized kabocha purée&lt;/td>
+&lt;td>50%&lt;/td>
+&lt;td>125g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>lievito madre&lt;/em>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>75g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>beurre noisette&lt;/em> (brown &lt;!-- raw HTML omitted -->butter&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->), softened&lt;/td>
+&lt;td>16%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>piloncillo oscuro&lt;/em>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, softened &amp;amp; chopped&lt;/td>
+&lt;td>12%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ground spices (cinnamon, allspice, ginger, cloves)&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>citrus zest&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>As &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">mentioned&lt;/a> a few weeks ago, I haven&amp;rsquo;t been using eggs due to the ongoing egg shortage. Feel free to use eggs instead of milk.&lt;/p>
+&lt;p>Kabocha is a squat and round hard squash with a dull green rind, but the inside hidden beneath that unassuming exterior is sweet, nutty, and delightfully starchy. The flavor of kabocha is a mix of sweet potato and pumpkin; the texture is drier and airier than butternut squash, which makes it perfect for &lt;a href="https://www.thespruceeats.com/kabocha-tempura-recipe-2031602">tempura&lt;/a>. Roasting kabocha is one of my favorite ways to enjoy it. Simply, cut kabocha into wedges, toss with some olive oil, and roast in a 400°F oven until tender and caramelized, about 25-30 minutes, to concentrate the squash&amp;rsquo;s texture and flavor. If you can&amp;rsquo;t find kabocha, substitute with 1/2 sweet potato and 1/2 hard winter squash (delicata, butternut, acorn, calabaza, Seminole, etc).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_150938.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Here goes the zen and the art of making soft and fluffy &lt;em>bomboloni&lt;/em>, which very much reminds me of making &lt;em>panettoni&lt;/em>:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Mix everything together into a stiff dough.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bulk ferment at 75°F for 6 hours. Fold once every 30 mins, 4 times in total.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Retard in the fridge for 12 hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divide into 10 pieces (~60g each), and shape into taut balls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof at 73°F for 12 hours until tripled in size.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heat a pot of coconut oil to 350°F-360°F; fry ~5 minutes on each side. You want both sides to be brown and crispy.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove from oil and let dry on a wire rack lined with paper towels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once cool (but still warm), coat in homemade cinnamon sugar. Fill with &lt;em>crema pasticciera&lt;/em>, if desired. They are delicious without filling, IMO.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_150718.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>bomboloni integrali di sonora blanca&lt;/em>: 100% wholegrain Sonora Blanca flour + caramelized kabocha purée + cinnamon sugar&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Typically, you need a strong bread flour to make these &lt;em>bomboloni&lt;/em>, but I&amp;rsquo;m quite surprised &amp;ndash; and pleased &amp;ndash; with how well these Sonora Blanca &lt;em>bomboloni integrali&lt;/em> have turned out!&lt;/p>
+&lt;p>The extended fermentation time give these &lt;em>bomboloni&lt;/em> a super fluffy, airy texture &amp;ndash; you won&amp;rsquo;t know it&amp;rsquo;s whole wheat!&lt;/p>
+&lt;p>&lt;em>Bomboloni&lt;/em> literally translates as &amp;ldquo;big bombs&amp;rdquo; &amp;ndash; a perfect name for these big round donuts and an apt moniker for the current era.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_151738.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>bomboloni integrali di sonora blanca&lt;/em>: yum!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>&lt;em>This is part 5 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>. If you enjoyed this, why not check out my other &lt;a href="https://breadbuster.github.io/archives/">breadstories&lt;/a> and spread the word?&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>I made my diastatic barley malt powder from unhulled malted barley, finely ground and unsifted.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>Whole wheat levain at 50% hydration; refreshed at least twice.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>Making brown butter at home is &lt;a href="https://food52.com/recipes/7234-beurre-noisette">super easy&lt;/a>. Just melt the butter and continue to cook over medium-low heat until it turns nutty brown.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Substitute with unrefined raw cane sugar or coconut sugar.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item></channel></rss>

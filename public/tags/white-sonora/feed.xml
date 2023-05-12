@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>white sonora on HERESY LEVAIN</title><link>/tags/white-sonora/</link><description>Latest experiments in white sonora from HERESY LEVAIN</description><language>en-us</language><copyright>© 2023 HERESY LEVAIN 🍞 CC BY-NC-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 23:07:37 +0000</lastBuildDate><atom:link href="/tags/white-sonora/feed.xml" rel="self" type="application/rss+xml"/><item><title>California Dreamin' #5: Sonora Blanca</title><link>/posts/california-dreamin-5/</link><pubDate>Sun, 12 Mar 2023 23:07:37 +0000</pubDate><guid>/posts/california-dreamin-5/</guid><description>[California Grain Adventure #5] Sonora Blanca coma: 30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour, &lt;em>beurre noisette&lt;/em>, caramelized kabocha purée, and cinnamon sugar. Decadent, melt-in-your-mouth creamy, one-of-a-kind pumpkin donuts. The bomb diggity.</description><content>&lt;p>&lt;em>This is part 5 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Californians invented the concept of life-style. This alone warrants their doom.&lt;/p>
+&lt;ul>
+&lt;li>Don DeLillo, &lt;em>White Noise&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Virginia Postrel&amp;rsquo;s book, &lt;em>The Power of Glamour&lt;/em>, highlights California as a particularly glamorous icon. It has always attracted some of the most ambitious, gifted, and can-do people in the world. But for all the innovations of Silicon Valley and Hollywood, northern California&amp;rsquo;s NIMBYism is paradoxically antithetical to a culture that embraces change and risk. The local governments don&amp;rsquo;t seem so can-do, either. Longtime residents and Uber drivers are eager to tell you how their city &lt;a href="https://www.nytimes.com/2023/02/26/opinion/san-francisco-democrats-board-of-supervisors.html">isn&amp;rsquo;t what it once was&lt;/a>.&lt;/p>
+&lt;p>Despite all the media blitz, maybe Silicon Valley is imprinted with more of the East Coast finance culture than the techies would like to admit.&lt;/p>
+&lt;p>On Friday (10 March 2023), the 16th largest commercial bank in the US, a S&amp;amp;P 500 component, and $209 billion in assets got &lt;a href="https://www.cbsnews.com/news/silicon-valley-bank-sivb-stock-fdic-cbs-explains/">wiped out&lt;/a> overnight.&lt;/p>
+&lt;blockquote>
+&lt;p>California regulators on Friday abruptly shuttered Silicon Valley Bank, closing a 40-year-old financial institution that catered to the tech industry and that was the 16th largest U.S. bank before its sudden collapse. The company&amp;rsquo;s stock tumbled 60% on Thursday and had plunged another 70% on Friday before trading of its shares was halted.&lt;/p>
+&lt;p>The nosedive reflected fears of a bank run, concerns that materialized as depositors &amp;ndash; mostly technology company workers and venture capital-backed companies &amp;ndash; rushed to withdraw money this week as anxiety over the bank&amp;rsquo;s balance sheet spread.&lt;/p>
+&lt;p>Regulators stepped in to take control, with the California Department of Financial Protection and Innovation closing the bank and appointing the Federal Deposit Insurance Corporation (FDIC) as receiver. It&amp;rsquo;s the largest failure of a financial institution since Washington Mutual in 2008 at the height of the financial crisis more than a decade ago.&lt;/p>
+&lt;/blockquote>
+&lt;p>Two things were happening on Wall Street this weekend: Junior analysts were watching &lt;em>&lt;a href="https://www.imdb.com/title/tt0038650/">It&amp;rsquo;s a Wonderful Life&lt;/a>&lt;/em> to see what a good old-fashioned bank run looks like; mid-level analysts were hammering the F9 key to see what higher &lt;a href="https://www.investopedia.com/terms/w/wacc.asp">weighted average cost of capital&lt;/a> (WACC) was doing to valuations.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/EOzMdEwYmDU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Nearly every major US bank has mark-to-market losses on its held-to-maturity (HTM) Treasury bond portfolio. For Wells Fargo, it&amp;rsquo;s ~20%. For Bank of America, it&amp;rsquo;s closer to 40%. For Silicon Valley Bank, those losses exceeded total equity.&lt;/p>
+&lt;p>SVB is a unique outlier &amp;ndash; it made terrible decisions that were several orders of magnitude worse than other banks. The truly unique feature of SVB was its deposit profile, instead of its investment profile. Because SVB was not a retail bank, but rather a corporate bank focused on serving startups and VCs, the vast majority of its deposit accounts were corporate in nature and well above the FDIC-insured limits of $250k. (If that sounds like an extreme amount to you, then you don&amp;rsquo;t realize America is inundated with millionaires and billionaires &amp;ndash; thanks to their real estate holdings, if nothing else. SVB had almost no insured deposits. It was literally a bank for millionaires and billionaires, who are called &amp;ldquo;oligarchs&amp;rdquo; in Russia.) As news began to percolate that SVB was raising equity capital to offset losses in a HTM portfolio, VCs and startups scampered away at the first sign of trouble.&lt;/p>
+&lt;p>Risk happens slowly, then all at once. Deposit outflows from SVB likely hit full stride on Friday, with Peter Thiel&amp;rsquo;s Founders Fund calling for VCs to pull their money out. Nothing like biting the hand that feeds you. Nowadays one tweet is all it takes to trigger a &amp;ldquo;bank run.&amp;rdquo; On Saturday, desperate customers &lt;a href="https://www.dailymail.co.uk/news/article-11849049/Customers-line-outside-Republic-Bank-money-SVB-bank-collapsed.html">lined up outside First Republic Bank&lt;/a> in southern California to take their money out.&lt;/p>
+&lt;blockquote>
+&lt;p>California Gov. Gavin Newsom said Saturday that he&amp;rsquo;s talking with the White House to help &amp;ldquo;stabilize the situation as quickly as possible, to protect jobs, people&amp;rsquo;s livelihoods, and the entire innovation ecosystem that has served as a &lt;em>tent pole&lt;/em> for our economy.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>A &lt;em>tent pole&lt;/em> is a fragile skeleton. If it breaks, your tent may wobble, flap or completely collapse.&lt;/p>
+&lt;p>To anyone who works in or follows tech, SVB is &lt;em>not&lt;/em> &amp;ldquo;a little-known California bank&amp;rdquo; as portrayed by East Coast mainstream media. It&amp;rsquo;s &lt;em>the go-to bank&lt;/em> for US tech startups &amp;ndash; it provided funding to &lt;a href="https://www.svb.com/venture-funded">44%&lt;/a> of all VC-backed tech and healthcare companies that publicly listed on a stock exchange last year.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">In a deep sense — though not a legal sense — what SVB actually did was a kind of affinity fraud a la Madoff. It managed to convince the VC/startup/crypto etc world that it was one of them, part of their community, and hence trustworthy 5/&lt;/p>&amp;mdash; Paul Krugman (@paulkrugman) &lt;a href="https://twitter.com/paulkrugman/status/1634911360227201025?ref_src=twsrc%5Etfw">March 12, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>And when it comes to money, people aren&amp;rsquo;t concerned with getting Covid&amp;hellip; FWIW, yesterday marked the 3-year anniversary of the official declaration of the &amp;ldquo;COVID-19 Pandemic.&amp;rdquo;&lt;/p>
+&lt;p>The sophisticated investors, those with far in excess of $250k and saw the writing on the wall ahead of the crowd, began pulling their money from SVB weeks ago. Which means the bank had to have the cash to pay them. Which means the bank had to sell assets to raise the cash. And if the assets are long-duration bonds with rising yields, they had to be liquidated at a loss. SVB lost ~$2 billion trying to meet withdrawals.&lt;/p>
+&lt;p>But it still wasn&amp;rsquo;t enough. The bank collapsed. The government took it over. Which means if you had &amp;lt;$250k in your account, you are good. If you had more&amp;hellip;you get a piece of paper saying you will hopefully get 100% back, but it depends on the liquidation of the bank. During the 2008-2009 financial crisis, with IndyMac, you got 50 cents on the dollar.&lt;/p>
+&lt;p>That&amp;rsquo;s why people were rushing to those non-diversified banks like First Republic to get their money out ASAP.&lt;/p>
+&lt;blockquote>
+&lt;p>When the tide goes out, you find out who is swimming naked.&lt;/p>
+&lt;/blockquote>
+&lt;p>Bill.com had to come out and assure investors that its banking relationship with SVB is easily replaceable. Roku held ~$487 million, or ~26%, of its $1.9 billion cash and cash equivalents at SVB, and most of its deposits with the bank are &lt;em>uninsured&lt;/em>. Toronto-based AcuityAds Holding held &amp;gt;90% of its deposits (USD $55 million) in SVB. BlockFi also had $227 million with SVB, but it&amp;rsquo;s &lt;em>not FDIC-insured&lt;/em> because it was in a money market mutual fund. Business continuity concerns are high for many companies exposed to SVB, which will cause reverberations across sectors.&lt;/p>
+&lt;p>A lot of analogies to Long-Term Capital Management (LTCM) and even Bear Stearns are being made. If SVB wants to have a chance to be remembered as &amp;ldquo;fondly&amp;rdquo; as those, it will take more than a 2-day SPX decline of 3.3%. No movie is made about little blips.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">The failure of &lt;a href="https://twitter.com/SVB_Financial?ref_src=twsrc%5Etfw">@SVB_Financial&lt;/a> could destroy an important long-term driver of the economy as VC-backed companies rely on SVB for loans and holding their operating cash. If private capital can’t provide a solution, a highly dilutive gov’t preferred bailout should be considered.&lt;/p>&amp;mdash; Bill Ackman (@BillAckman) &lt;a href="https://twitter.com/BillAckman/status/1634028534107602944?ref_src=twsrc%5Etfw">March 10, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Is SVB as important to the national financial plumbing as Bank of America? Not even close. Is this another Lehman or Bear Stearns? Absolutely not. But still, to think this massive banking entity exists in a vacuum with no implications for the rest of the economy is naive. There will be ripple effects.&lt;/p>
+&lt;p>The odds of your local bank failing, which is probably a national bank anyway, are low, but once consumer &lt;em>con&lt;/em>fidence fades&amp;hellip;you have no idea what might happen. Western banks and financial markets are already fragile, and psychology is fracturing. Pile on deteriorating asset quality from emerging markets and toxic CRE exposures&amp;hellip;&lt;/p>
+&lt;p>You can&amp;rsquo;t count on anyone but yourself these days. And be wary of listening to your friends or people you run into. Most people are not sophisticated, and full of sh*t anyway. They want to make themselves look good; some are &lt;em>con&lt;/em>fident salesmen&amp;hellip;.&lt;/p>
+&lt;p>We live in an information economy, which means those with the most information win. It&amp;rsquo;s true in each and every business. After all, the executives at SVB got paid, as always. As for the depositors&amp;hellip;the savvy ones with the most information got their money out. The rest?&lt;/p>
+&lt;p>Silicon Valley appears to be great at massive differential equations, but has difficulty balancing a check book. Probably because they do not know what a check book is.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">How financially innumerate is Silicon Valley…?! The FDIC has already indicated that uninsured depositors will be receiving substantial proceeds(50%)as early as tomorrow. Shouldn’t that be enough for one payroll? &lt;a href="https://t.co/3VJxuXPvbi">https://t.co/3VJxuXPvbi&lt;/a>&lt;/p>&amp;mdash; Diogenes (@WallStCynic) &lt;a href="https://twitter.com/WallStCynic/status/1634948491704434688?ref_src=twsrc%5Etfw">March 12, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Now the biggest question: Is the SVB failure another isolated / non-systemic / contained event?&lt;/p>
+&lt;p>History is the poet that loves to rhyme. FTX was the spark that lit the fuse.&lt;/p>
+&lt;p>~24 hours earlier, Silvergate Bank, a cornerstone in the crypto world, &lt;a href="https://www.theverge.com/2023/3/8/23631320/silvergate-wind-down-liquidiation-announcement">announced it would shut down&lt;/a> &amp;ldquo;in light of recent industry and regulatory developments.&amp;rdquo; Signature Bank, another key crypto bank with more than $110 billion in assets, &lt;a href="https://www.reuters.com/business/finance/new-york-state-regulators-close-signature-bank-2023-03-12/">crashed this morning&lt;/a>. The second &lt;em>and&lt;/em> third largest bank failures in US history, after Washington Mutual in 2008, happened in the span of 48 hours.&lt;/p>
+&lt;p>Bank liquidity is front and center, and mark-to-market shenanigans are leaving a capital crater. SVB has many valuable assets (people/relationships) that got caught in a classic bank run (using short-term financing to buy long-term assets). EVERYTHING hinges on what the regulators decide this weekend. My prediction is the Fed opens the discount window for all assets to provide short-term financing for all FDIC banks. Some entity will buy the carcass of SVB. (12 months ago, every banker wanted this bank. That&amp;rsquo;s still the case and SVB is now 75% off.) Peter Thiel hitting the button has set the wheels in motion. The &amp;ldquo;bad loans&amp;rdquo; will be shoved onto Uncle Sam, the best government money can buy. Play the cards you are dealt, not the ones you want.&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">At my direction, &lt;a href="https://twitter.com/SecYellen?ref_src=twsrc%5Etfw">@SecYellen&lt;/a> and my National Economic Council Director worked with banking regulators to address problems at Silicon Valley Bank and Signature Bank.&lt;br>&lt;br>I’m pleased they reached a solution that protects workers, small businesses, taxpayers, and our financial system. &lt;a href="https://t.co/CxcdvLVP6l">https://t.co/CxcdvLVP6l&lt;/a>&lt;/p>&amp;mdash; President Biden (@POTUS) &lt;a href="https://twitter.com/POTUS/status/1635080376572956672?ref_src=twsrc%5Etfw">March 13, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Once again, it&amp;rsquo;s not just SVB, it&amp;rsquo;s the system that is being examined. A month ago, Brookfield Corp., parent of the largest office landlord in downtown Los Angeles, &lt;a href="https://archive.is/v4Ike">defaulted&lt;/a> on two office towers in DTLA. The news was ignored. Why are major asset players defaulting on mortgages on CRE? Negative carry. Raising capital at 7% to finance a 4% cap rate building is a losing trade. Brookfield is one of many entities that has levered up their CRE to pay their owners and buy other assets. This plan worked well in a 0% interest rate world, but not so much in the current environment. The question is, who owns the mortgages on these and many other half-filled CRE? Pension funds? Private equity? Insurance companies? Regional Banks? Wall Street? Time will tell. Economic iceberg dead ahead.&lt;/p>
+&lt;p>Bank runs, like war, are big business for the establishment. Never let a crisis go to waste.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/qAt7Rg1u2l8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>What created California, economically and politically, was actually constant support from the eastern web of American society, industry, and, especially, the federal government. The sheer geographical isolation of different parts of the state tends to obscure the elementary fact of its interrelatedness. The refusal to acknowledge this public interrelatedness, to insist on the determining value of the personal, the private, and the exceptional, has been California&amp;rsquo;s fragmenting delusion.&lt;/p>
+&lt;p>This assertion that California is a stronghold of urbanity and groundedness is contrary, even petulant. The national narrative of the West Coast &amp;ndash; what goes on there, what it means &amp;ndash; has been fashioned by editors and emissaries from the East Coast. But, where the East Coast press had decided that California once stood for futurism, beaches, lush life, and togetherness, now you find a California full of dusty houses, arid inland landscapes, fires and blackouts, dotcom bust 2.0, and social alienation.&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_151044.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I keep coming back to the San Joaquin Valley-grown Sonora Blanca. The wheat&amp;rsquo;s unique terroir and wonderful flavor profile linger in my mind.&lt;/p>
+&lt;p>The more I use it, the more special this wheat feels to me. Each kernel holds a universe of long-forgotten flavors. I think too many people are afraid to try new things with Sonora because of its commercial classification as a &amp;ldquo;soft&amp;rdquo; wheat, which is sad. Sonora has soooo much potential &amp;ndash; yet to be discovered. I&amp;rsquo;d use it for everything. &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">Wholegrain Sonora cookies&lt;/a> turned out absolutely scrumptious, and &lt;a href="https://breadbuster.github.io/posts/california-dreamin-4">wholegrain &lt;em>pan de sonora&lt;/em>&lt;/a> was equally delectable.&lt;/p>
+&lt;p>Baking, in my mind, is one of those &amp;ldquo;low-stakes&amp;rdquo; activities that require significantly less risk-taking than, say, starting a company. If it takes this much guts for bakers to try a new flour, then there&amp;rsquo;s no hope for this country.&lt;/p>
+&lt;p>I remember someone once told me the closest they got to winning the Hunger Games was when they spotted the last donut in the office kitchen. So I decided to make some wholegrain sourdough &lt;em>bomboloni&lt;/em> (Italian-style donuts).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_152238.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>These turned out, hands down, the best pumpkin donuts I&amp;rsquo;d ever made! With a handful of simple yet unexpected ingredients, you can turn your old-school pumpkin pie into crispy-fried perfection.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca flour, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>250g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt powder&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>whole milk&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>fresh carrot juice&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>roasted caramelized kabocha purée&lt;/td>
+&lt;td>50%&lt;/td>
+&lt;td>125g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>lievito madre&lt;/em>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>75g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>beurre noisette&lt;/em> (brown &lt;!-- raw HTML omitted -->butter&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->), softened&lt;/td>
+&lt;td>16%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>piloncillo oscuro&lt;/em>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, softened &amp;amp; chopped&lt;/td>
+&lt;td>12%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ground spices (cinnamon, allspice, ginger, cloves)&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>citrus zest&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>As &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">mentioned&lt;/a> a few weeks ago, I haven&amp;rsquo;t been using eggs due to the ongoing egg shortage. Feel free to use eggs instead of milk.&lt;/p>
+&lt;p>Kabocha is a squat and round hard squash with a dull green rind, but the inside hidden beneath that unassuming exterior is sweet, nutty, and delightfully starchy. The flavor of kabocha is a mix of sweet potato and pumpkin; the texture is drier and airier than butternut squash, which makes it perfect for &lt;a href="https://www.thespruceeats.com/kabocha-tempura-recipe-2031602">tempura&lt;/a>. Roasting kabocha is one of my favorite ways to enjoy it. Simply, cut kabocha into wedges, toss with some olive oil, and roast in a 400°F oven until tender and caramelized, about 25-30 minutes, to concentrate the squash&amp;rsquo;s texture and flavor. If you can&amp;rsquo;t find kabocha, substitute with 1/2 sweet potato and 1/2 hard winter squash (delicata, butternut, acorn, calabaza, Seminole, etc).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_150938.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>30-hour wholegrain &lt;em>bomboloni con lievito madre&lt;/em>, with unsifted Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Here goes the zen and the art of making soft and fluffy &lt;em>bomboloni&lt;/em>, which very much reminds me of making &lt;em>panettoni&lt;/em>:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Mix everything together into a stiff dough.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bulk ferment at 75°F for 6 hours. Fold once every 30 mins, 4 times in total.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Retard in the fridge for 12 hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divide into 10 pieces (~60g each), and shape into taut balls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof at 73°F for 12 hours until tripled in size.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heat a pot of coconut oil to 350°F-360°F; fry ~5 minutes on each side. You want both sides to be brown and crispy.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove from oil and let dry on a wire rack lined with paper towels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once cool (but still warm), coat in homemade cinnamon sugar. Fill with &lt;em>crema pasticciera&lt;/em>, if desired. They are delicious without filling, IMO.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_150718.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>bomboloni integrali di sonora blanca&lt;/em>: 100% wholegrain Sonora Blanca flour + caramelized kabocha purée + cinnamon sugar&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Typically, you need a strong bread flour to make these &lt;em>bomboloni&lt;/em>, but I&amp;rsquo;m quite surprised &amp;ndash; and pleased &amp;ndash; with how well these Sonora Blanca &lt;em>bomboloni integrali&lt;/em> have turned out!&lt;/p>
+&lt;p>The extended fermentation time give these &lt;em>bomboloni&lt;/em> a super fluffy, airy texture &amp;ndash; you won&amp;rsquo;t know it&amp;rsquo;s whole wheat!&lt;/p>
+&lt;p>&lt;em>Bomboloni&lt;/em> literally translates as &amp;ldquo;big bombs&amp;rdquo; &amp;ndash; a perfect name for these big round donuts and an apt moniker for the current era.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-5/20230312_151738.jpg"
+alt="bomboloni integrali di sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>bomboloni integrali di sonora blanca&lt;/em>: yum!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>&lt;em>This is part 5 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>. If you enjoyed this, why not check out my other &lt;a href="https://breadbuster.github.io/archives/">breadstories&lt;/a> and spread the word?&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>I made my diastatic barley malt powder from unhulled malted barley, finely ground and unsifted.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>Whole wheat levain at 50% hydration; refreshed at least twice.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>Making brown butter at home is &lt;a href="https://food52.com/recipes/7234-beurre-noisette">super easy&lt;/a>. Just melt the butter and continue to cook over medium-low heat until it turns nutty brown.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Substitute with unrefined raw cane sugar or coconut sugar.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>California Dreamin' #4: Sonora Blanca</title><link>/posts/california-dreamin-4/</link><pubDate>Sat, 04 Mar 2023 21:34:34 +0000</pubDate><guid>/posts/california-dreamin-4/</guid><description>[California Grain Adventure #4] Sonora Blanca maxima: &lt;em>pan integral de sonora blanca&lt;/em>. 100% wholegrain. 135% hydration. Slightly sweetish, scented and flavored with aniseed and orange. &lt;em>Muy delicioso.&lt;/em></description><content>&lt;p>&lt;em>This is part 4 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>.&lt;/em>&lt;/p>
+&lt;p>Every time I fly west, following the sun, I experience a lightening of spirit as the land below opens up, the checkerboards of the Midwestern plains giving way to the vast empty reach between the Rockies and the Sierra Nevada.&lt;/p>
+&lt;blockquote>
+&lt;p>If I were to pick the time when I should travel in California, it would be in the early summer. All the rest of the world at that moment is green. California alone is sheer gold. &amp;hellip; On one side the Pacific &amp;ndash; tigerish, calm, powerfully palpitant, stretching into eternity in enormous bronze-gold, foam-laced planes. On the other side, great, bare, voluptuously-contoured hills, running parallel with the train and winding serpentinely on for hours and hours of express speed; hills that look, not as though they were covered with yellow grass, but as though they were carved from massy gold. At intervals come ravines filled with a heavy green growth. Occasionally on those golden hill-surfaces appear trees.&lt;/p>
+&lt;ul>
+&lt;li>Inez Haynes Irwin, &lt;em>The Californiacs&lt;/em> (1919)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>My favorite road in California lies between Interstate 5 and Monterrey. I used to drive along &lt;a href="https://en.wikipedia.org/wiki/California_State_Route_152">Route 152&lt;/a>, on the way from San Francisco to southern California, a dozen times a year. The land lies smoothly in carpets of green during the summer, then golds and browns for the rest of the year. Commanding it all are the oak trees spotting the hills. Today this part is still mostly clear of development and hasn&amp;rsquo;t been overrun by greed or ambition.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/ms9MupIszr8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>It&amp;rsquo;s actually kind of odd, now that I think about it. I was initially drawn to California because of its Silicon Valley &amp;ndash; I went to work in tech, and realized the tech scene there was a shadow of its former dotcom self; the real innovation was in finding new ways to scam investors and keeping the ball rolling. California&amp;rsquo;s natural beauty was just one of &lt;!-- raw HTML omitted -->accidental perks&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> that I discovered along the way.&lt;/p>
+&lt;p>I remember going to a California Impressionist art collection a few years ago in Irvine, a master-planned city in Orange County, southern California. The Irvine Museum was located in a peculiar place &amp;ndash; on the bottom floor of a high-rise office building in Irvine&amp;rsquo;s Financial District, a short walk from UC-Irvine campus and John Wayne Airport. The office building housed the usual white-collar businesses like law firms and travel agencies; the space occupied by the &amp;ldquo;museum&amp;rdquo; had a mundane corporate feel, and could just as easily house a dozen cubicles filled with telemarketers cold-calling people on adjustable-rate mortgages. It was actually more of a gallery &amp;ndash; and not a very big one at that.&lt;/p>
+&lt;p>I later found out the building was originally a McDonnell Douglas Building and the museum, which used to be on the 12th floor, was &lt;a href="https://www.latimes.com/archives/la-xpm-1992-04-15-ca-248-story.html">established&lt;/a> by descendants of James Irvine who founded Irvine Ranch, the sprawling agricultural property that evolved into the City of Irvine. The Irvine family developed their ranch in the 1960s, which is to say, the city didn&amp;rsquo;t exist before then.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_180946.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain White Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>James Irvine was a canny, Belfast-born opportunist who came to California seeking gold. He failed to strike it rich in the streams and hills near Sutter&amp;rsquo;s Mill, but became wealthy selling supplies to his fellow 49ers. (What&amp;rsquo;s the saying? &amp;ldquo;Don&amp;rsquo;t dig for gold, sell shovels!&amp;quot;) In 1864, Irvine and three other San Francisco businessmen &amp;ndash; Benjamin and Thomas Flint, and Llewellyn Bixby &amp;ndash; bought 50,000 acres of &lt;em>Rancho San Joaquín&lt;/em> from José Andrés Sepúlveda, a famed &lt;em>Californio vaquero&lt;/em> who obtained the land in 1842 through a Mexican land grant and got into a dire debt crisis due to the Great Drought of the mid-1860s. (&lt;em>Rancho San Joaquín&lt;/em> included the wind-blown marshlands on the ocean that has been developed into Newport Beach, one of California&amp;rsquo;s most elite and picturesque boating and vacation spots.)&lt;/p>
+&lt;p>The Flints and Bixby were shrewd Yankee traders (of Maine colonial stock) with a taste for adventure and wealth. They came west during the Gold Rush of 1849, returned to the east, and came back again in 1853 on two wagons driving flocks of sheep, oxen, horses, and cows. This laid the economic foundation for fortunes of Irvine, Bixby and the Flints. A few years later, the trio acquired adjacent &lt;em>El Rancho Lomas de Santiago&lt;/em> (the Ranch of the Hills of St. James) and &lt;em>Rancho Santiago de Santa Ana&lt;/em>.&lt;/p>
+&lt;p>In 1876, James Irvine bought out his partners for $150,000. His 110,000 acres lay on the eastern bank of the Santa Ana River, stretching 23 miles from the Santa Ana Mountains to the Pacific Ocean. He held the land intact against droughts, squatters and lawsuits by railroads. When he died in 1886, the romantic ranch land was passed on to his son, James Irvine II, who incorporated it into the Irvine Company. James Irvine II also added olive, orange, lemon and walnut trees to the prosperous sheep and cattle grazing business. 10 years before he died in 1947, he set up the James Irvine Foundation to hold 51% of the Irvine Company stock, primarily as a tax maneuver. The Irvine Company was a vestige of the sort of personal tycoonnery that made mulit-millionaires out of immigrants in the Gold Rush days.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_181355.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain White Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Joan Irvine Smith, the only child of James Irvine III and the great-granddaughter of the OG James Irvine, was a smart heiress. In 1957, at age 24, she replaced her mother as the major shareholder on the all-male board of the Irvine Company and the Irvine Foundation, with which she had a complicated relationship. She had seen, a good deal more clearly and realistically than what Jane Hollister Wheelwright, another descendant of one of California&amp;rsquo;s oldest ranching families, would see 4 years later: the future of the ranch, which covered 1/5 of Orange County, must not be agrarian if it were to remain under her family&amp;rsquo;s control. The rest of the Irvine board was a problem: By making small deals, selling off bits of the whole and keeping the holdings agrarian, the board was nibbling away at the family&amp;rsquo;s bread and butter. So she pressed the architect William Pereira to present a master plan. She saw the potential return in donating the land for a University of California campus, and pushed for using Irvine Company lands (a pastoral island surrounded by bustling suburbia, a freeway hop from Los Angeles) for urban development. Most importantly, she insisted on maintaining an interest in the ranch&amp;rsquo;s development. In the end, which is to say after years of internecine battles and a series of lawsuits extending three decades, she more or less prevailed.&lt;/p>
+&lt;p>In 1960, before the Irvine Ranch was developed, there were 719,500 people in the whole Orange County. In 2000, there were close to 3 million, most of whom would not have been there if two families &amp;ndash; the Irvines in central Orange County, and the inheritors of Richard O&amp;rsquo;Neill&amp;rsquo;s &lt;em>Rancho Santa Margarita&lt;/em> and &lt;em>Mission Viejo&lt;/em> acreage in the southern &amp;ndash; had not developed their ranches.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_180553.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain White Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>The California Club, which is on Flower Street in downtown Los Angeles, is still the heart of southern California&amp;rsquo;s old-money business establishment, the LA version of the Bohemian Club and Pacific Union Club in San Francisco. On any given day since World War II, virtually everyone lunching at the California Club has had a direct or indirect investment in the development of California, which is to say in the obliteration of the undeveloped California on exhibition at the Irvine Museum: rolling hills and rugged seascapes; desert and mesas and arroyos; frothy waves, mountains, and big blue sky; eucalyptus, sycamore, oak, and cottonwood; cockatoos, peacocks, and horses.&lt;/p>
+&lt;p>California Impressionism, of course, is a stepchild of French Impressionism, adapted with varying success to a new set of atmospheric conditions and mingled (or mangled) with various other styles. Southern Californian artists basked in broad viewer approval; they painted entirely to celebrate a golden land, sharing an Arcadian vision with fellow Californians &amp;ndash; and with tourists smitten by the fantasy of sun, surf, golden hills and distant snow-capped mountains.&lt;/p>
+&lt;p>What struck me the most, while viewing the Irvine collection, was that it was permeated with a tenacious (or even pernicious) mood of nostalgia for the good old days, when California&amp;rsquo;s landscape was unspoiled, and yet it evidently lacked human passions. Whatever human forms you manage to make out are dwarfed by the undeveloped landscape, and some even look like indistinct Indians.&lt;/p>
+&lt;blockquote>
+&lt;p>There is more nostalgia for me in these paintings than in actually going out to look at what used to be the ranch now that it has been developed, because I’m looking at what I looked at as a child.&lt;/p>
+&lt;ul>
+&lt;li>Joan Irvine Smith&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Some of this wilderness was romantic, some washed with a slightly falsified golden light, in the tradition that runs from Albert Bierstadt&amp;rsquo;s &amp;ldquo;lustrous pearly mist&amp;rdquo; to Thomas Kinkade&amp;rsquo;s famous &amp;ldquo;glow.&amp;rdquo; Most of these paintings, however, reflect the way California looked to anyone who knew the place before the 1960s.&lt;/p>
+&lt;p>This close representation of a familiar yet vanished landscape gives the Irvine collection its amusing effect, that of a short-term memory misfire: These paintings hang in a newly built city, Irvine (population &amp;gt;300,000, with a University of California campus enrolling some 36,000 students), that was some 60 years ago a mirror image of the paintings themselves &amp;ndash; bean fields and grazing &amp;ndash; but by no means all of the cattle and sheep operations amassed by the great-grandfather of the founder of the Irvine Museum.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_180652.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain White Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>Orange County&amp;rsquo;s middle-class promise didn&amp;rsquo;t pan out for all who came, but the population boom did wonders to the bottom line of the Irvine Company.&lt;/p>
+&lt;p>The company&amp;rsquo;s commercial portfolio grew and grew with new development and upgrades. The Irvine Company-owned land in Orange County has become the country&amp;rsquo;s best-selling spot for new homes, the high-end market in particular drawing continued interest from homebuilders year on year. (Orange County is one of the most expensive counties to live in the US, with a &lt;a href="https://www.redfin.com/county/332/CA/Orange-County/housing-market">median home price of $940K&lt;/a> in January 2023; its residents include founders of Kingston, Broadcom, and Pimco.) In Orange County, the company owns large parts of the 5,000-acre Irvine Spectrum Center, Fashion Island, Newport Center, half of Irvine&amp;rsquo;s 185-acre University Research Park, Jamboree Center, MacArthur Court and the Resort at Pelican Hill.&lt;/p>
+&lt;p>Headquartered in Newport Beach, home to some of the richest neighborhoods in the country, the privately held Irvine Company is the largest owner of offices in California and one of the two largest apartments owners in the state. Along with Orange County, San Diego and Silicon Valley, the Irvine Company has sizable holdings in Los Angeles and owns three trophy skyscrapers in Chicago. It also owns the MetLife Building at 200 Park Ave in Manhattan. The company&amp;rsquo;s holdings total ~120 million sqft, including more than 500 offices buildings and 40 retail centers, plus ~160 apartment communities with nearly 60,000 units, two golf clubs, five marinas, and three resorts.&lt;/p>
+&lt;p>Donald Bren, the current chairman and sole shareholder of the Irvine Company, is the wealthiest person in Orange County with a net worth of ~$17 billion, ranking No.1 among US real estate executives and No.112 on the 2022 Forbes Billionaires List.&lt;/p>
+&lt;p>Bren got his start as a homebuilder in 1958. In 1977, he joined a group of investors to acquire control of the Irvine Company. In 1983, he bought out many of his partners for $518 million and became the majority owner of the Irvine Company. In 1991, he paid &lt;a href="https://www.latimes.com/archives/la-xpm-1991-06-19-mn-986-story.html">$256 million&lt;/a> to heiresses Joan Irvine Smith and her mother, Athalie R. Clarke, for their shares. In 1996, he became sole owner of the Irvine Company.&lt;/p>
+&lt;p>It was with these proceeds of looking exclusively, and to a famous degree, forward that Joan Irvine Smith built her collection of &lt;em>plein air&lt;/em> art.&lt;/p>
+&lt;p>&amp;ldquo;I can look at these paintings and look back. I can see California as it was and as we will never see it again,&amp;rdquo; she told &lt;em>Art in California&lt;/em>. Hers is an extreme example of the conundrum that to one degree or another confronts any Californian who profited from the boom years: If we could still see California as it was, how many of us could now afford to &amp;ldquo;see&amp;rdquo; it?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_184754.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain White Sonora flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;h3 id="pan-de-sonora">&lt;em>Pan de Sonora&lt;/em>&lt;/h3>
+&lt;p>In the spirit of Joan Irvine Smith, why don&amp;rsquo;t we look forward by forgetting what the Sonora Blanca wheat was traditionally used for and starting to explore its potential in new applications?&lt;/p>
+&lt;p>As &lt;a href="https://breadbuster.github.io/posts/california-dreamin-3">mentioned&lt;/a>, a lot of bakers shun Sonora in breadmaking by default because of its commercial classification as a &amp;ldquo;soft&amp;rdquo; wheat. As a result, Sonora&amp;rsquo;s potential has been limited to tortillas, biscuits, pastries, cookies, and cakes &amp;ndash; the flat, dense stuff.&lt;/p>
+&lt;p>Contrary to popular belief, my preferred application for Sonora is in sourdough breads.&lt;/p>
+&lt;p>Making &lt;a href="https://breadbuster.github.io/posts/desert-dynamo">a lofty loaf of bread&lt;/a> out of 100% Sonora is possible, but requires a little tango:&lt;/p>
+&lt;blockquote>
+&lt;p>Diastatic malt increases the conversion of starches to sugar, boosting the Maillard reaction of the crust. Ascorbic acid (vitamin C)&amp;hellip;tightens the gluten network and gives the bread a better rise.&lt;/p>
+&lt;/blockquote>
+&lt;p>The resulting bread will turn out just as airy and lofty as the breads made from hard wheat &amp;ndash; and taste far more flavorful.&lt;/p>
+&lt;p>Additionally, making bread with weak wheat inspires you to think and be creative, instead of just autopiloting &amp;ndash; or staying in your comfort zone where your unrealized dream is buried.&lt;/p>
+&lt;p>Baking a good loaf of bread is about knowing &lt;a href="https://breadbuster.github.io/about">who you are&lt;/a>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_184924.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>For this loaf:&lt;/p>
+&lt;ul>
+&lt;li>total Sonora Blanca milled: 400g (100%)&lt;/li>
+&lt;li>total dough hydration: 538g (135%)&lt;/li>
+&lt;/ul>
+&lt;p>Just for fun, I hand-bolted the 400g wholegrain Sonora flour into 80% (320g) flour and 20% (80g) coarse bran &amp;amp; midds. (Midds are less coarse bits of bran and germ, plus not-so-fine flour particles).&lt;/p>
+&lt;p>I applied 60g of the bran &amp;amp; midds to the levain and the remaining 20g to a porridge.&lt;/p>
+&lt;h4 id="bran-levain">Bran levain&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca, bran &amp;amp; midds&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>60g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>66.7%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sourdough starter&lt;/td>
+&lt;td>25%&lt;/td>
+&lt;td>15g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Build the levain 6-7 hours before making the final dough, refreshing it every 3 hours or so.&lt;/p>
+&lt;h4 id="toasted-bran-porridge">Toasted bran porridge&lt;/h4>
+&lt;p>Wheat midds actually contain higher levels of fiber, protein and minerals than the parent grain and have less starch and calorie. However, they are usually considered an &amp;ldquo;unwanted&amp;rdquo; by-product of the wheat flour milling industry and used as animal feed. Since I&amp;rsquo;m milling my own grains, I get to keep and enjoy all of it.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca, bran &amp;amp; midds&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>whole milk&lt;/td>
+&lt;td>250%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Process:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Toast the dry bran mix in a 300F oven (or in a skillet on the stovetop) for 3-4 minutes, until a slight toasty aroma hits your nose. This step is optional but will enhance the flavor enormously. Just be careful not to go overboard &amp;ndash; it will burn in a flash.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Put the bran mix in a small pot and pour in milk; bring to a full boil, whisking frequently.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reduce heat and simmer until a thick, creamy consistency. Turn off heat and let it cool off.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>The bran mix cooks fast &amp;ndash; the whole thing takes 10-15 minutes tops.&lt;/p>
+&lt;p>Note:&lt;/p>
+&lt;ul>
+&lt;li>You can make this in a microwave, too, just make sure to pause and stir frequently.&lt;/li>
+&lt;li>Any kind of milk will work.&lt;/li>
+&lt;/ul>
+&lt;p>This porridge is so freakin' good that you may not be able to resist eating it right out of the pot! Feel free to whip up a big pot of bran porridge either in the evening or on a quiet morning, and keep it in the fridge for a whole week of easy, nutritious breakfasts (topped with fruits, nuts, and a drizzle of honey).&lt;/p>
+&lt;h4 id="anise-orange-water">Anise orange water&lt;/h4>
+&lt;p>Why use orange peels, instead of fresh orange juice, like in my &lt;a href="https://breadbuster.github.io/posts/desert-dynamo">last Sonora loaf&lt;/a>? Well, a few reasons: I want to try something new; I have a ton of dried and frozen orange peels on hand; orange peels are flavorful, aromatic, and loaded with nutrients (wonderful additions to tea); orange peels actually contain almost twice as much vitamin C (and flavonoids) than the flesh of the fruit or the juice. In general, oranges with thicker peels tend to have more vitamin C, as the nutrient is concentrated in the peel and the white pith underneath.&lt;/p>
+&lt;p>Making the anise orange water is really simple:&lt;/p>
+&lt;ol>
+&lt;li>Boil a handful of orange peels (fresh or dried) and a pinch of aniseeds in a pot of water for 5-10 minutes. Optional: add a stick of cinnamon and/or a few cardamom seeds and cloves for extra flavor.&lt;/li>
+&lt;li>Turn off heat and let cool off.&lt;/li>
+&lt;li>Strain with a fine-mesh sieve.&lt;/li>
+&lt;li>Stir in honey or sweetener of choice.&lt;/li>
+&lt;/ol>
+&lt;p>Mine turned out a light amber-colored, aromatic, slightly sweetish tea.&lt;/p>
+&lt;p>You can also use lemon peels instead of oranges. Other substitutes include grapefruit, lime, tangerine, clementine, or citrons. You can use any fruit or vegetable that has high quantity of vitamin C. If all fails, use a tablespoon of lemon juice or rosewater.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230303_235752.jpg"
+alt="135% hydration wholegrain Sonora dough"/>&lt;figcaption class="right">&lt;p>135% hydration wholegrain Sonora dough&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="final-dough">Final dough&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca flour, 80% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>320g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt powder&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>3g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>anise orange water, divided&lt;/td>
+&lt;td>140%&lt;/td>
+&lt;td>448g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>bran levain&lt;/td>
+&lt;td>36%&lt;/td>
+&lt;td>115g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>toasted bran porridge&lt;/td>
+&lt;td>22%&lt;/td>
+&lt;td>70g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt (Gustus Vitae, CA)&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>6g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>olive oil (California Select EVOO - Cobram Estate, CA)&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>32g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Dough process:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;em>Autolyse @ ~70% hydration&lt;/em>: Mix the flour with malt; stir in 1/2 of the anise orange water; mix until a shaggy mass; let autolyze for 30 minutes in the fridge.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Levain&lt;/em>: Squeeze in the levain; mix until combined. Let rest for 10-20 minutes at room temperature.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Double hydration&lt;/em>: Add 90% of the remaining anise orange water gradually, &lt;a href="https://www.youtube.com/watch?v=zgz0oAhgwyg">Rubaud-mixing&lt;/a> (lifting, stretching, and dropping) until thoroughly absorbed. This requires a bit patience, so take your time. If there&amp;rsquo;s one thing I&amp;rsquo;m good at, it&amp;rsquo;s &lt;em>bassinage&lt;/em>. And I usually put on some &lt;a href="https://www.youtube.com/playlist?list=PLlQWGGham__4sBxnwVyKbM8n91Xb9vwUG">music&lt;/a> or &lt;a href="https://www.youtube.com/channel/UCkB8eF4ATHl4Jm1BeCZgQ9A">podcasts&lt;/a> while I do this. Hand-mixing a dough is a type of alternative physical therapy; I find it tremendously therapeutic and cathartic. Gorging the dough with soooo much water feels like a crime, TBH. I keep going until the dough tells me to stop&amp;hellip;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Salt&lt;/em>: Mix in the salt. The dough is quite sticky. Let rest for 20 minutes at room temperature.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Bran porridge&lt;/em>: Divide the bran porridge into 3-4 portions; spread over the dough one portion at a time; mix until evenly distributed. Let rest for 20 minutes at room temperature.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Triple hydration&lt;/em>: Add the rest of the anise orange water, Rubaud-mixing until completely incorporated. Let rest for 20 minutes at room temperature.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;em>Olive oil&lt;/em>: Drizzle in the olive oil, Rubaud-mixing until entirely combined.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Transfer the dough to a fridge (or somewhere 38F-43F) right away and ferment for 24 hours; take it out a every few hours and perform a &lt;a href="https://www.youtube.com/watch?v=6JQm2n4aVZc">coil-fold&lt;/a>. I did 4 folds in total.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>After 24 hours of bulk fermentation, shape the dough into whatever form you want. Let it warm up to room temperature for 2-3 hours before sending it into &lt;em>el horno&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;p>This Sonora dough went so far beyond my usual &lt;em>pan de cristal&lt;/em> hydration level &amp;ndash; and it&amp;rsquo;s supposedly a &amp;ldquo;soft&amp;rdquo; wheat!!!&lt;/p>
+&lt;p>White whole wheat is always magical: the bran, germ, and midds become &amp;ldquo;invisible&amp;rdquo; after baking, and you can&amp;rsquo;t tell it&amp;rsquo;s whole wheat.&lt;/p>
+&lt;p>Once again, Sonora did not disappoint.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_180607.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>A custardy crumb flecked with airy holes is enrobed in dramatically thin, crispy crusts.&lt;/p>
+&lt;p>My &lt;a href="https://breadbuster.github.io/posts/california-dreamin-2">134% hydration &lt;em>pan de San Joaquín&lt;/em>&lt;/a> had creamy-as-pudding center, but &amp;ndash; holy grain &amp;ndash; that peculiar creaminess was even more pronounced in this Sonora version!&lt;/p>
+&lt;p>Usually, whole grains (especially with weak gluten) turn bread into a dense brick, but this version is miraculous, with generous &lt;em>alveoli&lt;/em>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_181008.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>A full-flavored wholegrain bread without the typical aesthetics of a wholegrain bread. The toasted bran porridge adds a ton of custardiness and flavor to the crumb.&lt;/p>
+&lt;p>Definitely not what you would typically expect from a bread made from a &amp;ldquo;soft&amp;rdquo; wheat.&lt;/p>
+&lt;p>The bread&amp;rsquo;s most pronounced characteristic was a subtle buttery, sweet flavor that lingered in my mouth. I think I tasted the Sonoran Desert &amp;ndash; the soil, the texture, the flavor.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_181059.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The porous, chewy texture reminded me of a &lt;em>pan corriente&lt;/em> (&amp;ldquo;ordinary bread&amp;rdquo;) that I once had with hot chocolate in Morelia, Mexico.&lt;/p>
+&lt;p>I secretly think that labeling Sonora as a &amp;ldquo;soft&amp;rdquo; wheat does it tremendous injustice.&lt;/p>
+&lt;p>I cut this bread into thick slices, and seared them so that they were crisp on one side and as creamy as pudding within. I was planning to serve them to guests topped with different compositions &amp;ndash; crème fraîche, smoked anchovy and arugula, sour cherry jam &amp;ndash; but I was so drawn by the texture that most of the pieces I cooked didn&amp;rsquo;t make it out of the kitchen.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_181236.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>, with 100% wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I&amp;rsquo;m not sure if Sonora is a forlorn or undiscovered bread wheat, but this wheat has lofty potentials.&lt;/p>
+&lt;p>I can see the Sonora flour fulfilling many purposes in cooking and baking because of its unique makeup: It&amp;rsquo;s a beautiful &amp;ldquo;soft&amp;rdquo; heritage wheat with a naturally ivory color, and a subtle, creamy wheat flavor that&amp;rsquo;s almost neutral. A must-try for anyone who prizes the nuances of taste, texture, and performance found only in heritage grains.&lt;/p>
+&lt;p>&lt;code>Hot take&lt;/code>: Using Sonora in cookies, cakes, and pastries severely caps its baking potential. It&amp;rsquo;s a waste. FFS, use Frederick (SWWW, 7.5%-9% protein) in such things. Spare Sonora &amp;ndash; it can do so much better.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-4/20230304_184816.jpg"
+alt="pan integral de sonora blanca"/>&lt;figcaption class="right">&lt;p>&lt;em>pan integral de sonora blanca&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>&lt;em>This is part 4 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>. If you enjoyed this, why not check out my other &lt;a href="https://breadbuster.github.io/archives/">breadstories&lt;/a> and spread the word?&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Another perk: I learned that a very important but often overlooked reason why California, instead of an East Coast city, became the tech mecca, is because in the eastern states, intellectual property created by an employee belongs to the employer, whereas in California it has historically belonged to the employee. Therefore, in software, an employee could come up with an innovative idea, take investment, and become a CEO. This attracted VCs and talented, ambitious engineers. Without this distinction, Silicon Valley &amp;ndash; if there was going to be one &amp;ndash; would likely have developed around MIT.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>I made my diastatic barley malt powder from unhulled malted barley, finely ground and unsifted.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>California Dreamin' #3: Sonora Blanca</title><link>/posts/california-dreamin-3/</link><pubDate>Sun, 26 Feb 2023 02:12:55 +0000</pubDate><guid>/posts/california-dreamin-3/</guid><description>[California Grain Adventure #3] Sonora Blanca minima: 100% wholegrain chocolate chip &lt;em>cookies de masa madre&lt;/em>, from scratch.</description><content>&lt;p>&lt;em>This is part 3 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>.&lt;/em>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>For beauty, California is like the fresh, glowing, golden crescent moon; it is waxing steadily to a noble fullness of development.&lt;/p>
+&lt;ul>
+&lt;li>Inez Haynes Irwin, &lt;em>The Californiacs&lt;/em> (1919)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>The California coast always looks so sunny and breathtaking, completely concealing the fact that most of the state is too dry to allow for a lot of life to thrive.&lt;/p>
+&lt;p>In &lt;a href="https://breadbuster.github.io/posts/california-dreamin-1">part 1&lt;/a>, I mentioned how California is a great exception to the rest of the US. Here&amp;rsquo;s yet another example: California is one of the few places where 4 of the 5 global climate zones (and 10 different climate subdivisions) occur in close proximity. Perhaps the only other place on the planet similar to California is central Chile, where this convergence is made even more extreme by the dramatic Andean topography.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/california-koppen-climates.png"
+alt="Koppen climates in California"/>
+&lt;/figure>
+&lt;p>Much of the state boasts a Mediterranean-style climate, which is rare outside of the Mediterranean Sea region. The one in California actually has 3 variations:&lt;/p>
+&lt;ol>
+&lt;li>cool summers and mild winters along the coast and the western slope of the Sierra Nevada;&lt;/li>
+&lt;li>cool summers and mild winters, also along the coast, but with frequent summer fog;&lt;/li>
+&lt;li>mild wet winters followed by hot dry summers with little or no rain for months, in the interior valley.&lt;/li>
+&lt;/ol>
+&lt;p>With all types, most of the rain falls in winter &amp;ndash; not summer &amp;ndash; which is unusual for most of the world, where the opposite happens.&lt;/p>
+&lt;p>Precipitation levels also vary from year to year. Droughts come and go; extreme, multi-year statewide droughts have occurred several times throughout the past century; regional droughts have also plagued different parts of the state over the years.&lt;/p>
+&lt;p>Furthermore, most of California&amp;rsquo;s rain and snow fall in the northern half of the state &amp;ndash; in the Sierra Nevada Mountains, along the North Coast, and in the Cascade Range. However, most of the state&amp;rsquo;s population lives in the tremendously drier southern half.&lt;/p>
+&lt;p>Due to the variability in precipitation and the imbalance in population, California depends on a large network of reservoirs, dams, and aqueducts to store and transport surface water where and when people need it. According to a &lt;a href="https://lao.ca.gov/publications/report/3571">2017 report&lt;/a> from the Legislative Analyst&amp;rsquo;s Office, California has &amp;gt;20,000 miles of levees and channels, and over 1,500 dams and reservoirs. Make no mistake, California&amp;rsquo;s various flood control projects have been funded by the federal government.&lt;/p>
+&lt;p>Yup, &lt;a href="https://breadbuster.github.io/california-books">a great deal&lt;/a> about California does not, on its own preferred terms, add up.&lt;/p>
+&lt;blockquote>
+&lt;p>This extreme reliance of California on federal money, so seemingly at odds with the emphasis on unfettered individualism that constitutes the local core belief, was a pattern set early on, and derived in part from the very individualism it would seem to belie.&lt;/p>
+&lt;ul>
+&lt;li>Joan Didion, &lt;em>Where I Was From&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>In southern California, water travels a great distance to get to people&amp;rsquo;s faucets: ~25% of the water used in southern California comes from the Colorado River; another 30% from the northern Sierras via the State Water Project; and the remaining 45% comes from a mix of &amp;ldquo;local&amp;rdquo; supplies, including the City of Los Angeles' eastern Sierra deliveries as well as desalination, recycling, and groundwater.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/california-map.png"
+alt="Map of California"/>
+&lt;/figure>
+&lt;p>Real-life California water wars (implicating everyone from local philanthropists right up to then-President Theodore Roosevelt) inspired the 1974 film noir &lt;em>Chinatown&lt;/em>, which played down the extent of the corruption involved. Perhaps it&amp;rsquo;s no surprise that later dystopian movies like &lt;em>Blade Runner&lt;/em> (1982) imagined a future Los Angeles of 2019 as a rain-soaked wasteland, after all the havoc that city officials wrought on the area&amp;rsquo;s ecosystem for personal profit.&lt;/p>
+&lt;p>The digital world is a lot of fun and undeniably innovative; search engines are ad vehicles and AI-powered voice assistants suck. Still, technology hasn&amp;rsquo;t been able to abstract away reality, and people seem to forget that it&amp;rsquo;s changes in the physical world that drive a lot of living standard improvements. Given how many people struggle in low-end jobs and how quickly tech expenditures are going up, claiming the internet is great smacks of &amp;ldquo;let them eat iPhones!&amp;rdquo;&lt;/p>
+&lt;p>Competition for water is only growing and intensifying throughout California, particularly in the Central Valley.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/fWRs5B7rWYw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>The Central Valley is very easy to ignore &amp;ndash; not in any way as glamorous as Silicon Valley or Hollywood &amp;ndash; but it&amp;rsquo;s as important to eaters (aka. all of us) as Silicon Valley is to smartphone users or Hollywood is to moviegoers.&lt;/p>
+&lt;p>Bordered on either side by mountains, the Central Valley stretches ~450 miles long from Redding to Bakersfield and ~50 miles wide on average, and occupies a land mass of 18,000 square miles (11.5 million acres) &amp;ndash; roughly the size of Massachusetts and Vermont combined. This valley is predominantly used for agriculture; it occupies &amp;lt;1% of US farmland, but supplies ~25% of Americans' food and accounts for 20% of the nation&amp;rsquo;s groundwater demand.&lt;/p>
+&lt;p>This valley contains the world&amp;rsquo;s largest patch of &lt;a href="https://en.wikipedia.org/wiki/San_Joaquin_(soil)">Class 1 soil&lt;/a>, the best there is. The ~25°F temperature swing from day to night is an ideal growing range for plants. The sun shines nearly 300 days a year. The eastern half of the valley (and the western, to some extent) uses snowpack melt from the Sierra as its water source, i.e. it doesn&amp;rsquo;t have the same drought and flood problems as the Midwest. The winters are extremely mild with no snow, which offers a whole different growing season for plants that don&amp;rsquo;t adore summer heat.&lt;/p>
+&lt;p>The mild temperatures and winter rain support some of the highest biodiversity in the state. A few hundred different crops are grown in the valley, including those indigenous to South Asia, Southeast Asia and Mexico. Interestingly, some of that is canceled out by California&amp;rsquo;s Desert climates.&lt;/p>
+&lt;p>The expansive Central Valley is really two valleys: the Sacramento Valley to the north and the San Joaquin Valley to the south. The Steppe climate of the San Joaquin Valley is oppressively hot and dry like a desert, but averages enough moisture to support grasslands and other vegetation that commonly loathe the desert.&lt;/p>
+&lt;p>The Central Valley became widely known in the 1920s and 1930s, when farmers arrived from the eastern US, Oklahoma, Italy or Armenia and wrote home about the clean air, bountiful water and cheap land. This massive swath is now among the world&amp;rsquo;s most productive agricultural region &amp;ndash; and has helped California transformed from an agricultural backwater to one of the crown jewels of the US food system. The valley now produces almost all of the almonds, pistachios, and walnuts consumed domestically; &amp;gt;=90% of the artichokes, broccolis, carrots, celeries, garlic, grapes, plums, and tangerines; &amp;gt;=75% of the apricots, cauliflowers, lemons, strawberries, and raspberries; and &amp;gt;=40% of the cabbages, lettuces, oranges, peaches, and peppers.&lt;/p>
+&lt;p>The Central Valley is patently &lt;!-- raw HTML omitted -->John Steinbeck&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> country. There are many fascinating places there like the &lt;a href="https://dustbowlcamp.org/history/">Weedpatch Camp&lt;/a>, the &lt;a href="https://www.bodie.com/plan/">Bodie&lt;/a> ghost town, the Japanese Internment Camp (aka. &lt;a href="https://www.nps.gov/manz/index.htm">Manzanar War Relocation Center&lt;/a>), Death Valley, Mount Whitney (the highest peak in the lower 48 states).&lt;/p>
+&lt;blockquote>
+&lt;p>During the dry years, the people forgot about the rich years, and when the wet years returned, they lost all memory of the dry years. It was always that way.&lt;/p>
+&lt;ul>
+&lt;li>John Steinbeck, &lt;em>East of Eden&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Nothing much has changed in California and the Salinas Valley since 1952 when Steinbeck wrote &lt;em>East of Eden&lt;/em>.&lt;/p>
+&lt;p>Farming and food production in the Central Valley are extremely vulnerable to droughts and floods. In a normal year, ~50% of the water used in the Central Valley comes from groundwater. During drought, when less water is available from rivers and canals, agriculture in the Central Valley typically depends on groundwater for over 2/3 of its water supplies.&lt;/p>
+&lt;p>As California enters exceptional &lt;a href="https://cww.water.ca.gov/droughtindicator">drought&lt;/a>, groundwater supplies throughout the Central Valley are being withdrawn faster than nature can replenish.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/-mSBOseNiZg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>This is nothing new. Declines in groundwater levels have plagued the Central Valley for decades. Groundwater, according to one study, is effectively nonrenewable, because it can take centuries for aquifers to replenish once they are depleted, particularly in arid areas without significant rainfall.&lt;/p>
+&lt;p>Another study found that the depletion has worsened significantly since 2019, in a race to the bottom. Farmers need as much water as they can take out of the aquifers to farm the land in the hot and dry San Joaquin Valley.&lt;/p>
+&lt;p>When groundwater levels keep on dropping, land surface can begin to subside.&lt;/p>
+&lt;p>Indeed, the overdrafting of the aquifer is causing portions of the valley floor to sink. As diminishing water levels leave spaces underground in layers of gravel, sand and clay, the ground collapses and permanently reduces the aquifer&amp;rsquo;s water-bearing capacity. In parts of the valley, the land has been sinking about 1 ft a year, damaging canals and wells.&lt;/p>
+&lt;p>If the groundwater disappears, so too does the food production. That means food shortages and higher food prices. By 2040, the San Joaquin Valley is projected to lose over &lt;a href="https://www.ppic.org/wp-content/uploads/water-and-the-future-of-the-san-joaquin-valley-february-2019.pdf">535,000 acres&lt;/a> of agricultural production. That&amp;rsquo;s &amp;gt;10% of the area farmed!&lt;/p>
+&lt;p>Meanwhile, towns in the Central Valley are beginning to run out of municipal water. Across the state, electric grids are also at risk if hydroelectric dams don&amp;rsquo;t get enough water to produce power. How are 10% of California&amp;rsquo;s car owners going to operate their Teslas?&lt;/p>
+&lt;p>Over the next two decades, California could lose ~10% of its water supplies. A growing number of scientists say the Golden State&amp;rsquo;s great &amp;ldquo;aridification&amp;rdquo; could permanently and profoundly change the state&amp;rsquo;s landscape and social fabric.&lt;/p>
+&lt;p>What would John Steinbeck have written about the ongoing drought in California?&lt;/p>
+&lt;p>What&amp;rsquo;s the flip side to the megadrought? Megaflood?&lt;/p>
+&lt;p>California&amp;rsquo;s climate, already chaotic under normal conditions, is only getting weirder and wilder. Even if California does get enough rain this year to end the drought, it doesn&amp;rsquo;t change the fact that the ongoing water crisis is worsening.&lt;/p>
+&lt;p>It amazes me even more that the scarcest economic resources &amp;ndash; entrepreneurial ability and technical talent &amp;ndash; are spent on automating a globally abundant resource (i.e. cheap labor) and creating new variants of digital cocaine that are arguably more addictive and more harmful than cigarettes, instead of solving real-world problems.&lt;/p>
+&lt;hr>
+&lt;p>In California, water is now the most precious crop of all. Some farmers have realized that it makes better economic sense to sell unused water than to grow water-intensive crops like rice and almonds.&lt;/p>
+&lt;p>A huge transformation is happening up and down California&amp;rsquo;s Central Valley, as the agricultural labor supply shrinks and water becomes scarcer. Vast stretches of land are now fallow because there&amp;rsquo;s no water. New calculations are being made about what specific crops to grow, how much, and where. Millions of dollars are being spent on replenishing the aquifer that has been depleted for so long.&lt;/p>
+&lt;p>In the era of greater weather volatility, when water can be unreliable, adaptability is an asset.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/sonora-cwc.jpg"
+alt="Sonora wheat berries"/>&lt;figcaption class="right">&lt;p>Sonora Blanca wheat berries, from the San Joaquin Valley of California.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Which is why landrace plant varieties like the &lt;strong>Sonora Blanca&lt;/strong> wheat are important. Wheat production still requires water, but a lot less than growing rice, nuts or fruits.&lt;/p>
+&lt;p>&lt;a href="https://breadbuster.github.io/posts/desert-dynamo">ICYMI&lt;/a>, Sonora is a heritage soft white winter wheat brought to the Americas by Spanish missionaries in the 1600s. It&amp;rsquo;s one of the &lt;a href="https://slowfoodusa.org/white-sonora-wheat/">oldest&lt;/a> varieties cultivated in North America, predating &lt;a href="https://breadbuster.github.io/tags/red-fife/">Red Fife&lt;/a> and &lt;a href="https://breadbuster.github.io/tags/turkey-red/">Turkey Red&lt;/a>. It&amp;rsquo;s also sometimes called Father Kino&amp;rsquo;s wheat, after Father Eusebio Francisco Kino who established Catholic missions throughout the Pimera Alta (present-day Sonora and southern Arizona) in the late 1600s.&lt;/p>
+&lt;p>The earliest known cultivation records document the grain&amp;rsquo;s existence in the early 1700s in the mountains of Sonora, a region in northern Mexico. That&amp;rsquo;s probably where the variety earned its name; to this day, Sonoran tortillas are more often made from soft wheat flour than maize like in the rest of Mexico.&lt;/p>
+&lt;p>By the 1800s, Sonora wheat was widely planted in California and other areas in the southwestern US; it was a predominant source of flour for the western population, until the rise of industrialization after World War I, when hybridized high-yield commodity wheat replaced it. By the 1980s, Sonora was commercially dead. Luckily &amp;ndash; for those of us who care &amp;ndash; Sonora has been revived in the southwest thanks to the local-grain movement that spread like wildfire across the US.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/sonora-vs-joaquin.jpg"
+alt="Sonora Blanca vs. Joaquin Oro"/>&lt;figcaption class="right">&lt;p>Sonora Blanca (left) vs. Joaquin Oro (right), both grown in the San Joaquin Valley of California.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Sonora&amp;rsquo;s heritage earns it some clout by default. More importantly, the wheat has been adapting to the drought conditions in California for &lt;em>hundreds of years&lt;/em> (shall we crown it &amp;ldquo;the OG California Wheat?&amp;quot;). This adaptability has made the landrace variety popular among California grain farmers. Drought-tolerance eliminates the need for expensive irrigation. Additionally, Sonora&amp;rsquo;s lower protein content requires less input from the farmer, and lower nitrogen requirement makes it perfectly suitable for organic farming (no need to worry about the nitrogen content of the soil).&lt;/p>
+&lt;p>I baked with &lt;a href="https://breadbuster.github.io/posts/desert-dynamo">Arizona-grown Sonora&lt;/a> a while ago, and named it &amp;ldquo;desert dynamo.&amp;rdquo; I still think it&amp;rsquo;s aptly named and well deserved. Everyone was telling me it was impossible to bake a lofty bread out of soft wheat alone, so I made a 100% Sonora bread just to show them it &lt;em>can&lt;/em> be done. The bread turned out so bloody marvelous it blew my expectations out of the water.&lt;/p>
+&lt;p>Thanks to generous friends at the California Wheat Commission, I got a chance to delve deeper into Sonora &amp;ndash; with the San Joaquin Valley terroir (grown by Eck Farms, CA).&lt;/p>
+&lt;hr>
+&lt;p>Sonora actually can be planted in either fall or spring. It&amp;rsquo;s an early spring variety that does equally well as a winter wheat in milder winter climates that don&amp;rsquo;t freeze hard.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/sonora-backyard.jpg"
+alt="Sonora growing in a 4×4 garden bed"/>&lt;figcaption class="right">&lt;p>Sonora growing in a 4ft × 4ft garden bed.&lt;/p>&lt;p>Source: &lt;a href="https://gardenerd.com/blog/growing-white-sonora-wheat/" target="_blank" rel="noreferrer">Gardenerd&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In southern California, even if you plant Sonora in October as a winter wheat, the climate there doesn&amp;rsquo;t really allow for winter wheat to behave like a winter wheat, which ordinarily grows low and wide in late fall, goes dormant in winter, then emerges and branches out in spring to maturity.&lt;/p>
+&lt;p>Sonora has a relatively high protein content (~12.7%), but is typically characterized as a &amp;ldquo;soft&amp;rdquo; wheat &amp;ndash; which befuddles me. The often-cited reason is that Sonora has inadequate &lt;a href="https://modernistcuisine.com/mc/gluten-how-does-it-work/">gluten-forming proteins&lt;/a>. I&amp;rsquo;ve never done individual testing of the glutenin and gliadin fractions in any wheat, nor am I interested in such, so don&amp;rsquo;t ask me. What I do know is that &lt;a href="http://www.youtube.com/watch?v=i6oQNo4gpeE">protein content&lt;/a> of a flour tells you little about the flour&amp;rsquo;s strength or baking performance. Some amino acids that make up the protein are usually water-soluble and contribute little to the strength of the flour, so a high-protein flour can actually have weak gluten.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/sonora-wheat-berries.jpg"
+alt="Sonora Blanca wheat berries"/>&lt;figcaption class="right">&lt;p>Sonora Blanca wheat berries, from the San Joaquin Valley of California.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>My &lt;a href="https://breadbuster.github.io/posts/desert-dynamo">last bake&lt;/a> with Sonora proved to me that the flour is indeed capable of making a stretchable dough &amp;ndash; far more stretchable than a dough made with other soft wheats like Frederick (7.5%-9% protein) or even some hard wheats like &lt;a href="https://breadbuster.github.io/posts/orange-sunshine">Warthog&lt;/a>; and apparently stretchable enough that Sonorans developed large flour tortillas, burritos and chimichangas with it.&lt;/p>
+&lt;p>Sonoran-style flour tortillas (&lt;em>tortillas de harina estilo Sonora&lt;/em>) are works of art; they are stretched paper thin and cooked on a hot griddle, producing small blisters that give them a smoky flavor. Check out &lt;a href="https://www.latimes.com/food/la-fo-patricia-escarcega-sonoratown-review-20190424-story.html">Sonoratown&lt;/a>&amp;rsquo;s glorious flour tortillas in downtown Los Angeles, if you haven&amp;rsquo;t. They are freshly made daily, with &lt;a href="https://cooking.nytimes.com/recipes/1019621-sonoran-style-flour-tortillas">5 ingredients&lt;/a>: salt, water, lard, baking powder and soft Sonoran wheat flour produced in San Luis Río Colorado, on the Mexico-US border. These $10 plates of Sonoran tacos are so spectacular that hundreds of Angelenos would rather spend their time lining up in front of Sonoratown than going to flashy dinners at the world-famous &lt;a href="https://la.eater.com/2019/12/18/21028471/tartine-manufactory-downtown-los-angeles-the-row-closed-why">Tartine&lt;/a>.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/js2mgjJkyGE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>A side note: If you have ever spent some time in Arizona, you may have noticed that the most distinctive marker of Arizonan cuisine is Sonoran-style Mexican food, an approach to border cooking that differs from Tex-Mex, New Mexican, or Baja styles and is seldom found outside of Arizona. Unlike the rest of Mexico where maize is king, Sonora is a wheat-growing region where the flour tortilla gets special attention, although they still use corn tortillas for a variety of dishes. In California, you are asked if you want flour or corn tortillas with dinner. In the Sonoran-style restaurants of Arizona, it&amp;rsquo;s assumed that you want the flour version.&lt;/p>
+&lt;hr>
+&lt;p>Sonora wheat berries are moderately hard, and lend themselves to milling.&lt;/p>
+&lt;p>Similar to &lt;a href="https://breadbuster.github.io/tags/joaquin-oro/">Joaquin Oro&lt;/a>, Sonora mills to a fine, soft wholegrain flour on the first run (on a countertop electric WonderMill set to Bread Flour).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/sonora-milled.jpg"
+alt="Sonora Blanca wheat berries"/>&lt;figcaption class="right">&lt;p>Freshly milled Sonora Blanca: a smooth, velvety wholegrain flour on the first run.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Since Sonora is commercially classified as a &amp;ldquo;soft&amp;rdquo; wheat, a lot of bakers automatically pass it up in breadmaking and use it instead in scones, biscuits, pies, muffins, tortillas, cookies, and cakes.&lt;/p>
+&lt;p>In fact, Sonora has a hidden kick of strength (&amp;quot;&lt;a href="https://breadbuster.github.io/posts/desert-dynamo">desert dynamo&lt;/a>&amp;quot;) that makes it work for many purposes and many meals. You can feed your family all three meals relying on just Sonora: biscuits/scones/muffins/tortillas for breakfast, naans or breads for lunch/dinner, and cakes/cookies throughout the day.&lt;/p>
+&lt;p>If you are new to Sonora and other heritage wheat flours, start with a familiar recipe such as chocolate chip cookies.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/20230224_230603.jpg"
+alt="Sonora Blanca chocolate chip cookies"/>&lt;figcaption class="right">&lt;p>Chocolate chip &lt;em>cookies de masa madre&lt;/em>, with freshly milled wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I made two batches of chocolate chip &lt;em>cookies de masa madre&lt;/em> (with sourdough) from unsifted Sonora flour. All of the flour is pre-fermented to boost the flavor and bioavailability.&lt;/p>
+&lt;h3 id="iteration-1">Iteration #1&lt;/h3>
+&lt;p>Formula:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca flour, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>200g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->malted barley flour&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, 100% extraction&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>55%&lt;/td>
+&lt;td>110g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sourdough discard&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>beurre noisette&lt;/em> (brown &lt;!-- raw HTML omitted -->butter&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->), softened&lt;/td>
+&lt;td>25%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>extra virgin coconut oil, softened&lt;/td>
+&lt;td>25%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>piloncillo oscuro&lt;/em>&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, softened &amp;amp; chopped&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>80g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>honey&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>80g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>vanilla extract&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>salt&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>baking soda&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->&lt;em>chocolate caliente mexicano&lt;/em> (homemade)&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>chocolate chips (Ghirardelli bittersweet)&lt;/td>
+&lt;td>90%&lt;/td>
+&lt;td>180g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;code>Note&lt;/code>: I didn&amp;rsquo;t use any eggs in these cookies, because eggs have been scarce on store shelves; whatever eggs I manage to track down, they are selling at &lt;a href="https://eggspensive.net/">record high prices&lt;/a>. Government data showed US consumers were paying $4.25 on average for a dozen eggs as of last December, which was 138% more than the year before.&lt;/p>
+&lt;p>The process is super simple:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Make the super &lt;em>masa madre&lt;/em>: Mix together the whole wheat flour, malt, water, and sourdough into a stiff ball. Let it ferment in a warm place for 3-4 hours, or until doubled in volume. Keep an eye on it &amp;ndash; you don&amp;rsquo;t want it to overripen and get sour.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Break up the &lt;em>masa madre&lt;/em>. Add the rest of the ingredients except the chocolate chips; mix until homogeneous.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Stir in the chocolate chips; mix until evenly dispersed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Scoop onto a baking tray, spaced about 2&amp;rdquo; apart. (Chill the dough and the scoop first for 15-20 minutes, if you prefer thicker cookies.)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bake for 15 minutes at 300F, or until spread out and light brown.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/20230224_225515.jpg"
+alt="Sonora Blanca chocolate chip cookies"/>&lt;figcaption class="right">&lt;p>Chocolate chip &lt;em>cookies de masa madre&lt;/em>, with freshly milled wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Listen up!&lt;/p>
+&lt;p>Here are three tricks to the very best chocolate cookies:&lt;/p>
+&lt;ol>
+&lt;li>Use fresh wholegrain flour!&lt;/li>
+&lt;li>Add 10% malted barley flour.&lt;/li>
+&lt;li>Brown the butter to accentuate the maltiness of the flours. Do yourself a favor and get a block of high-quality butter: 83% from Wisconsin, Kerrygold, New Zealand butter, or Isigny Sainte-Mère.&lt;/li>
+&lt;/ol>
+&lt;p>Voila!&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/20230224_231154.jpg"
+alt="Sonora Blanca chocolate chip cookies"/>&lt;figcaption class="right">&lt;p>Chocolate chip &lt;em>cookies de masa madre&lt;/em>, fresh from the oven. The soft chewy interior is oozing with warm chocolate.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>A thin, crispy crust enrobes a soft center oozing with melty chocolate. Heavens.&lt;/p>
+&lt;p>Every bite gets a rich hit of chocolate in all its creamy, nutty, and caramelized glory.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/20230224_230201.jpg"
+alt="Sonora Blanca chocolate chip cookies"/>
+&lt;/figure>
+&lt;hr>
+&lt;h3 id="iteration-2">Iteration #2&lt;/h3>
+&lt;p>These cookies were gone within a few hours of emerging from the oven, so I had to make a 2nd freakin' batch.&lt;/p>
+&lt;p>I happened to have a few gorgeous beetroots (probably from California&amp;rsquo;s San Joaquin Valley, too), so I roasted the cubed beets on a charcoal-fired BBQ grill until perfectly caramelized. Then I puréed the beets in a blender, and added some of the red gold into the cookie dough.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Sonora Blanca flour, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>200g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>malted barley flour, 100% extraction&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>55%&lt;/td>
+&lt;td>110g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sourdough discard&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>roasted beetroot purée&lt;/td>
+&lt;td>50%&lt;/td>
+&lt;td>100g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>extra virgin coconut oil, softened&lt;/td>
+&lt;td>25%&lt;/td>
+&lt;td>50g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>piloncillo oscuro&lt;/em>, softened &amp;amp; chopped&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>80g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>honey&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>80g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>vanilla extract&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>salt&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>baking soda&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>2g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>chocolate chips (Ghirardelli bittersweet)&lt;/td>
+&lt;td>90%&lt;/td>
+&lt;td>180g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>If you haven&amp;rsquo;t noticed, I omitted the brown butter and hot chocolate mix in this batch.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/20230225_185243.jpg"
+alt="Sonora Blanca chocolate chip cookies"/>&lt;figcaption class="right">&lt;p>Chocolate chip cookies batch #2, with roasted beetroot purée.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>They turned out royally delicious. Actually, they reminded me of Mexican &lt;em>polvorones rojas&lt;/em>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/california-dreamin-3/20230225_185711.jpg"
+alt="Sonora Blanca chocolate chip cookies with beetroots"/>&lt;figcaption class="right">&lt;p>&lt;em>cookies veganos de remolacha y chocolate&lt;/em>, made from scratch with fresh wholegrain Sonora Blanca flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Amid global and domestic supply chain turmoils (major supermarkets in the UK have &lt;a href="https://www.cnn.com/2023/02/24/business/uk-vegetable-fruit-shortage-rationing/index.html">started rationing produce&lt;/a>), these cookies really make me wonder what would happen when California&amp;rsquo;s Central Valley falls apart&amp;hellip; What would be the new normal? Time to build out my backyard vegetable garden?&lt;/p>
+&lt;hr>
+&lt;p>&lt;em>This is part 3 of my &lt;a href="https://breadbuster.github.io/tags/california-grain-adventure/">California Grain Adventure&lt;/a>. If you enjoyed it, why not check out my other &lt;a href="https://breadbuster.github.io/archives/">breadstories&lt;/a> and spread the word?&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>A little-known fact about John Steinbeck is that he was a travel writer. His nonfiction book, &lt;em>Travels With Charley&lt;/em>, preceded other great American road trip novels by Jack Kerouac, Studs Terkel, etc. In 1962, John Steinbeck won the Nobel Prize for his body of work. The Nobel Committee wrote: &amp;ldquo;His sympathies always go out to the oppressed, the misfits, and the distressed; he likes to contrast the simple joy of life with the brutal and cynical craving for money. But in him we find the American temperament also expressed in his great feelings for the tilled soil, the wasteland, the mountains, and the ocean coast&amp;hellip;&amp;rdquo;&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>I made my diastatic barley malt flour from unhulled malted barley, finely ground and unsifted.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>Making brown butter at home is &lt;a href="https://food52.com/recipes/7234-beurre-noisette">super easy&lt;/a>. You can totally veganize these cookies by substituting the butter with coconut oil.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Substitute with unrefined raw cane sugar.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5" role="doc-endnote">
+&lt;p>Making a Mexican hot chocolate mix from scratch takes only a few minutes and can be adjusted to your personal taste. I used freshly ground toasted pecans &amp;amp; almonds, cocoa powder, cinnamon, cardamom, clove, tri-pepper powder (ancho, guajillo, and habanero), and coconut sugar.&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>Desert Dynamo</title><link>/posts/desert-dynamo/</link><pubDate>Tue, 30 Nov 2021 16:22:21 -0600</pubDate><guid>/posts/desert-dynamo/</guid><description>Desert Dynamo, an impossible bread made with 100% Sonora whole wheat flour.</description><content>&lt;p>I went camping at Patagonia Lake State Park in Arizona last week, and picked up a few bags of White Sonora wheat berries (from Ramona American Indian Farms, AZ).&lt;/p>
+&lt;p>White Sonora is a soft &lt;a href="https://breadbuster.github.io/posts/joeliath/">white&lt;/a> winter wheat (SWWW) that has been adapted to the southwestern US, specifically the semi-arid climates of the Sonoran Desert in California and Arizona. It&amp;rsquo;s a very old wheat, first brought to the American Southwest by Spanish missionaries in the 17th century. They made a stretchy dough that gradually evolved into the flour tortilla.&lt;/p>
+&lt;p>With low gluten-forming potential, Sonora is considered an ideal flour for pastries rather than breads. Well&amp;hellip; Since I&amp;rsquo;m not a fan of cakes and desserts, what should I do with my Sonora?&lt;/p>
+&lt;p>Turns out you can make a tall and fluffy bread just fine, with 100% Sonora flour. I learned a lot from my &lt;a href="https://breadbuster.github.io/posts/orange-sunshine/">previous experiment with Warthog&lt;/a>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/desert-dynamo/202111291613.jpg"
+alt="Desert Dynamo"/>
+&lt;/figure>
+&lt;p>The bread has a lovely flavor and texture, which are further enhanced by adding ~1% &lt;!-- raw HTML omitted -->diastatic barley malt&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> and a squeeze of &lt;!-- raw HTML omitted -->orange juice&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> to the dough. Diastatic malt increases the conversion of starches to sugar, boosting the Maillard reaction of the crust. Ascorbic acid (vitamin C) in orange juice &lt;!-- raw HTML omitted -->tightens the gluten network&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> and gives the bread &lt;a href="https://web.archive.org/web/20150215091859/http://www.clausmeyer.dk/en/grupe___meyer_flour/bread_recipes.html">a better rise&lt;/a>. As a result, the crumb is more chewy, and the crust more caramelized.&lt;/p>
+&lt;p>You may be wondering, why not work with a strong wheat, to begin with? Why would anyone want to learn how to work with weak wheat varieties?&lt;/p>
+&lt;p>First of all, you get to enjoy the distinctive flavors of these weaker wheats: nutty, herbal, earthy, sweet, spicy, etc. Why wouldn&amp;rsquo;t a baker/foodie want to try all this variety?&lt;/p>
+&lt;p>When you buy packaged bread flour, whole wheat flour, or generic hard wheat berries, you are usually buying a blend of strong wheats grown in god-knows-where and mixed to achieve consistent characteristics such as a protein content of 12%-15% and the ability to form a strong gluten network. In contrast, when you buy a specific variety of grain, you are getting an individual product with unique characteristics (which vary somewhat from harvest to harvest).&lt;/p>
+&lt;p>Secondly, I believe it&amp;rsquo;s important to preserve &lt;a href="https://thecounter.org/united-nations-fao-report-biodiversity-loss-simran-sethi/">crop biodiversity&lt;/a> and move away from large-scale industrial monocultures &amp;ndash; planting only a few strains of a single crop means that a new pest or virus could virtually wipe out an entire plant species. It&amp;rsquo;s time we give power back to the farmers who understand the land and know how to manage different varieties and species of plants. Biodiversity is critical to a robust food system, a prerequisite for food and nutrition security. Do I even need to mention the obvious benefit of delicious flavors?&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;There are may of us who cannot but feel dismal about the future of various cultures. Often it is hard not to agree that we are becoming culinary nitwits, dependent upon fast foods and mass kitchens and megavitamins for our basically rotten nourishment.&amp;rdquo; - M.F.K. Fisher&lt;/p>
+&lt;/blockquote>
+&lt;p>Thirdly, protein percentage is not indicative of the wheat&amp;rsquo;s baking performance &amp;ndash; the correlation between protein levels and gluten strength isn&amp;rsquo;t strong. It&amp;rsquo;s entirely possible to have high protein levels with weak gluten (e.g. durum, einkorn). Similarly, bread wheats grown in the more humid areas often have weaker gluten as well. This isn&amp;rsquo;t a bad thing &amp;ndash; some people relish the softer crumb from weaker gluten.&lt;/p>
+&lt;p>It&amp;rsquo;s totally possible to make good bread with weak wheat, but it takes some adjustment. IMO, any baker who relies on high-gluten flour or added vital wheat gluten to produce good bread is a cheat. Being able to produce great breads from any type of wheat takes knowledge and skills.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/desert-dynamo/202111272048.jpg"
+alt="Desert Dynamo"/>&lt;figcaption class="right">&lt;p>A &amp;lsquo;pane al formaggio&amp;rsquo; I made with 100% Sonora at a friend&amp;rsquo;s house in Arizona.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>So, how do you bake a bread with weak flour? The &lt;em>bassinage&lt;/em> technique is a tip. Adding natural enhancers like diastatic malt and &lt;a href="https://breadbuster.github.io/files/bread-improver-malt-vitamin-c.pdf">ascorbid acid&lt;/a>, as mentioned earlier, is another. Here&amp;rsquo;s the &lt;a href="https://thebakingnetwork.com/protecting-gluten-in-a-weak-dough/">door&lt;/a> to the rabbit hole.&lt;/p>
+&lt;p>I ran the Sonora wheat berries through the mill several times to get the finest grind possible. Smaller particles help the gluten bond better.&lt;/p>
+&lt;p>I also bolted the flour to take out 10% of the coarsest bits, which I scalded and then fed to the levain. It was all added back in the final dough; the wholegrain integrity of the bread is never compromised.&lt;/p>
+&lt;p>Dough:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>~90% extraction Sonora flour (Ramona Farms, AZ)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>bran levain&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water (65% in autolyse + 17% in &lt;em>bassinage&lt;/em>)&lt;/td>
+&lt;td>82%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->fresh orange juice&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>flaxseeds, freshly ground&lt;/td>
+&lt;td>5%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>diastatic barley malt powder&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Add-ins:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>fresh jalapeños, diced&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Colby cheese + jalapeño cheddar, grated (Arizona Farms)&lt;/td>
+&lt;td>8%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>toasted millet&lt;/td>
+&lt;td>5%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Mix the flour with salt, malt and flaxseeds. Autolyze with cold orange juice and ~2/3 of the water for 20-30 minutes in the fridge. The gluten will develop more readily in a drier dough environment.&lt;/p>
+&lt;p>Add the levain and the remaining water (&lt;em>eau de bassinage&lt;/em>) gradually, and mix until thoroughly incorporated. Minimal handling is preferred.&lt;/p>
+&lt;p>Transfer the dough to a fridge right away and ferment for 24 hours. Do a coil-fold every 3-4 hours. Sprinkle the add-ins during the last couple of folds.&lt;/p>
+&lt;p>After 24 hours of bulk fermentation, I shaped the dough into a log, put it in a sandwich loaf pan, and let it rise at room temperature for ~3 hours before baking.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/desert-dynamo/202111291601.jpg"
+alt="Desert Dynamo"/>
+&lt;/figure>
+&lt;p>The bread is light and creamy, spicy and sweet.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/desert-dynamo/202111291824.jpg"
+alt="Desert Dynamo"/>&lt;figcaption class="right">&lt;p>Desert Dynamo, an impossible bread made with 100% Sonora whole wheat flour.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Simply put, diastatic malt is a grain which has been sprouted, dried and grounded into a powder. It contains active enzymes (diastase) that degrade starch to maltose, a simple sugar that yeasts love. You can easily make diastatic malt at home, with high-quality whole grains.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>According to several studies, orange has the highest vitamin C content of all citrus fruits.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>&lt;a href="https://breadbuster.github.io/files/BreadChemistry_tcm18-163980.pdf">Bread Chemistry&lt;/a> explains: &amp;ldquo;Ascorbic acid is, of course, a reducing agent but, during dough mixing, the enzyme ascorbic acid oxidase, naturally present in flour, catalyses its conversion to its oxidising form, dehydroascorbic acid (DHAA). In a reaction catalysed by another flour enzyme, DHAA converts glutathione (GSH), a tripeptide naturally found in wheat flour, to its dimer (GSSG). GSH, but not GSSG, can form disulfide bonds – so removing GSH prevents it from disrupting the disulfide crosslinking that otherwise form between gluten proteins.&amp;rdquo;&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Fresh orange juice contains a lot more biologically &lt;em>active&lt;/em> ascorbic acid than pasteurized orange juice.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item></channel></rss>

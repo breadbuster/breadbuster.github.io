@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>rugbrød on HERESY LEVAIN</title><link>/tags/rugbr%C3%B8d/</link><description>Latest experiments in rugbrød from HERESY LEVAIN</description><language>en-us</language><copyright>© 2023 HERESY LEVAIN 🍞 CC BY-NC-SA 4.0</copyright><lastBuildDate>Mon, 02 Jan 2023 09:39:10 +0000</lastBuildDate><atom:link href="/tags/rugbr%C3%B8d/feed.xml" rel="self" type="application/rss+xml"/><item><title>Attack of the Ryeclops</title><link>/posts/attack-of-the-ryeclops/</link><pubDate>Mon, 02 Jan 2023 09:39:10 +0000</pubDate><guid>/posts/attack-of-the-ryeclops/</guid><description>&lt;em>Okonomi rugbrød&lt;/em> -&amp;gt; Danish-style wholegrain rye bread, made with heritage Finnish &lt;em>svedjerug&lt;/em> rye (aka. Tvengsberg midsummer rye) recently revived from stock kept by the Forest Finns for many centuries. 100% unbolted. Bold grain character and chewy body. Peppery, nutty, and fruity, reinforced by the rye sour and fennel seeds.</description><content>&lt;p>&lt;em>Godt nyttår&lt;/em>!&lt;/p>
+&lt;p>An absolute torch to start 2023. 🌞🔥 &lt;em>Annus mirabilis&lt;/em>?&lt;/p>
+&lt;p>It&amp;rsquo;s wild to think that the concept of the year is a social construct based on the Gregorian calendar, orbital physics, and axial tilt. I somehow managed to overcome everything that happened to me in the past year and, for better or worse, I picked myself up and still baked bread. In that respect, how different is it from any other day?&lt;/p>
+&lt;p>December was a cold, dreary, hectic month. As a foodie perpetually in between cultures, I see holidays as a unique opportunity to explore food traditions from around the world. It&amp;rsquo;s so much fun to plan and cook together. I enjoy the process as much as the finished product.&lt;/p>
+&lt;p>So this Christmas Eve, we had air-fryer &lt;em>mirchi bajji&lt;/em> with coconut chutney, &lt;em>yebeg wot&lt;/em> (Ethiopian lamb stew) with &lt;em>rugbrød&lt;/em>, charred asparagus, braised collard greens + potlikker, and &lt;em>pasteles de cetí&lt;/em>.&lt;/p>
+&lt;p>On Christmas Day we had thin slices of &lt;em>rugbrød&lt;/em> with goat cheese and pawpaw jam, &lt;em>hangikjöt&lt;/em> (Icelandic prosciutto), chestnut mashed potatoes with cilantro béchamel, Hoppin' John, and carrot zucchini &lt;em>kimchi&lt;/em>.&lt;/p>
+&lt;p>On the second day of Christmas (the 26th), we had &lt;em>papadum&lt;/em> with mango chutney, slow-roasted five-spice duck, sautéed spinach with wild oyster mushrooms, and &lt;em>passatelli in brodo&lt;/em>.&lt;/p>
+&lt;p>For desserts, we had &lt;em>bûche de Noël&lt;/em>, orange parfait, &lt;em>torrone torrefatto&lt;/em>, etc. and drank plenty of &lt;em>brennivín&lt;/em>, Asti spumante, Diplomático rum, and Cairn o' Mohr oak leaf wines.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212231054.jpg"
+alt="rugbrød"/>&lt;figcaption class="right">&lt;p>My rugbrød.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I&amp;rsquo;ve been eating Christmas leftovers atop thin slices of &lt;em>rugbrød&lt;/em> &amp;ndash; à la &lt;em>smørrebrød&lt;/em> &amp;ndash; every single day this past week. In fact, I made 5 loaves of &lt;em>rugbrød&lt;/em> back to back (with slight variations, of course) in the last couple of weeks. They turned out so unexpectedly delicious that every single loaf disappeared within 72 hours of baking (you are supposed to let &lt;em>rugbrød&lt;/em> cool and cure for 24+ hours before slicing). I still haven&amp;rsquo;t gotten sick of eating it &amp;ndash; and decided to open source my master formula here.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212151527.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>As I started writing it out, I realized how antithetical this &lt;em>rugbrød&lt;/em> is to the standard bread embraced by mainstream consumers:&lt;/p>
+&lt;ol>
+&lt;li>It contains no wheat.&lt;/li>
+&lt;li>It doesn&amp;rsquo;t have a niveous crumb or a smooth, airy texture.&lt;/li>
+&lt;li>It&amp;rsquo;s loaded with all kinds of grains, seeds, and flavors.&lt;/li>
+&lt;li>Flour makes up only a small percentage of the overall dough.&lt;/li>
+&lt;/ol>
+&lt;p>Yup. This &lt;em>rugbrød&lt;/em> is not even remotely close to the &amp;ldquo;&lt;a href="https://breadbuster.github.io/posts/kornerstone">rye bread&lt;/a>&amp;rdquo; that you encounter at your neighborhood Jewish delicatessens or grocery stores. I repeat, it&amp;rsquo;s nothing like the smooth, ivory-crumbed, faintly tangy, caraway-flavored, mostly-wheat bread that clamps together the ideal pastrami sandwiches.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212190949.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212190955.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212191004.jpg"
+alt="rugbrød"/>&lt;figcaption class="right">&lt;p>mosaic crumb of rugbrød&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>If you have ever tripped over some darkly rugged rye toasts at Bachelor Farmer in Minneapolis, spice-scented Swedish &lt;em>limpa&lt;/em> at Pläj in San Francisco, or better yet, a dense, sticky, and chewy &lt;em>rugbrød&lt;/em> at Great Northern Food Hall in NYC&amp;rsquo;s bustling Grand Central Terminal, you probably have an idea of what I&amp;rsquo;m talking about.&lt;/p>
+&lt;p>True Danish &lt;em>rugbrøds&lt;/em> are made from wholegrain rye and naturally risen. They are bumpy, nutty, spicy, aromatic, seductively dark, powerfully delicious, and deadly addictive. OMG. Once you have tasted a good &lt;em>rugbrød&lt;/em>, it&amp;rsquo;s impossible to eat anything else!&lt;/p>
+&lt;p>The taste and texture of my creations, though, are vastly different from &lt;a href="https://www.splendidtable.org/story/2019/01/03/meyers-dark-rye-bread-with-rye-berries-and-pumpkin-seeds">Claus Meyer&amp;rsquo;s &lt;em>rugbrød&lt;/em>&lt;/a>. Not for nothing is this site called Heresy Levain.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212231049.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>While undeniably luscious (and nutritious), &lt;em>rugbrød&lt;/em> is one of the easiest breads to make. It&amp;rsquo;s basically a &amp;ldquo;dump &amp;amp; bake&amp;rdquo; low-gluten bread (rye contains a gluten protein called secalin) that takes a simple fermented rye batter and adds an eclectic mix of grains for flavor factor and crispy toasted seeds for texture.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212231050.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;h3 id="wtf-is-rye">WTF is rye?&lt;/h3>
+&lt;p>Almost all ancient forms of food production centered around shifting cultivation, a resource-based subsistence farming method where humans clear land (often forest) temporarily to grow crops for 2-3 seasons and then move on to new sites, leaving the earlier ground fallow for several years to regain its soil fertility. This way of life can be traced back to Africa and/or China, where the forerunners of &lt;em>Homo erectus&lt;/em> had emerged some 5 million years ago. They went on to spread across the world, and arrived in northern Europe less than 1 million years ago. Shifting cultivation has influenced European culture for perhaps ~10,000 years, and is still practiced by millions of people in the tropics.&lt;/p>
+&lt;p>Grain production required shifting cultivation. The primary cultivated plant throughout the Viking Age was barley. Cultivated rye (&lt;em>Secale cereale&lt;/em>) is believed to have originated from either &lt;em>S. montanum&lt;/em>, a wild species found in southern Europe and nearby parts of Asia, or from &lt;em>S. anatolicum&lt;/em>, a wild rye found in Syria, Armenia, Iran, Turkestan, and the Kirghis Steppe.&lt;/p>
+&lt;p>Rye first appears in the archaeological record about 13,000 years ago. At the beginning, it was found as a weed widely distributed in wheat and barley fields. It apparently had co-evolved with wheat and barley for thousands of years until its value as a crop was finally recognized. Rye began to be cultivated circa the 6th century, and this can be considered to be the most important change in agriculture in this period. Like barley and oats, rye flourishes in cold and wet climate.&lt;/p>
+&lt;p>Roman naturalist &lt;!-- raw HTML omitted -->Pliny the Elder&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> (AD 23-79) was dismissive of a grain that may have been rye, disparaging it as &amp;ldquo;a very poor food&amp;rdquo; that &amp;ldquo;only serves to avert starvation&amp;rdquo;. He said it was mixed with spelt &amp;ldquo;to modify its bitterness, and even then it is very disagreeable to the stomach&amp;rdquo;&lt;/p>
+&lt;p>As wheat production spread west and north to cold climates with short summers, rye likely traveled there as impurities in wheat (possibly as a result of Vavilovian mimicry).&lt;/p>
+&lt;h3 id="no-rye-no-europe">No rye, no Europe&lt;/h3>
+&lt;p>Rye is a hardy substance: Unlike wheat, millet, and barley, rye can grow in poorer soils with less sun and at higher altitudes, and it can thrive through damp, drought and winterkill. In other words, rye is made to order for northern and eastern Europe. It &lt;a href="https://www.medieval.eu/medieval-daily-bread-made-rye/">grew well&lt;/a> in the highly acidic ash leftovers from burning conifers when nothing else did.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/rye-on-conifer.jpg"
+alt="Rye bread stapled to a conifer"/>&lt;figcaption class="right">&lt;p>Rye bread stapled to a conifer (source: reddit)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Soon it became evident that this weed was outpacing wheat due to its high frost-resistance level, adaptability to various soil types, and ability to ripen over the short northern summer. Over the years, people began to cultivate rye instead, as a separate crop. This gave new agency to people in formerly unproductive regions, because one could suddenly produce an abundance of food that wasn&amp;rsquo;t possible before. Bread made from rye also lasts longer.&lt;/p>
+&lt;p>There is also a parallel explanation for why rye became so widespread in the North:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;It is possible that the spread of rye cultivation was accelerated by the climatic catastrophe of AD 536, as the latter may have caused both barley and wheat crops in fields to fail, while rye, as a less demanding cereal, at least produced seed grain. It may have been as a result of this that pure rye seed was first obtained over an extensive area.&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>Andres Tvauri, &lt;em>The Migration Period, Pre-Viking Age, and Viking Age in Estonia&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Rye fed Geoffrey Chaucer&amp;rsquo;s London and François Villon&amp;rsquo;s Paris, fueled the empires of Charlemagne and Peter the Great, and filled the ships of the Hanseatic League &amp;ndash; the vast medieval confederation of merchant guilds and market towns that for ~500 years united the nations of the North and Baltic Seas and is widely seen as a precursor to the supranational model of the European Union. And it was rye that sustained the first Europeans as they settled in North America.&lt;/p>
+&lt;h3 id="the-og-finnish-rye">The OG Finnish rye&lt;/h3>
+&lt;p>The rapid growth of rye cultivation increased food supply and encouraged human migration to brutally cold and formerly inhospitable northern Europe.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/rye-geography.png"
+alt="rye geography"/>&lt;figcaption class="right">&lt;p>The rye geography, from Stanley Ginsberg&amp;rsquo;s book &amp;lsquo;The Rye Baker&amp;rsquo;&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The story of the Finnish rye is deeply intertwined with the history of Forest Finns, who originated in geopolitical border skirmishes since the 13th century.&lt;/p>
+&lt;p>Birger Jarl allegedly established Swedish rule in Finland through the Second Swedish Crusade, most often dated to 1249. The Novgorod Republic gained control of Karelia in 1278, the region inhabited by speakers of eastern Finnish dialects. Sweden, however, gained the control of western Karelia with the Third Swedish Crusade in 1293. Western Karelians were henceforth viewed as part of the western cultural sphere; eastern Karelians were culturally closer to Russia and the Eastern Orthodox Church and thus generally considered a separate people, even though they remain closely related to the Finns, both linguistically and ethnically. As a result, the northern part of the &lt;em>de facto&lt;/em> border between Catholic and Orthodox Christendom became established at the eastern border of what would become Finland, with the Treaty of Nöteborg between Sweden and Novgorod in 1323.&lt;/p>
+&lt;p>The powers to the east of Finland, namely Novgorod and later Russia, constantly challenged the Swedish sovereignty of the often sparsely populated areas of eastern Finland. To secure their realm, the Swedish kings encouraged farmers to settle these vast wilderness regions in eastern Finland, where the slash-and-burn agriculture was the dominant means of survival.&lt;/p>
+&lt;p>Living conditions in frontier lands were rough, aside from ongoing conflicts with the indigenous Sámi and Karelian peoples. The cultivation of rye brought with it a rapid increase in population. The fact that slash-and-burn itself is a very land-intensive farming method that requires either a low human population density or a constant supply of new &amp;ldquo;frontier&amp;rdquo; lands also contributed to overpopulation in eastern Finland.&lt;/p>
+&lt;p>By late-16th century, the Swedish crown encouraged (some say &amp;ldquo;forced&amp;rdquo;) the Forest Finns from Savonia and Northern Häme (Tavastland) to migrate westward and settle the wilderness in central and western Finland, in order to secure the vast border areas of the kingdom. The Forest Finns didn&amp;rsquo;t find many large forest areas there, so they continued on to present-day Sweden. Within a few decades, the Forest Finns had populated most of these sub-alpine Swedish forests.&lt;/p>
+&lt;p>From the 1620s on, the Forest Finns began settling in Norway. The largest concentration of settlements was in the eastern part of Hedmark, along the Norwegian-Swedish border. That area is denoted today as &lt;em>Finnskogen&lt;/em> in Norwegian and &lt;em>Finnskog&lt;/em> in Swedish, literally &amp;ldquo;the Finnish woods.&amp;rdquo; There, on those high-altitude forested ridges, the Forest Finns made a living by producing Finnish rye (called &lt;em>svedjerug&lt;/em> in Norwegian, literally &amp;ldquo;slash-and-burn rye.)&amp;rdquo; In this rather remote forest belt, they were also able to move back and forth between the two countries, as the border itself was not properly established until 1751.&lt;/p>
+&lt;blockquote>
+&lt;p>Finnforest culture has its roots to the east, and is found throughout northern Eurasia. Shifting cultivation was the main means for the survival of the forest Finns. Shifting cultivation was a very land-intensive farming method, resulting in a constant need for new areas. This was the reason for the migration, which spread slowly westward. They searched for new forests, needing spruce of good quality. Forest Finns came to Norway between 1620 and 1630. They first settled in the forests bordering Sweden, but then spread further into the eastern part of Telemark in the west. There are registered Forest Finns settlements in 40 municipalities in Hedmark, Oppland, Oslo, Akershus, Østfold and Telemark counties. Norsk Skogfinsk Museum main task is to preserve and show the world the Forestfinns culture.&lt;/p>
+&lt;ul>
+&lt;li>Ragnhild Queseth Haarstad, Head of the Board at Norsk Skogfinsk Museum&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>In Denmark-Norway (back then Norway was part of a union), the authorities in Copenhagen were allegedly in favor of the Forest Finns' immigration and their slash-and-burn agriculture due to the relatively high yields of rye production, compared to traditional Norwegian staples. These Forest Finns became known locally in Norway as &lt;em>Rugfinner&lt;/em> (Rye Finns) or notably &lt;em>Svedjefinner&lt;/em> (slash-and-burn Finns).&lt;/p>
+&lt;p>However, from the mid-17th century, the locals showed dissatisfaction with the newcomers, and the authorities issued new regulations to slow down Finnish immigration.&lt;/p>
+&lt;p>At the same time, a nascent iron industry was growing, where smelting was powered by charcoal. The Forest Finns' slash-and-burn agriculture was suddenly considered an economic threat to the iron industry because burning off now valuable timber increased the cost of charcoal. The state authorities officially banned the burning of forests in 1647, and the Finns were obliged to support the iron factories by providing charcoal at an artificially depressed price.&lt;/p>
+&lt;p>As often said, politics is downstream from culture, which is downstream from economics.&lt;/p>
+&lt;p>The cultivation of Finnish rye continued for another few hundred years, until the onset of World War I. Because this slash-and-burn technique involves the felling and burning of trees for temporary crop cultivation, it&amp;rsquo;s blamed for deforestation, soil erosion, loss of biodiversity, and climate change. The last burn was done in the 1930s in Finland. Today, carefully controlled slash-and-burn is practiced in local villages around Finland, in order to keep the heritage alive.&lt;/p>
+&lt;h3 id="the-rediscovery-of-rye">The rediscovery of rye&lt;/h3>
+&lt;p>Rye might have led to the Salem witch trials, as Linda Caporael argued in a 1976 article in &lt;em>Science&lt;/em> magazine. Rye (eaten as a cereal and as a common ingredient of bread) can be infected with &lt;a href="http://law2.umkc.edu/faculty/projects/ftrials/salem/sal_acct.htm">ergot&lt;/a>, a fungus which invades developing kernels under warm and damp conditions &amp;ndash; known to have existed at the time in Salem. &amp;ldquo;Convulsive ergotism causes violent fits, a crawling sensation on the skin, vomiting, choking, and&amp;ndash;most interestingly &amp;ndash; hallucinations. The hallucinogenic drug LSD is a derivative of ergot.&amp;rdquo;&lt;/p>
+&lt;p>Although rye is extraordinarily strong and easy to grow, many Scandinavian farmers abandoned it as a food crop and grew it mostly for animal feed and as a cover crop to plow nutrients back into the soil.&lt;/p>
+&lt;p>Rye rose and fell, like the Roman Empire. But in Scandinavia, the &lt;em>smørrebrød&lt;/em> (&lt;em>smörgås&lt;/em> in Swedish) tradition helped keep strong rye breads alive. These open-faced sandwiches &amp;ndash; with rich toppings like oily herring, cured salmon and smoked cheese &amp;ndash; are eaten as breakfast, snacks, and lunch. They simply cannot be built on limp, bland bread.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212231048.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>In the US, a new generation of artisan bakers, distillers and chefs have sought to revive the grain. We now have rye rigatoni, rye &lt;em>mille-feuille&lt;/em> (&lt;em>millfoglie&lt;/em>), rye croissant, rye shortbread cookies, puffed rye cereal, etc. The Nordic tradition of slow-roasting a whole chicken or cauliflower in rye stalks is also in vogue.&lt;/p>
+&lt;blockquote>
+&lt;p>Rye bread can make a meal fit for a kaiser, as it does at the Hotel Adlon, the sumptuous new establishment near the Brandenburg Gate, where the breakfast buffet includes up to 15 breads from three local bakers, plus house-baked walnut bread, to say nothing of Danish pastry from LeNotre in Paris and bagels, donuts and muffins from Starbuck&amp;rsquo;s &amp;ndash; for homesick Yanks, no doubt.&lt;/p>
+&lt;p>It can make a philosopher happy, too, as I discovered a decade ago when, thanks to an introduction from a mutual friend, I ate lunch with the late Isaiah Berlin at the Garrick Club in London. Arriving at the table, the Russian-born scholar asked whether I liked bread. When I replied that I did, he said the club&amp;rsquo;s bread was wretched, reached into the ample recesses of his black suit coat and produced two great chunks of rye, one dark, one light, both wrapped in wrinkled brown paper bags. It was the best thing we ate that day, and it went very nicely, thank you, with one of the club&amp;rsquo;s elegant clarets.&lt;/p>
+&lt;ul>
+&lt;li>R. W. Apple Jr., &amp;ldquo;&lt;a href="https://www.nytimes.com/1998/07/15/dining/the-miracle-of-rye-in-germany-and-among-some-here-rye-bread-is-a-spiritual-thing.html">The Miracle of Rye&lt;/a>&amp;rdquo; (July 15, 1998)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212231055.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212231059.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>After World War I, the Finnish slash-and-burn rye was considered a lost variety &amp;ndash; until 1973 when &lt;a href="https://en.wikisource.org/wiki/Author:Per_Martin_Tvengsberg">Per Martin Tvengsberg&lt;/a>, a 37-year-old curator and &lt;a href="https://en.wikisource.org/wiki/Slash_and_burn">historian&lt;/a> at Hedmark Museum in eastern Norway, found 10 rye grains between the floorboards at an old grain-drying house in Grue Finnskog, the heart of &amp;ldquo;the Finnish woods.&amp;rdquo;&lt;/p>
+&lt;p>Tvengsberg then carefully planted these precious seeds to see if any would germinate on the off-chance. Well, 7 of these grains did sprout! Tvengsberg convinced the gardeners at the Hamar Domkirkeodden Urtehagen (herb garden at the Hamar Cathedral ruins) to grow these seedlings out. Thus began the salvation for the Finnish rye.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/ryesod.jpg"
+alt="Rye seedlings growing in the herb garden at the Hamar Domkirkeodden"/>&lt;figcaption class="right">&lt;p>Rescued &amp;lsquo;svedjerug&amp;rsquo; seedlings growing in the herb garden at the Hamar Domkirkeodden, autumn 1988. (Photo: Per Martin Tvengsberg)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After several years, they had built up a decent supply of the rye grain. Eventually, the descendants of these 7 seeds made it into the Svalbard Global Seed Vault. Now this Finnish rye is grown all over the Nordic fields. The variety has been named &amp;ldquo;&lt;em>Svedjerug Tvengsberg&lt;/em>,&amp;rdquo; after the man who rediscovered it. In Swedish literature, it&amp;rsquo;s most commonly called &lt;em>midsommarråg&lt;/em> (&amp;ldquo;midsummer rye&amp;rdquo;), referring to the fact that the cultivar was traditionally sown in a burnt-off area in mid-summer. (The crop is typically lightly grazed or cut as green fodder for animals the same fall, and harvested the year after like a normal winter rye.) In English, it&amp;rsquo;s often called &amp;ldquo;Tvengsberg midsummer rye&amp;rdquo; &amp;ndash; because &amp;ldquo;slash and burn&amp;rdquo; just doesn&amp;rsquo;t sound as poetically elegant or politically correct.&lt;/p>
+&lt;p>~25 years ago, Norwegian farmer Johan Swärd obtained a handful of &lt;em>svedjerug&lt;/em> seeds from the Hamar botanical garden and began cultivating it at his farm, Vestre Aschim Gård. Thanks to decades of research, the grain has been rehabilitated through organic farming methods that make it possible to conserve its unique taste.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/5-seeds.png"
+alt="Tvengsberg midsummer rye grown in different areas"/>&lt;figcaption class="left">&lt;p>Tvengsberg midsummer rye grown in different areas: 1. Svedjerug from Digerberget, Torsby, Värmland (50,000 grains/kg). 2. Svedjerug from Revholtet, Grue Finnskog (55,000 grains/kg). 3. Sangasterug from Estonia (20,000 grains/kg). 4. Korpiruis from Sweden (30,000 grains/kg). 5. Svedjerug from Mattila, Østmark, Värmland (50,000 grains/kg). Photo: Erki Animagi (2013)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Generally, rye has a large number of kernels per plant. And this Finnish rye, oh boy, produces an extreme number that&amp;rsquo;s worthy of a Guinness world record all on its own! Under optimal conditions, Swärd &lt;a href="https://vimeo.com/124598269">says&lt;/a>, as many as 100 stalks can be produced from a single seed, and each of these stalks can yield &amp;lt;=100 kernels per seed-head &amp;ndash; that&amp;rsquo;s a mesmerizing total of 10,000 grains from a single plant! What this means is, in a short amount of time, a farmer can increase their grain output exponentially, constrained only by the acreage available for planting. No wonder people used to say, if all you had was &lt;a href="https://www.smithsonianmag.com/history/for-40-years-this-russian-family-was-cut-off-from-all-human-contact-unaware-of-world-war-ii-7354256/">a pocket full of rye&lt;/a>, you could survive.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://player.vimeo.com/video/124598269" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="vimeo video" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe>
+&lt;/div>
+&lt;p>Swärd also explains why it&amp;rsquo;s important to not only store such heritage varieties as &lt;em>svedjerug&lt;/em> in gene banks like Svalbard, but also continue to keep them alive by growing them and adapting them to changing conditions.&lt;/p>
+&lt;blockquote>
+&lt;p>We don&amp;rsquo;t need a museum for conserving varieties. What we want is to grow them.&lt;/p>
+&lt;ul>
+&lt;li>Johan Swärd&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Swärd has done such a great job popularizing the revived Finnish rye over the years &amp;ndash; you can now even buy &lt;em>svedjerug&lt;/em> flour and grain (via Økologisk Spesialkorn AS) in one of the nicer supermarkets in Trondheim! You should totally pick up some on your next Scandinavian vacation. (If you can&amp;rsquo;t wait until then, a dozen Scandinavian e-commerce stores sell them with options for international shipping.)&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/Tvengsberg-rye.png"
+alt="different svedjerug products"/>&lt;figcaption class="right">&lt;p>Different &amp;lsquo;svedjerug&amp;rsquo; products available to consumers today&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>This &lt;em>svedjerug&lt;/em> can grow as tall as 2.5 meters (8.2 ft), and is a majestic sight in the fields! It has a strong, deep aroma and, depending on the growing area and season, may exude hints of vanilla, banana, tutti-frutti, grass, bark, and toasted nuts. Like other grains, each year&amp;rsquo;s &lt;em>svedjerug&lt;/em> has its own characteristics.&lt;/p>
+&lt;p>A study by University of Copenhagen (Landbohøjskolen) showed that &lt;em>svedjerug&lt;/em> had more proteins, more vitamins and more antioxidants than other grains.&lt;/p>
+&lt;h3 id="okonomi-rugbrød">&lt;em>Okonomi rugbrød&lt;/em>&lt;/h3>
+&lt;p>Like I said, the &lt;em>rugbrød&lt;/em> is a really simple dough: just combine a bunch of grains and seeds with some rye levain and flour.&lt;/p>
+&lt;p>The soaker can have as many or as few kinds of grains and seeds as you want. Totally &lt;em>okonomi&lt;/em> (お好み, &amp;ldquo;whatever you like&amp;rdquo;).&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>cracked rye&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>oats&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>buckwheat&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sorghum&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>quinoa&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>kañiwa&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>fonio&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>teff&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>millet&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>amaranth&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>h₂o&lt;/td>
+&lt;td>200%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I would cook the larger grains into a thick porridge, and soak the smaller ones overnight to sprout them a bit.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>sunflower seeds&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>pumpkin seeds&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>flax seeds&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sesame seeds&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>poppy seeds&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>h₂o&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Toast the seeds first, if desired.&lt;/p>
+&lt;p>You could add add some sourdough to the whole grain &amp;amp; seed soaker mixture and let it ferment overnight at room temperature. I&amp;rsquo;ve done the soaker with and without the sourdough, and both have turned out great.&lt;/p>
+&lt;p>The final dough:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>unbolted rye flour (&lt;em>svedjerug&lt;/em> - Vestre Aschim, Norway)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>rye levain (stiff &amp;amp; ripe)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>soaker&lt;/td>
+&lt;td>400%-500%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>rye bread kvass (optional)&lt;/td>
+&lt;td>50%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>grated coconut (optional)&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>fennel seeds (Savory Spice)&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>wild Norwegian kelp, ground (Maine Coast Sea Vegetables)&lt;/td>
+&lt;td>7%&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Havnsø flake salt (North Sea Salt works)&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Just mix everything together until a uniform consistency &amp;ndash; like a thick porridge. Add more water if necessary. The dough for this bread should be as wet as possible, but not runny or flowing off a spoon.&lt;/p>
+&lt;p>Let the dough sit for some time (30 mins to 3 hours, depending on the ambient temperature), while you grease a loaf pan or two. Next, scrape the dough into the pans, and use a wet spatula to smooth the top. Sprinkle more seeds on top if desired.&lt;/p>
+&lt;p>Proof for 4-5 hours at ~80°F, or overnight at 60°F. The dough should have risen by ~50%, and will be rounded puffy edges and holes/cracks from popped bubbles on the surface. It should have a pleasant sour smell as well.&lt;/p>
+&lt;p>The longer you let the dough ferment, the more acidic it becomes. You don&amp;rsquo;t want it to taste excessively sour&lt;/p>
+&lt;p>Bake it when it&amp;rsquo;s ready. 375°F for the first 20 mins, and then 325°F for another 20-30 mins. Alternatively, you can bake it low and slow &amp;ndash; something like 200°F for 12 hours. (In September 2022, an American seismologist &lt;a href="https://twitter.com/seismogenic/status/1566873127866421249">attempted&lt;/a> to bake rúgbrauð in his car during a heatwave in the San Fernando Valley &amp;ndash; unsuccessfully.)&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212151514a.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>Once done baking, cover the cooled loaf in foil or paper and then wrap it up in a kitchen towel. Leave it for 24+ hours (to let the crumb set), before slicing.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212151518a.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212151525.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>I honestly have no freakin' clue how this bread manages to hold itself together. The crumb is hardly crumbly at all, and incredibly moist and juicy.&lt;/p>
+&lt;p>It tastes insanely flavorful. Each bite delivers pure, crisp satisfaction wrapped in lusciously creamy rye.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212161728.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212161729.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>I recommend listening to &lt;a href="https://www.youtube.com/playlist?list=OLAK5uy_kL-sY5br4JAgtKrOENZned1wxMg6Oem5c">Incantations of the Forest Finns&lt;/a> while enjoying this &lt;em>rugbrød&lt;/em>. 🎶&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_kL-sY5br4JAgtKrOENZned1wxMg6Oem5c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Like I said earlier, once you have tasted a good &lt;em>rugbrød&lt;/em>, it&amp;rsquo;s impossible to eat anything else!&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212251125.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212251129.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/202212261247.jpg"
+alt="rugbrød"/>
+&lt;/figure>
+&lt;p>Top a slice with some pastrami-spiced swordfish and freshly grated horseradish or a slab of blue cheese, and you are in smørrebrød heaven.&lt;/p>
+&lt;p>These loaves disappeared so fast that I didn&amp;rsquo;t even get any leftover to crumble and simmer into a morning bowl of &lt;em>øllebrød&lt;/em>. Wtf.&lt;/p>
+&lt;hr>
+&lt;p>Baking with &lt;em>svedjerug&lt;/em> made me feel uber connected to history and nature.&lt;/p>
+&lt;p>The Forest Finns' territory, and thus, their way of being, kept shifting and morphing over time, leaving us with a persistently vaporous sense of them and their world. In the course of adapting to their various new homes, the Finns had to go through many forms of oppression and dilution. Much like Native Americans, pure-blood Forest Finns have very nearly disappeared from our shared existence, but the &lt;a href="https://terjeabusdal.com/books/slash-and-burn">idea and meaning&lt;/a> of being a &amp;ldquo;Forest Finn&amp;rdquo; has come to acquire a pull that&amp;rsquo;s greater than ever. Maybe the only official criterion for being a Forest Finn is that, regardless of your origin, you simply feel that you are a Forest Finn deep down inside. What remains of the Forest Finns, other than a &lt;a href="https://www.youtube.com/watch?v=1eywhtbrisE">documentary&lt;/a> and a &lt;a href="https://kjellandersjoberg.se/en/projects/project/museum-of-forest-finn-culture/">museum project&lt;/a>, is perhaps psychological&amp;hellip;&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/attack-of-the-ryeclops/Niveous_Christmas.jpg"
+alt="Niveous Christmas"/>&lt;figcaption class="right">&lt;p>Niveous Christmas&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>&lt;em>The Natural History&lt;/em>. Pliny the Elder. Translated by John Bostock, M.D., F.R.S. H.T. Riley, Esq., B.A. London. Taylor and Francis, Red Lion Court, Fleet Street. 1855. Book 18, Ch. 40.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item></channel></rss>

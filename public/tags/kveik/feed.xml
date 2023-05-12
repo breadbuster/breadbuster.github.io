@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kveik on HERESY LEVAIN</title><link>/tags/kveik/</link><description>Latest experiments in kveik from HERESY LEVAIN</description><language>en-us</language><copyright>© 2023 HERESY LEVAIN 🍞 CC BY-NC-SA 4.0</copyright><lastBuildDate>Sun, 16 Apr 2023 15:55:25 +0000</lastBuildDate><atom:link href="/tags/kveik/feed.xml" rel="self" type="application/rss+xml"/><item><title>levure de bière #3: Lactobacillus + Kveiks + Brettanomyces</title><link>/posts/byb-3/</link><pubDate>Sun, 16 Apr 2023 15:55:25 +0000</pubDate><guid>/posts/byb-3/</guid><description>&lt;em>Berliner Weisse&lt;/em> reincarnated as a wholegrain bread. A mightily aromatic and tasty scald with craft malts. Sequential mixed-fermentation with cultures from Imperial Yeast: A44 Kveiking, W25 Lacto Brevis, and W15 Suburban Brett.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>One of my all-time favorite beer styles is &lt;em>Berliner Weisse&lt;/em> (German: &lt;em>Berliner Weiße&lt;/em>), a deliciously tart wheat beer that originated in the region around Berlin, Germany and developed gradually from the 17th to the 20th century. A popular story has it that in 1809, Napoleon and his troops celebrated their Prussian victory with &lt;em>Berliner Weisse&lt;/em>; the soldiers described the beer as sweet and tart, strong and effervescent, and dubbed it &lt;!-- raw HTML omitted -->&amp;ldquo;the Champagne of the North.&amp;quot;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;em>Berliner Weisse&lt;/em> is defined by its mouth-watering sour tang &amp;ndash; slightly less sour than a &lt;em>gueuze&lt;/em>, and not as funky or vinous. A great &lt;em>Berliner Weisse&lt;/em> is complex but straightforward, acidic but infinitely enjoyable. It&amp;rsquo;s malty but dry, crisp, refreshing, and light &amp;ndash; rarely with oakiness, hoppiness, tannins, or acetic flavors.&lt;/p>
+&lt;blockquote>
+&lt;p>Whereas &lt;em>weissbier&lt;/em> makes the drinker monosyllabic, reserved, and retiring, the Bavarian brewings open his heart and let loose his tongue.&lt;/p>
+&lt;ul>
+&lt;li>Henry Vizetelly&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>The origins of &lt;em>Berliner Weisse&lt;/em> are hazy at best. Along with its sour cousin, Leipziger &lt;em>gose&lt;/em>, the wheat ale hearkens back to a time when brewers in northern Germany lived by their own rules. Literally. The area evaded the Bavarian &amp;ldquo;beer purity&amp;rdquo; laws known as &lt;em>Reinheitsgebot&lt;/em> for centuries, allowing brewers to create funky, sour ales that resemble Belgian styles more than those of the Rhineland.&lt;/p>
+&lt;p>&lt;em>Weisse&lt;/em> in German means &amp;ldquo;wheat&amp;rdquo;, and &lt;em>weissbier&lt;/em> is usually translated into English as &amp;ldquo;wheat beer&amp;rdquo;, which includes a faulty assumption that there is usually a heavy component of wheat in the malt bill. Like the famous &lt;em>witbiers&lt;/em> (&amp;ldquo;white beers&amp;rdquo;) of Belgium, &lt;em>weisse&lt;/em> also means &amp;ldquo;white.&amp;rdquo; That is, &lt;em>Berliner Weisse&lt;/em> is traditionally brewed from air-dried rather than kiln-dried malt.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/Friedies-berliner-weisse.jpg"
+alt="Friedies Berliner Weisse"/>&lt;figcaption class="right">&lt;p>Friedies &lt;em>Berliner Weisse&lt;/em>&lt;/p>&lt;p>Source: &lt;a href="https://friediesbrauhaus.blog/berliner-weisse-das-ergebnis/" target="_blank" rel="noreferrer">Friedies Brauhaus&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>There are several competing theories surrounding the development of the style. One theory holds that the French Huguenot refugees, who fled to Berlin in the 17th and early 18th centuries, developed the beer after migrating through Flanders and picking up techniques from brewers of Flanders brown and red ales. There is little hard evidence supporting this theory, although the Landré family, who were prominent &lt;em>weissbier&lt;/em> brewers and had factories at &lt;em>Stralauer Straße&lt;/em> 36/37 and &lt;em>Münzstraße&lt;/em> 3, were French-born Huguenots. But the Landrés didn&amp;rsquo;t come to Berlin until &lt;a href="https://www.hugenottenmuseum-berlin.de/sammlung/objekt-des-monats/jubilaeumskelch-der-weissbierbrauerei-landre-1885">the second half of the 18th century&lt;/a>, and Charles Fréderic Edouard Landré didn&amp;rsquo;t acquire the wheat beer brewery at &lt;em>Stralauer Straße&lt;/em> 36/37, which was founded in 1780, until 1835. It seems rather late, given the brewing of &lt;em>weissbier&lt;/em> in northern Germany predates the 1600s.&lt;/p>
+&lt;p>Another theory points to an improvement of a beer called &lt;em>Halberstädter Broihan&lt;/em>, a &lt;em>weissbier&lt;/em> that was first developed by the brewer Cord Broihan in the 16th century and became incredibly popular across northern Germany for several centuries. A Hanover native, Broihan returned to his homeland in 1526 after a stay in Hamburg, and tried to copy the then-popular Hamburg beer, but failed. So he invented a wheat beer that soon became fashionable. Berlin brewers succeeded in further developing the recipe and brewing a wheat beer that tasted better and was more digestible. The &lt;em>Berlinische Weitzenbier&lt;/em> was born; it was praised by the Berlin doctor J. S. Elsholz as early as 1642. It was officially mentioned for the first time in a 1680 document.&lt;/p>
+&lt;p>The Bohemian military leader and statesman Albrecht von Wallenstein reportedly appreciated the white beer. However, during the turmoil of the Thirty Years' War (1618-1648), wheat was in short supply. The situation in the &lt;em>Mark Brandenburg&lt;/em> was so dire that Wallenstein complained bitterly in a letter to his subordinate Arnim von Boitzenburg, &amp;ldquo;&amp;hellip;&lt;em>dahero denn nicht weiß, wie den Durst löschen muss, dieweil ich das Gerstenbier nicht trinken kann&lt;/em>&amp;hellip;&amp;rdquo; (&amp;rdquo;&amp;hellip;so I don&amp;rsquo;t know how to quench my thirst, since I can&amp;rsquo;t drink the barley beer&amp;hellip;&amp;quot;)&lt;/p>
+&lt;p>19th-century Berliners no longer had this problem. By the late 18th century, &lt;em>Berliner Weisse&lt;/em> seemed to have emerged as a distinct style of its own, and became available at all times and practically everywhere. &lt;a href="https://barclayperkins.blogspot.com/2015/03/berliner-weissbier-breweries-in-1890s.html">Specialty &lt;em>weissbier&lt;/em> breweries&lt;/a> such as Landré on &lt;em>Stralauer Straße&lt;/em>, Breithaupt on &lt;em>Palisadenstraße&lt;/em>, and &lt;a href="https://de.wikipedia.org/wiki/Wei%C3%9Fbierbrauerei_Willner">Willner&lt;/a> in Pankow brewed excellent beer.&lt;/p>
+&lt;p>From the late 1850s to 1870s, however, &lt;em>Berliner Weisse&lt;/em> fell out of favor &amp;ndash; so much so that an English publisher named Henry Vizetelly predicted in 1859, &lt;!-- raw HTML omitted -->&amp;ldquo;Ten years hence and guide-books will describe [&lt;em>weissbier&lt;/em>] with the same reverence as the Colosseum in Rome, or the Palace of the Doges in Venice. Ten years later there will be a case in the Berlin Museum containing the mysterious goblets, representing a &amp;lsquo;white or a half white,&amp;rsquo; and the so-called &amp;lsquo;cool blonde.'&amp;quot;&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>A revival did ensue. In 1879, Vizetelly paid homage to the &amp;ldquo;&lt;em>kühle blonde&lt;/em>&amp;rdquo; in &lt;em>Berlin Under the New Empire&lt;/em>, describing in detail its place in a Berliner&amp;rsquo;s life.&lt;/p>
+&lt;blockquote>
+&lt;p>In front of everyone stood a gigantic tumbler which could have been fitted with ease upon any ordinary head, and which contained a liquid pale and clear as Rhine wine, surmounted by a huge crown of froth not unlike a prize cauliflower. This was the famous &amp;ldquo;weiss,&amp;rdquo; the mere mention of which suffices to send a Berliner into raptures and into the mysteries of which I was about to be initiated. &amp;hellip; [Berlin was] the city where the &lt;em>kühle blonde&lt;/em> is obtained in the greatest perfection and where &lt;em>bier-stuben&lt;/em> offering no other beverage to their frequenters abound. The beer is drunk by preference when it is of a certain age, and in perfection it should be largely impregnated with carbonic acid gas and have acquired a peculiar sharp, dry, and by no means disagreeable flavor.&lt;/p>
+&lt;/blockquote>
+&lt;p>The modern &lt;em>Berliner Weisse&lt;/em> developed relatively late, towards the end of the 19th century. Shortly after the turn of the 20th century, &lt;em>weißbier-stuben&lt;/em> (wheat beer bars) mushroomed all over Berlin. At the height of its popularity, &lt;em>Berliner Weisse&lt;/em> was the most popular alcoholic drink in Berlin, with &lt;a href="https://barclayperkins.blogspot.com/2015/03/berliner-weissbier-breweries-in-1890s.html">dozens of breweries&lt;/a> producing it.&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/Crabtree-berliner-weisse.jpg"
+alt="Crabtree Berliner Weisse"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> by Crabtree Brewing Company (Colorado, US)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>History suggests that wheat beers brewed around Berlin were not originally sour (i.e. not any different from those brewed in Hamburg or Nürnberg), but rather light and easy to drink compared to the heavier &lt;em>braunbier&lt;/em> (brown beer). Most of the &lt;em>weissbiers&lt;/em> were about 3% ABV and used a mash of at least 50% wheat. Interestingly, the wort was not boiled and the amount of hops used was minimal. The hops were typically not added in the kettle, but blended into the mash as a separate boiled infusion to increase the mash temperature.&lt;/p>
+&lt;p>Since the wort wasn&amp;rsquo;t sterilized, you can easily imagine the enormous diversity of microorganisms that survived into the cooled wort. Thus, it was crucial to start the fermentation as quickly as possible to suppress most of the spoilage microorganisms. Even so, heat-tolerant lactic acid bacteria (LAB) survived and synergistically fermented the worts into beers with a dry and lightly acidic character. This was not true spontaneous fermentation as carried out in &lt;em>lambics&lt;/em> &amp;ndash; yeast was pitched, but carried both yeast and bacteria from previous fermentations.&lt;/p>
+&lt;p>A. F. Zimmermann wrote in &lt;em>Der Bier-Brauer als Meister in seinem Fache&lt;/em> (1842), &amp;ldquo;all wheat beers, especially in the summer, easily turn sour and sometimes even sour during the brewing process.&amp;rdquo;&lt;/p>
+&lt;p>Other microorganisms survived wort production, too; malts have plenty of their own LAB, for instance. Fermentation took place in wood, which is porous and thus difficult to sanitize.&lt;/p>
+&lt;p>Therefore, there are 3 production stages where acidification could have taken place:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>During mashing: if the mash stood too long, especially at room temperatures&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>During fermentation: primarily caused by yeast cross-contaminations&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>During storage: mainly caused by microflora in the storage vessels&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>The result was a range of beers with vastly differing levels of acidity. Although acidity was not uncommon in beers of the 17th-18th centuries, the variability of the beer meant that it often failed to meet consumers&amp;rsquo; expectations.&lt;/p>
+&lt;p>Both J. G. Krünitz (in &lt;em>Oekonomische Encyklopädie&lt;/em>, published in 1773) and &lt;!-- raw HTML omitted -->Johann Samuel Halle&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> described the brewing process used in the second half of the 18th century, both indicating production was brewery-specific. For example, Halle offered a recipe made with equal parts of barley and wheat malts, while Krünitz provided one with 2/3 wheat and 1/3 barley. Such differences continued until only two breweries made the beer at the beginning of the 21st century &amp;ndash; and until they merged, &lt;em>Berliner Kindl&lt;/em> and &lt;em>Schultheiss&lt;/em> followed very different brewing processes.&lt;/p>
+&lt;p>Krünitz also wrote about how some of the distinctive features of the style&amp;rsquo;s brewing methods had already appeared by the 1770s:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>A decoction method, in which Berlin brewers pulled off the thinnest portion of a mash from the top, brought it to a boil, and then added hops to the decoction. The remaining wort was never boiled. This was an important technique. LAB is very sensitive to hops and could easily be killed by over-hopping. This is not a problem &amp;ndash; in fact, a blessing &amp;ndash; when brewing most styles. But &lt;em>Berliner Weisse&lt;/em> relies on &lt;em>lactobacilli&lt;/em> to acquire its trademark sour note. Over the years, brewers have used several techniques to get around this problem. To this day, the brewers of &lt;em>Berliner Kindl Weisse&lt;/em> split the wort, leave half raw, and add hops to only the other half.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Some of the wort was drawn off before cooling and pitched with yeast. By the time the rest of the wort had cooled, this yeasted portion would already be fermenting, and pitched into the main body of wort.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Franz Schönfeld pointed out in his 1902 book, &lt;em>Die Herstellung obergähriger Biere&lt;/em>:&lt;/p>
+&lt;ul>
+&lt;li>In the early decades of the 19th century, &lt;em>Berlin Weissbier&lt;/em> brewers regularly refreshed their yeast with fresh &lt;em>Bitterbier&lt;/em> yeast brought in from &lt;a href="https://en.wikipedia.org/wiki/Cottbus">Cottbus&lt;/a>. If they kept re-pitching harvested yeast, their beer would get too sour.&lt;/li>
+&lt;li>Only in the 1830s or 1840s did brewers begin using mixed cultures that could be safely re-pitched without needing to be periodically refreshed.&lt;/li>
+&lt;/ul>
+&lt;p>After World War II, the style started to wane again. Even though it&amp;rsquo;s protected under &lt;em>appellation d&amp;rsquo;origine contrôlée&lt;/em> (AOC) within Europe &amp;ndash; no beer produced outside Berlin can carry the name &amp;ndash; &lt;em>Berliner Weisse&lt;/em> no longer enjoys the popularity that it once did in its home city. The Berlin tradition has sadly slipped through the cracks and remained in a very mournful state, hanging on by a thin thread.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/450-berliner-weisse.jpg"
+alt="450 North Brewing Slushy Blueberry Dessert Berliner Weisse"/>&lt;figcaption class="right">&lt;p>Slushy Blueberry Dessert &lt;em>Berliner Weisse&lt;/em> by 450 North Brewing (Indiana, US)&lt;/p>&lt;p>Source: &lt;a href="https://www.craftbeerjoe.com" target="_blank" rel="noreferrer">Craft Beer Joe&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The consolidated &lt;em>Berliner-Kindl-Schultheiss-Brauerei&lt;/em> (now part of the massive Radeberger Gruppe), the last brewery in Berlin producing &lt;em>Berliner Weisse&lt;/em>, and therefore the last brewery on Earth that may use the appellation, does not even feature the historic beer during its brewery tours. The ubiquitous brand it produces, &lt;em>Berliner Kindl Weisse&lt;/em>, has such a sharp, one-dimensional, lactic sourness that it&amp;rsquo;s hard to drink without those colorful sugar syrups.&lt;/p>
+&lt;p>The few commercial breweries that still produce &lt;em>Berliner Weisse&lt;/em> no longer use a yeast/bacterial blend to co-ferment the beer; the bacterial fermentation is conducted separately from the yeast fermentation, and the beer is blended to achieve a pre-defined acidity. Beers produced this way are very pale, slightly hazy, and effervescent, with a light tang. They are refreshing oddities, but show little complexity.&lt;/p>
+&lt;hr>
+&lt;p>Like any beer style that has been around for more than 5 minutes, &lt;em>Berliner Weisse&lt;/em> has gone through several transformations, adapting to technological, political and social changes along the way.&lt;/p>
+&lt;p>One of my biggest qualms about beers labeled as &lt;em>Berliner Weisse&lt;/em> on the market is that they are often too light and &lt;a href="https://barclayperkins.blogspot.com/2017/10/how-sour-was-berliner-weisse.html">not sour enough&lt;/a> for me. I&amp;rsquo;d like to amp up the flavor.&lt;/p>
+&lt;p>Here&amp;rsquo;s my journey of making a &lt;em>Berliner Weisse&lt;/em>-inspired bread from scratch, in the melting pot that is America.&lt;/p>
+&lt;p>Size: one 9&amp;rdquo; x 4&amp;quot; loaf&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_143916.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> bread, sliced.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="scald-2h--100-105f-2h--109-114f-4h--150-155f">Scald (2h @ 100-105°F, 2h @ 109-114°F, 4h @ 150-155°F)&lt;/h3>
+&lt;p>These days, everyone tells you that &lt;em>Berliner Weisse&lt;/em> is brewed with 50% wheat malt and 50% pilsener malt.&lt;/p>
+&lt;p>From the beginning, Berlin&amp;rsquo;s brewers sought to keep the beer as white as possible, and used air-dried or lightly kilned wheat. The grist varied throughout history:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://barclayperkins.blogspot.com/2022/06/lets-breew-1834-berliner-weisse.html">75% smoked wheat + 25% lager&lt;/a> in 1834&lt;/li>
+&lt;li>&lt;a href="https://barclayperkins.blogspot.com/2022/06/brewing-berliner-weisse-in-1840s.html">83.3% wheat + 16.7% barley&lt;/a> in 1842&lt;/li>
+&lt;li>&lt;a href="https://barclayperkins.blogspot.com/2022/06/another-way-of-mashing-berliner-weisse.html">87.5% wheat + 12.5% barley&lt;/a> in 1845&lt;/li>
+&lt;li>&lt;a href="https://barclayperkins.blogspot.com/2022/06/lets-brew-wednesday-1907-berliner.html">75% wheat + 25% lager&lt;/a> in 1907&lt;/li>
+&lt;/ul>
+&lt;p>Benedikt Koch has an interesting &lt;a href="https://wilder-wald.com/2017/12/08/historic-berliner-weisse-homebrew-recipe/">recipe&lt;/a> for a historically accurate version; it uses 70% wheat malt and 30% pilsner malt to create &amp;ldquo;enough mouthfeel and doughiness from the wheat.&amp;rdquo;&lt;/p>
+&lt;p>My focus wasn&amp;rsquo;t on historic accuracy, but on how to play yeasts, bacteria, and grains off each other to create a balanced, tasty bread that has a similar flavor profile to &lt;em>Berliner Weisse&lt;/em>.&lt;/p>
+&lt;p>Total dry malts: 200g&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>Ölandsvete&lt;/em> wheat malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>70%&lt;/td>
+&lt;td>140g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->(sun-dried Chevallier)&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>40g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>honey malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>5%&lt;/td>
+&lt;td>10g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>rye malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>5%&lt;/td>
+&lt;td>10g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>boiled water (from cooking pasta), cooled off to ~120°F&lt;/td>
+&lt;td>140%&lt;/td>
+&lt;td>280g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Process&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Grind the malts, individually or collectively, into a flour. It doesn&amp;rsquo;t have to be super fine.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Place all the malt flours in a bowl or small saucepan; pour the hot pasta water (aka. liquid gold) in 2-3 increments, stirring constantly. It should have the consistency of a slightly thick porridge.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hold the mash at&lt;/p>
+&lt;ul>
+&lt;li>100-105°F for 2 hour (to help phytase break down phytin molecules and release phytic acid which lowers the mash pH);&lt;/li>
+&lt;li>109-114°F for 2 hours (to help maximize the release of ferulic acid, which is a precursor to 4-vinyl-guaiacol, a molecule that&amp;rsquo;s credited with giving off a clove-like aroma);&lt;/li>
+&lt;li>raise the temperature to 150-155°F and hold for 4 hours (to saccharify).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>The mash tasted mightily malty and sweet after 8 hours.&lt;/p>
+&lt;p>Total: 480g (to be split into 400g and 80g)&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230413_151535.jpg"
+alt="craft malts from Root Shoot Malting"/>&lt;figcaption class="right">&lt;p>craft malts from Root Shoot Malting (Colorado): Bono rye, &lt;em>Ölandsvete&lt;/em> wheat, and honey malt.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="thermophilic-sour-lactobacillus-brevis-24h--100-95f">Thermophilic sour: &lt;em>Lactobacillus brevis&lt;/em> (24h @ 100-95°F)&lt;/h3>
+&lt;p>Breweries are split between their methods in souring &lt;em>Berliner Weisse&lt;/em>. On one side, there are kettle-soured proponents; on the other, you have the staunch traditionalists.&lt;/p>
+&lt;p>Kettle souring allows for a quick turn-around and eliminates a brewery&amp;rsquo;s concern for cross-contamination. Souring bacteria need a special cleaning procedure, so some brewers prefer the kettle sour technique to lower this risk. Most American breweries use this technique for brewing &lt;em>Berliner Weisse&lt;/em>, because it&amp;rsquo;s fast, simple, and consistent.&lt;/p>
+&lt;p>The traditional brewing method is to co-ferment with &lt;em>lactobacilli&lt;/em> and yeast to make a more expressive flavor profile. This takes longer and requires dedicated sour beer fermenters.&lt;/p>
+&lt;p>I do what works for me in my home lab. And I&amp;rsquo;m going to combine the method that Krünitz mentioned in his 1773 book with Otto Francke&amp;rsquo;s method of souring patented in 1908.&lt;/p>
+&lt;blockquote>
+&lt;p>Important Question for Breweries which produce Acid Beers of the Type of Berlin &amp;ldquo;Weiss&amp;rdquo; Beer. O. Francke (&lt;em>Wochensch. Brau.&lt;/em>, 1907, 24, 621-624). — &amp;ldquo;Weiss&amp;rdquo; beer is prepared by fermenting wort with yeast and lactic acid bacteria. It is a very difficult matter, however, to acclimatise a mixture of lactic acid bacteria and pure yeast in constant proportions. The author recommends a process (which has been employed for two years with very satisfactory results) in which the lactic acid and yeast fermentations are carried out separately. The wort, as it runs off from the spent grains, is subjected to the action of pure culture lactic acid bacteria until the required degree of acidity is attained. The wort is then boiled, cooled, and fermented with pure culture yeast. The beer thus prepared has a pleasant acid taste, and does not require the aid of certain non-slime forming pediococci (see this Journal, 1907, 13, 626-630) to impart a pleasant flavour to it. If a mature, vinous &amp;ldquo;Weiss&amp;rdquo; beer is required, it is only necessary to treat the lactic acid-containing wort with ordinary bacteria-containing &amp;ldquo;Weiss&amp;rdquo; beer yeast. The presence of the lactic acid protects the fermenting wort against the attack of dangerous pediococci, and the beer acquires a sound, vinous taste. The beer prepared by the first method (i.e., that in which the lactic acid fermentation is followed by a pure yeast fermentation) only requires a short period of storage before it is ready for consumption. For the lactic acidification, the author employs distillery culture lactic acid bacillus &lt;em>Delbrücki&lt;/em>, and for the alcoholic fermentation, top-fermentation pure yeast, Race B (high attenuating).&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Journal of the Institute of Brewing&lt;/em>, Volume 14, Issue 2, 1908, pages 196-197&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>I drew off 80g of the scald and inoculated with yeast (see &lt;a href="https://breadbuster.github.io/posts/byb-3/#barm-kveiks-8h--100-95f">barm&lt;/a>), while souring the rest 400g.&lt;/p>
+&lt;p>Let the saccharified scald cool off to ~110°F.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>saccharified scald&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>400g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lacto Brevis (Imperial Yeast, Oregon)&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>8g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I could let the scald ferment spontaneously over the course of a few days to develop a harmony of lactic acid, like Berliners did a few hundred years ago. But I opted to lacto-ferment the scald with a thermophilic culture, e.g. &lt;em>Lactobacillus delbrückii subsp. bulgaricus&lt;/em>, to build a particular aroma and tart-sweet taste. I have a homemade thermophilic starter (containing multiple wild &lt;em>Lactobacillus&lt;/em> strains) that easily achieves this goal, or I can take a shortcut by using a Bulgarian yogurt that contains &amp;ldquo;live and active cultures.&amp;rdquo; (IIRC, the &lt;a href="https://www.poilane.com/en/products/poilane-the-secrets-of-the-world-famous-bread-bakery-par-apollonia-poilane">&lt;em>Poilâne&lt;/em>&lt;/a> book has a recipe for a 2-day levain that uses yogurt.)&lt;/p>
+&lt;p>This time, I wanted to try acidifying the scald with a strain of &lt;em>Lactobacillus brevis&lt;/em> from &lt;a href="https://www.imperialyeast.com/organic-yeast-strains/yeast-types/wild-sour/lacto-brevis/">Imperial Yeast&lt;/a>.&lt;/p>
+&lt;blockquote>
+&lt;p>Lacto Brevis is a great strain for souring wort in the kettle or fermenter, prior to adding yeast for fermentation.&lt;/p>
+&lt;/blockquote>
+&lt;p>I recall reading somewhere that &lt;em>Lactobacillus brevis&lt;/em> typically produces more lactic acid than strains like &lt;em>Lactobacillus delbrückii&lt;/em>.&lt;/p>
+&lt;p>Thermophilic cultures love and thrive off heat. Unless you plan to ferment outdoors in the thick of summer in Arizona, you generally need some setup (yogurt maker or crockpot) to keep the heat consistent.&lt;/p>
+&lt;p>Other LAB strains you could consider, instead of &lt;em>Lactobacillus brevis&lt;/em>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Lactobacillus delbrückii&lt;/em>: The species name &lt;em>delbrückii&lt;/em> came from Max Delbrück, a Berlin native and a founder of microbiology, who characterized bacteria in the sour beers of Berlin in the 1930s.&lt;/li>
+&lt;li>&lt;em>Lactobacillus helveticus&lt;/em>: a primary culture used in the manufacturing of hard and extra-hard Italian and Swiss cheeses.&lt;/li>
+&lt;li>&lt;em>Lactobacillus acidophilus&lt;/em>&lt;/li>
+&lt;li>&lt;em>Lactobacillus lactis&lt;/em>&lt;/li>
+&lt;li>&lt;em>Lactobacillus plantarum&lt;/em>&lt;/li>
+&lt;li>&lt;em>Lactobacillus paracasei&lt;/em>&lt;/li>
+&lt;li>&lt;em>Streptococcus salivarius subsp. thermophilus&lt;/em>&lt;/li>
+&lt;li>&lt;em>Pediococcus pentosaceus&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;p>Regardless of which strain you use, any of them, to an extent, has a positive effect on the aroma and taste of the bread.&lt;/p>
+&lt;p>I added 9.6g of &lt;a href="https://www.imperialyeast.com/organic-yeast-strains/yeast-types/wild-sour/lacto-brevis/">Lacto Brevis&lt;/a> to the scald as an inoculation medium, and mixed it in evenly. Then I covered the mixture with a plastic wrap, pressing down to remove as much oxygen as possible. Keep in mind that liquid yeast cultures from different labs have different concentrations; adjust inoculation percentage accordingly.&lt;/p>
+&lt;p>I typically hold the thermophilic stage at 110-120°F, but Imperial Yeast recommends a temperature range of 100-85°F for Lacto Brevis (&lt;a href="https://www.whitelabs.com/news-update-detail?id=45&amp;amp;type=NEWS">White Labs&lt;/a> has also shown that &lt;em>Lactobacillus brevis&lt;/em> struggles with lactic acid production at &amp;gt;107°F), so I left the scald to sour for 24 hours at 100-95°F.&lt;/p>
+&lt;p>After 24 hours, the scald showed little activity, which is probably a good sign. Pure cultures of &lt;em>Lactobacillus&lt;/em> &lt;a href="https://www.milkthefunk.com/wiki/Lactobacillus">cannot fully ferment wort&lt;/a>. If it starts bubbling and producing CO₂ visibly, then it&amp;rsquo;s likely cross-contaminated with yeast. Thomas Hübbe, in his 2016 master thesis &amp;ldquo;effect of mixed cultures on microbiological development in &lt;em>Berliner Weisse&lt;/em>&amp;rdquo;, supports that &lt;em>Lactobacillus&lt;/em> attenuates &amp;lt;10% of the sugars in wort.&lt;/p>
+&lt;p>The scald smelled neutral (no funky, phenolic aroma), and tasted mildly tart and sweet. I thought that was a sweet spot &amp;ndash; I didn&amp;rsquo;t want the thermophilic souring to go too far or have a very low pH that could disrupt the yeast&amp;rsquo;s fermentation. The scald will develop its maximal character later from other cultures.&lt;/p>
+&lt;p>Total: 408g&lt;/p>
+&lt;h3 id="barm-kveiks-8h--100-95f">Barm: Kveiks (8h @ 100-95°F)&lt;/h3>
+&lt;p>About 2/3 of the way through the thermophilic sour, I made a barm with a blend of kveik ale yeasts.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>saccharified scald&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>80g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>A44 Kveiking (Imperial Yeast, Oregon)&lt;/td>
+&lt;td>0.5%&lt;/td>
+&lt;td>0.4g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I used Imperial Yeast&amp;rsquo;s &lt;a href="https://www.imperialyeast.com/organic-yeast-strains/yeast-types/ale/kveiking/">A44 Kveiking&lt;/a>, a blend of 3 kveik strains that &amp;ldquo;thrives in hot fermentations when big complex ester profiles are desired&amp;rdquo; and &amp;ldquo;can produce an insane amount of pineapple, guava and other exotic tropical fruit aromas.&amp;rdquo;&lt;/p>
+&lt;p>Typically, one would use a neutral German or European ale yeast to ferment a &lt;em>Berliner Weisse&lt;/em>, so the resulting flavors won&amp;rsquo;t contradict each other. But this Kveiking&amp;rsquo;s ester profile happens to match the tropical tart sweetness of Root Shoot&amp;rsquo;s honey malt. It would be really nice if the former could accentuate the latter.&lt;/p>
+&lt;blockquote>
+&lt;p>The Kveiking blend also works well when fermenting kettle soured worts for a strong tropical fruit character.&lt;/p>
+&lt;/blockquote>
+&lt;p>As with other kveiks, a little bit goes a long way. A low pitch rate (e.g. on the dangerous edge of underpitching), coupled with a continuously high fermentation temperature, can drive these aromatics even higher.&lt;/p>
+&lt;p>Kveiking has an attenuation rate of 75-85% and low flocculation. Imperial Yeast recommends a temperature range of 97-75°F for Kveiking. So I mixed in 0.4g of the liquid yeast (adjust the inoculation percentage accordingly based on concentration), gave it a vigorous mix, and let the barm ferment at 100-95°F (same temperatures as Lacto Brevis) for 8 hours.&lt;/p>
+&lt;p>The barm already doubled in volume after 6 hours. The surface was very bubbly. I stirred it back down, and let it ripen for another 2 hours.&lt;/p>
+&lt;p>When fully ripe, the barm smelled faintly beery and mildly alcoholic, with some fruity notes. It tasted explosively flavorful, like a pineapple-based tropical fruit punch infused with guava, persimmon, and cinnamon apple!&lt;/p>
+&lt;p>Maybe the intrigue of &lt;em>Berliner Weisse&lt;/em> comes from what the yeast does in an acidic environment: It comes up with some fun cider, &lt;em>sauvignon blanc&lt;/em>, passion fruit, funky tropical-ness &amp;ndash; which makes this style &lt;em>uber&lt;/em> interesting.&lt;/p>
+&lt;p>Total: 80.4g&lt;/p>
+&lt;h3 id="mesophilic-sour-3h--95-85f-3h--85-75f">Mesophilic sour (3h @ 95-85°F, 3h @ 85-75°F)&lt;/h3>
+&lt;p>Once the barm and the thermophilic sour were both done with their respective fermentation, I proceeded to the mesophilic phase.&lt;/p>
+&lt;p>&lt;strong>Step 1&lt;/strong>: 3h @ 95-85°F&lt;/p>
+&lt;p>I dropped 40% (32g) of the ripened barm to the surface of the thermophilic sour, did &lt;em>not&lt;/em> mix at all, and just left it to open-ferment at falling temperatures from 95°F to 85°F for 3 hours.&lt;/p>
+&lt;p>In this temperature range, &lt;em>Lactobacillus brevis&lt;/em> continues to work, acidifying the scald further. The barm begins yeast fermentation of the soured scald.&lt;/p>
+&lt;p>After 2 hours, I began to notice some very active bubbling (CO₂) on the surface where the barm was dropped.&lt;/p>
+&lt;p>&lt;strong>Step 2&lt;/strong>: 3h @ 85-75°F&lt;/p>
+&lt;p>After 3 hours, I added the remainder of the barm, gave it a thorough mix, and left it to open-ferment at 85-75°F for another 3 hours.&lt;/p>
+&lt;p>In this temperature range, yeast fermentation continues. &lt;em>Lactobacillus brevis&lt;/em> should show reduced activity or even become dormant in this temperature range.&lt;/p>
+&lt;p>Total: 488.4g&lt;/p>
+&lt;h3 id="complex-sour-brettanomyces-bruxellensis-24h--70-60f">Complex sour: &lt;em>Brettanomyces bruxellensis&lt;/em> (24h @ 70-60°F)&lt;/h3>
+&lt;p>It was not until the second half of the 20th century that brewing scientists identified &lt;em>Brettanomyces&lt;/em> in &lt;em>Berliner Weisse&lt;/em>. F. J. Methner&amp;rsquo;s 1987 thesis on &lt;em>Berliner Weisse&lt;/em> showed that the mixed pitching cultures contained &lt;em>Brettanomyces&lt;/em> and a second variety passed on through brewery equipment. The slow-acting strains affected flavor and aroma only in bottles that were cellared for a long time.&lt;/p>
+&lt;p>Over the last few years, a number of people (e.g. &lt;a href="https://escarpmentlabs.com/en-us/blogs/resources/tales-from-the-lab">Richard Preiss&lt;/a> of Escarpment Labs) have isolated &lt;em>Berliner Weisse&lt;/em> &lt;em>Brettanomyces&lt;/em> strains out of old bottles and even kept some of them alive. Brewing with &lt;a href="https://schneeeule.berlin/en/portfolio/marlene-en/">historical strains&lt;/a> must be fun!&lt;/p>
+&lt;p>Funk and &lt;em>Brettanomyces&lt;/em>-derived flavors are not required in modern &lt;em>Berliner Weisse&lt;/em>. Since I&amp;rsquo;m a hopeless fan of funk, I had to seek out some &lt;em>Brettanomyces&lt;/em> and added a little bit during the tertiary fermentation to accentuate the bread&amp;rsquo;s complexity. IMO, the main function of &lt;em>Brettanomyces&lt;/em> in &lt;em>Berliner Weisse&lt;/em> is to transform lactic and acetic acid to ethyl lactate and ethyl acetate.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/Brettanomyces-wheel.jpg"
+alt="Brettanomyces aroma/flavor wheel"/>&lt;figcaption class="right">&lt;p>Brettanomyces aroma/flavor wheel, showing the major metabolic pathways, enzymes, and metabolites produced by different &lt;em>Brettanomyces&lt;/em> strains during beer fermentation. The data suggest that &lt;em>Brettanomyces&lt;/em>, especially &lt;em>B. bruxellensis&lt;/em>, is capable of producing large amounts of acetate and medium-chain fatty acid esters including ethyl acetate, ethyl lactate, isoamyl acetate and phenethyl acetate, which are mainly found in lambic beers and American coolship ales.&lt;/p>&lt;p>Source: &lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jib.580" target="_blank" rel="noreferrer">&amp;lsquo;Molecular and biochemical aspects of &lt;em>Brettanomyces&lt;/em> in brewing&amp;rsquo; (2019)&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Keep in mind, though, too much &lt;em>Brettanomyces&lt;/em> can throw a &lt;em>Berliner Weisse&lt;/em> off balance, and detract from its inherent thirst-quenching character. Great funky beers/breads are balanced and fresh-tasting.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>mesophilic sour&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>488.4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>W15 Suburban Brett (Imperial Yeast, Oregon)&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I added 5g (about 1% of total scald weight thus far) of Imperial Yeast&amp;rsquo;s &lt;a href="https://www.imperialyeast.com/organic-yeast-strains/yeast-types/wild-sour/suburban-brett/">Suburban Brett&lt;/a> to the finished mesophilic sour. This &lt;em>Brettanomyces bruxellensis&lt;/em> strain is said to produce &amp;ldquo;complex and balanced aromas of sour cherry, dried fruit and balanced by a unique tropical fruit profile.&amp;rdquo;&lt;/p>
+&lt;p>According to &lt;a href="https://www.milkthefunk.com/wiki/Brettanomyces">Milk The Funk wiki page on Brettanomyces&lt;/a>:&lt;/p>
+&lt;blockquote>
+&lt;p>If pitched into a beer that has already been fermented by &lt;em>Saccharomyces&lt;/em> or if co-pitched with &lt;em>Saccharomyces&lt;/em>, a wider range of flavors including the funkier flavors can be produced by changing some of the flavor compounds produced during the &lt;em>Saccharomyces&lt;/em> fermentation into other flavor compounds, although &lt;em>Brettanomyces&lt;/em> can also produce funky phenols on its own (&lt;em>de novo&lt;/em>) without phenolic precursors produced from &lt;em>Saccharomyces&lt;/em>. A small cell count of &lt;em>Brettanomyces&lt;/em> is plenty for creating these flavors if pitched after and co-pitched with &lt;em>Saccharomyces&lt;/em>, and normally a starter is not necessary unless pitching &lt;em>Brettanomyces&lt;/em> as the primary fermenter.&lt;/p>
+&lt;/blockquote>
+&lt;p>Imperial Yeast recommends a temperature range of 74-64°F for this &lt;em>Brettanomyces bruxellensis&lt;/em> strain, so I let it ferment (loosely covered) at 70-60°F for 24 hours.&lt;/p>
+&lt;p>At these cooler temperatures, kveiks slow down and sit quietly in the background (e.g. lower attenuation and less fruity esters), while &lt;em>Brettanomyces&lt;/em> shines.&lt;/p>
+&lt;p>When done, the mash became incredibly lively. It had an intensely fruity aroma and flavor that reminded me of pineapple, guava, passion fruit, tamarind, and even the Swedish mesophilic yogurt, &lt;em>filmjölk&lt;/em>! Not one-dimensionally sour, but deeply tropical with a complex sweet tartness. Unbelievably tasty.&lt;/p>
+&lt;p>&lt;em>Brettanomyces&lt;/em> certainly contributed a different touch of tartness than &lt;em>Lactobacillus brevis&lt;/em>; they complemented each other well in this barm. &lt;em>Brettanomyces&lt;/em> can be funky / fruity and tart, but not sour.&lt;/p>
+&lt;p>Total: 493.4g&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230414_135809.jpg"
+alt="complex sour after 60&amp;#43; hours"/>&lt;figcaption class="right">&lt;p>the complex sour: incredibly lively, aromatic, and tasty!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>By now, the scald has gone through &lt;strong>all of the fermentation phases&lt;/strong> that would normally take place in an 18th- or 19th-century &lt;em>weissbierbrauerei&lt;/em>:&lt;/p>
+&lt;ul>
+&lt;li>155-150°F: saccharification&lt;/li>
+&lt;li>100-95°F: thermophilic LAB fermentation&lt;/li>
+&lt;li>95-85°F: mesophilic LAB and &lt;em>Saccharomyces&lt;/em> yeast fermentation&lt;/li>
+&lt;li>85-75°F: &lt;em>Saccharomyces&lt;/em> yeast fermentation&lt;/li>
+&lt;li>70-60°F: &lt;em>Brettanomyces&lt;/em> yeast fermentation&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230414_135906.jpg"
+alt="complex sour"/>&lt;figcaption class="right">&lt;p>The 62-hour sour, after going through all of the fermentation phases that would normally take place in an 18th- or 19th-century &lt;em>weissbierbrauerei&lt;/em>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="final-dough--35h--68f">Final dough (3.5h @ ~68°F)&lt;/h3>
+&lt;p>Total wholegrain flour: 350g&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat flour, 100% extraction&lt;/td>
+&lt;td>80%&lt;/td>
+&lt;td>280g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>oat flour, 100% extraction&lt;/td>
+&lt;td>20%&lt;/td>
+&lt;td>70g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sour (all)&lt;/td>
+&lt;td>141%&lt;/td>
+&lt;td>493.4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>34%&lt;/td>
+&lt;td>120g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>3.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I prefer my bread to have just a hint of natural sweetness, rather than plenty sweet. Add malt syrup or honey, if desired.&lt;/p>
+&lt;p>I basically mixed everything together into a smooth, cohesive, and soft dough (adjust hydration as necessary). I let it sit at room temperature (~68°F) for 20 minutes to autolyze, before giving it a few rounds of stretching and folding. The gluten was somewhat weak, but it&amp;rsquo;s okay.&lt;/p>
+&lt;p>I fermented the dough at room temperature (~68°F) for 90 minutes. It expanded by ~50% and felt very puffy.&lt;/p>
+&lt;p>Then I degassed the dough and shaped it into a log (form into a &lt;em>boule&lt;/em> or &lt;em>bâtard&lt;/em> if desired), and placed it in a 9&amp;quot; x 4&amp;quot; loaf pan for final proof.&lt;/p>
+&lt;p>After another 90 minutes at ~68°F, the dough rose by ~50% and formed a domed surface with a few cracks. I sprayed the dough with water and baked it for 45 minutes in my ghetto toaster oven (first 15 minutes at 375°F; then 30 minutes at 325°F).&lt;/p>
+&lt;p>After baking, I let the bread cool off and cure for 12 hours before cutting.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_144616.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> reincarnated as bread, with &lt;em>Lactobacillus&lt;/em>, &lt;em>kveiks&lt;/em>, and &lt;em>Brettanomyces&lt;/em>.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="tasting">Tasting&lt;/h3>
+&lt;p>Who knew a surprise was awaiting me when I sliced into this bread?&lt;/p>
+&lt;p>The &lt;strong>aroma&lt;/strong> was very interesting and inviting, like a zesty Granny Smith apple with a hint of raisin and cinnamon.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_144016.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The &lt;strong>color&lt;/strong> of the crumb was somewhere between soft yellow orange and luscious grapefruit (probably due to the bran and germ in unsifted whole red wheat flour).&lt;/p>
+&lt;p>The &lt;strong>texture&lt;/strong> was comparable to that of my regular sourdough breads. The crust was very thin and crisp; the crumb tight and soft. Mouth-filling, biscuity, and wheaty. Not ethereally fluffy, but still light on the palate.&lt;/p>
+&lt;p>The &lt;strong>flavor&lt;/strong> was mellow yet deeply layered. It started off with a delicate apple pie; continued to a medley of fruits (banana, orange, raisins, cinnamon apple, strawberries, apricot, peach, lychee, passion fruit&amp;hellip;) that somehow reminded me of banana nut muffins or blueberry streusel cakes; and then transitioned perfectly to a mild wheat sweetness with a little slightly clove-ish undertone.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_145258.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The finish was mildly tangy (reminiscent of pineapple), and a little &amp;ldquo;dry&amp;rdquo; after I swallowed. There was a wheaty aftertaste. The touch of smooth, rounded acidity left my mouth watering and wanting another bite. Whole wheat seemed to have played off the tartness that defines &lt;em>Berliner Weisse&lt;/em>.&lt;/p>
+&lt;p>It was subtly tart and well balanced, not unduly sour or puckering. You can tell the nice balance of lactic acid in this bread by its lack of sharp bitterness or a salty-type quality.&lt;/p>
+&lt;p>Wheat-forward, apple-esque, and unexpectedly nuanced.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_145623.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Like a &lt;em>Berliner Weisse&lt;/em> that&amp;rsquo;s light, zippy, zingy, and drinkable, this bread was very pleasant to eat on its own.&lt;/p>
+&lt;p>A little sweet, a little sour, and a whole lot of complex fruity notes. It&amp;rsquo;s the perfect buddy to soak in that summer social sun with. I&amp;rsquo;m amazed by the harmonious balance of sweetness and acidity, the marvelous self-conducted symphony by different yeasts and bacteria.&lt;/p>
+&lt;p>The slices paired exquisitely with raspberry jam and goat cheese for breakfast; with leftover Easter ham (or a hot bratwurst) and some sauerkraut for lunch/dinner.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_144042.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>When toasted, this bread took on a slightly different flavor profile: more subtle, less cinnamony, more fruity. It smelled more like freeze-dried apple slices, fruit punch, and Jolly Rancher; and tasted more like field-fresh apples.&lt;/p>
+&lt;p>One things for sure &amp;ndash; this bread was too easy to enjoy. The whole loaf disappeared in record time (I invited 4 tasters, each of whom gobbled up a few slices; nobody believed this bread had no fruit in it). Simple and elegant, delicious and refreshing. I can see how the mystique of &lt;em>Berliner Weisse&lt;/em> has defied convention and beguiled invaders and imbibers for centuries.&lt;/p>
+&lt;p>I would think this bread tastes best 24 hours after baking.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_145911.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="post-baking-thoughts">Post-baking thoughts&lt;/h3>
+&lt;p>I have learned a lot more about yeasts through this experiment. Yeast is going to be the new hops.&lt;/p>
+&lt;p>Once again, it&amp;rsquo;s crazy to think that a bread with such complex flavors was made from just some humble grains, without any modern high-tech add-ins.&lt;/p>
+&lt;p>I should have doubled the recipe and made more than 1 loaf. This is a bread I will definitely make again (it was so worth it, and I could easily adapt the timing to my own WFH schedule). I may even top-crop some cultures from the barm for future batches.&lt;/p>
+&lt;p>&lt;strong>Fruity sweetness&lt;/strong>&lt;/p>
+&lt;p>In the 19th century, Germans started to find &lt;em>Berliner Weisse&lt;/em> a little too tart and added sweeteners to soften its acidity. Originally, they added &lt;em>kümmel&lt;/em> (a caraway-based liqueur), but today it&amp;rsquo;s common to add a shot of &lt;em>schuss&lt;/em>, or syrup, directly to the glass before it&amp;rsquo;s filled with beer. In Berlin, when you order a &lt;em>Berliner Weisse&lt;/em>, the waiter will often ask, &amp;ldquo;&lt;em>rot oder grün&lt;/em>?&amp;rdquo; (&amp;ldquo;red or green?&amp;quot;)&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/berliner-weiss.jpg"
+alt="Berliner Weiße mit Schuß"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weiße mit Schuß&lt;/em>: Berliner Weisse with red &lt;em>himbeersirup&lt;/em> (raspberry syrup) or green &lt;em>waldmeistersirup&lt;/em> (woodruff syrup)&lt;/p>&lt;p>Source: &lt;a href="https://willkommen-in-germany.tumblr.com/post/161499667736/berliner-weisse-mit-schu%C3%9F-berlins-traditional" target="_blank" rel="noreferrer">Willkommen in Deutschland&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The colors refer to the type of syrup you&amp;rsquo;d like to add to the beer. Red is usually a sweet raspberry syrup known as &lt;em>himbeersirup&lt;/em>. Green is a more traditional grassy herbal syrup made from &lt;em>waldmeister&lt;/em> (woodruff).&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;A great favourite with the ladies is the frothy Berlin white beer, drunk out of large bowl-shaped glass, and with a liqueur-glass of raspberry syrup added to it.&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>Dundee Evening Telegraph (Wednesday 01 November 1905, page 6)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>While Germans commonly add syrups to their &lt;em>Berliner Weisse&lt;/em> to balance its funky sourness, Americans put their own twists on the style by adding different combinations of fruits. I don&amp;rsquo;t think this bread needed any extra fruitiness (it&amp;rsquo;s not a fruit juice), but I may experiment with adding ~10% of wild pawpaw purée in a future iteration.&lt;/p>
+&lt;p>&lt;em>&lt;strong>Lactobacillus brevis&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>According to &lt;a href="https://wilder-wald.com/2017/12/08/historic-berliner-weisse-homebrew-recipe/">Benedikt Koch&amp;rsquo;s research&lt;/a>, the main &lt;em>Lactobacillus&lt;/em> strain found in &lt;em>Berliner Weisse&lt;/em> was &lt;em>Lactobacillus brevis&lt;/em>. I did not know this at all before making this bread. I used Lacto Brevis because that was what I had on hand at the moment, other than my homemade thermophilic starter. Other hop-tolerant &lt;em>Lactobacillus&lt;/em> strains, such as &lt;em>L. lindnerii&lt;/em>, &lt;em>L. casei&lt;/em>, &lt;em>L. coryniformis&lt;/em> and &lt;em>L. plantarum&lt;/em>, have also been found in &lt;em>Berliner Weisse&lt;/em>.&lt;/p>
+&lt;p>I found a wealth of information on &lt;em>Lactobacillus brevis&lt;/em> in a 2003 paper called &amp;ldquo;&lt;a href="https://pubmed.ncbi.nlm.nih.gov/14623377/">beer spoilage bacteria and hop resistance&lt;/a>.&amp;rdquo;&lt;/p>
+&lt;p>Additionally, I read that a &amp;ldquo;symbiosis&amp;rdquo; between yeast and &lt;em>Lactobacillus&lt;/em> only seems to work when the &lt;em>Lactobacillus&lt;/em> is &lt;em>L. brevis&lt;/em>. This rod-shaped &lt;em>Lactobacillus&lt;/em> strain seems to leave the simpler sugars to the yeast, which keeps the yeast somewhat fitter in a hostile, acidic environment. There is little information on how this works in beer literature. In sourdough literature, however, it&amp;rsquo;s mentioned and researched several times.&lt;/p>
+&lt;p>&lt;strong>Malts and thiols&lt;/strong>&lt;/p>
+&lt;p>How much of the bread&amp;rsquo;s bright, tropical-fruit aromas and flavors are contributed by malts and yeasts, respectively?&lt;/p>
+&lt;p>Currently, hops high in bound thiols (e.g. Saaz and Calypso) and genetically-modified &amp;ldquo;thiolized&amp;rdquo; yeasts are the go-to tools that brewers are employing to maximally unleash previously inaccessible tropical aromas into their beers. However, a few scientists and brewers are &lt;a href="https://brewingindustryguide.com/what-malt-can-do-for-your-thiols/">discovering&lt;/a> malts may be the most powerful player in this realm.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-3/20230415_150238.jpg"
+alt="Berliner Weisse bread sliced"/>&lt;figcaption class="right">&lt;p>&lt;em>Berliner Weisse&lt;/em> reincarnated as bread, with &lt;em>Lactobacillus&lt;/em>, &lt;em>kveiks&lt;/em>, and &lt;em>Brettanomyces&lt;/em>.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>🍻 Special thanks to&lt;/p>
+&lt;ul>
+&lt;li>Rory @ &lt;a href="https://www.imperialyeast.com/">Imperial Yeast&lt;/a>&lt;/li>
+&lt;li>Craig Miller @ &lt;a href="https://www.rootshootmalting.com">Root Shoot Malting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>See &lt;em>The Simon &amp;amp; Schuster Pocket Guide to Beer&lt;/em> (1997) by Michael Jackson, p.65.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>See &lt;em>Bentley&amp;rsquo;s Miscellany&lt;/em>, Vol. 46, by Richard Bentley, et al. (London: Richard Bentley, 1859), 418.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>See &lt;em>Die Berliner Weisse: Ein Stück Berliner Geschichte&lt;/em> (&amp;ldquo;Berliner Weisse: A Piece of Berlin History&amp;rdquo;), by Gerolf Annemüller, Hans-J. Manger, and Peter Lietz (Berlin: VLBFachbücher, 2001), 34.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>I malted a batch of heritage Chevallier barley at home (slightly undermodified) and sun-dried them before grinding into a flour, to ensure the malt remained as pale as possible.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>levure de bière #2: keptinis + Opshaug kveik ale yeast</title><link>/posts/byb-2/</link><pubDate>Sat, 08 Apr 2023 12:24:42 +0000</pubDate><guid>/posts/byb-2/</guid><description>Lithuania&amp;rsquo;s best-kept secret, &lt;em>keptinis alus&lt;/em> (an exotic farmhouse raw ale made with &amp;lsquo;baked&amp;rsquo; mash), translated into bread. Aromatic caramelized &lt;em>barm&lt;/em> with craft malts. Leavened exclusively with Opshaug &lt;em>kveik&lt;/em> ale yeast.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>Lithuania has a best-kept secret: &lt;em>&lt;strong>keptinis alus&lt;/strong>&lt;/em>, an exotic farmhouse raw ale made with &amp;ldquo;baked&amp;rdquo; mash.&lt;/p>
+&lt;p>This beer style &amp;ndash; like a softer, rounder porter but with stronger, deeper caramel and toffee flavors &amp;ndash; dates back to the Viking era. Nowadays it&amp;rsquo;s made by only a few farmhouse brewers in northeastern Lithuania and 3 commercial breweries: &lt;a href="https://dundulis.lt/en/">Dundulis&lt;/a>, &lt;a href="https://www.ratebeer.com/brewers/ramuno-cizo-alaus-darykla/10373/">Ramunas Čižas&lt;/a>, &lt;a href="https://www.ratebeer.com/brewers/kupiskio-alus/12065/">Kupiškio Alus&lt;/a> (&lt;em>kupiškėnų keptinis&lt;/em> was once voted the best Lithuanian beer on RateBeer.com).&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Kfc-EycOBvk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>The brewing process, which has been passed down orally from generation to generation over the centuries, usually begins with a conventional, but thick, mash for an hour. Meanwhile, the brewer heats an oven to incredibly high temperatures &amp;ndash; likely &amp;gt;700˚F (371˚C). Then the brewer packs the mash into tins that look like bread pans and bake them in the oven. Just before the loaves go in, the brewer removes the fuel from the oven, so that it cools over the course of a few hours. While in the oven, the mash forms a centimeter-thick, deep-brown crust, and goes through Maillard reactions in addition to caramelization. Beneath that crust, the firm mash becomes, in &lt;a href="https://www.garshol.priv.no/blog/394.html">Lars Garshol&lt;/a>&amp;rsquo;s words,&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;sweet, toasted, and caramelly sugary, with earthy, honey-like notes.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>Imagine sweet mash cookies&amp;hellip;&lt;/p>
+&lt;p>The brewer breaks up the charred mash and creates a second mash, adding hop tea (it&amp;rsquo;s a raw ale, after all) before fermenting. The boatload of toasted sugars imparts massive toasty toffee flavors. I can only imagine the depth of flavors in an old-fashioned &lt;em>keptinis&lt;/em>, as well as its robust notes of caramel and toffee that probably linger for a long time.&lt;/p>
+&lt;p>Lars Garshol also mentioned that Martin Warren of the Poppyland Brewery in Norfolk, England &lt;a href="https://poppylandbrewer.blogspot.com/2015/04/a-great-way-to-lose-day.html">tried to brew a &lt;em>keptinis&lt;/em>&lt;/a> and failed miserably. Here&amp;rsquo;s what Warren did:&lt;/p>
+&lt;blockquote>
+&lt;p>The dry malt bill was mixed in a large bucket until even. Then 1.5kg at a time were put into a large mixing bowl and about 1.4 litres of near boiling water added, enough to wet all the grains and make a stiff mix.&lt;/p>
+&lt;p>This was quickly put into a shallow baking tray to form a flat &amp;lsquo;loaf&amp;rsquo; and turned out onto a newspaper.&lt;/p>
+&lt;/blockquote>
+&lt;p>I&amp;rsquo;m guessing the reasons he wound up with black, unfermentable water with no sugar in it are:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>the mash was too dry;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>the mashing process didn&amp;rsquo;t last long enough to activate the enzymes that convert starches into fermentable sugars; all the enzymes in the malt were destroyed via baking before any conversion took place.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Of course, you&amp;rsquo;d end up with a sugarless water this way.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/keptinis-baked-mash.jpg"
+alt="traditional keptinis baked mash"/>&lt;figcaption class="right">&lt;p>Lithuanian traditional baked mash, at &lt;em>Dundulio Koštuvė&lt;/em> 2022&lt;/p>&lt;p>Source: &lt;a href="https://www.facebook.com/dundulis.alus.gira/posts/pfbid0291AL9yjwHsfeshtTdo48c6irt12VozD6YkCyvDh7o7ZigUgcSoiL5dqpPUKkmj52l" target="_blank" rel="noreferrer">Dundulis&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>When Lithuanians brew &lt;em>keptinis&lt;/em>, they mix the grist and water into a thick porridge-like consistency, and leave it for an hour to convert. After that, they scoop the mash out and caramelize it in the oven.&lt;/p>
+&lt;blockquote>
+&lt;p>Technically, caramelization is the thermal degradation of sugars which leads to the formation of both volatiles (caramel aroma) and brown-colored products (caramel colors). It is similar to Maillard reactions in that it is a non-enzymatic browning reaction, but caramelization occurs by pyrolysis (thermochemical degradation in the absence of oxygen) instead of by chemical reaction. Caramelization is catalyzed by an acid or a base, and generally requires temperatures above 120°C and a pH between 3 and 9.&lt;/p>
+&lt;ul>
+&lt;li>John Mallett, &lt;em>Malt: A Practical Guide from Field to Brewhouse&lt;/em> (the Brewing Elements series)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Baking 30% of the mash probably doesn&amp;rsquo;t give enough flavor to &lt;em>keptinis&lt;/em>. A few years ago, Lithuanian brewery Dundulis made a new effort to &lt;a href="https://dundulis.lt/en/keptinis-baked-ale/">reconstruct traditional &lt;em>keptinis&lt;/em>&lt;/a> that had ~55% of the mash baked, which gave more of the right &lt;em>keptinis&lt;/em> flavor.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/kurko-keptinis.jpg"
+alt="kurko keptinis from Širvenos Bravoras (Dundulis)"/>&lt;figcaption class="right">&lt;p>&lt;em>kurko keptinis&lt;/em> from &lt;em>Širvenos Bravoras&lt;/em> (Dundulis)&lt;/p>&lt;p>Source: &lt;a href="https://mgkolekcija.wordpress.com/2016/04/04/dundulio-magistra-ir-kurko-keptinis/" target="_blank" rel="noreferrer">Modesto blogas apie kolekcijas ir alų&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Curiously, I remember reading about an Iberian beer called &lt;em>caelia&lt;/em> brewed during Roman times with wheat germ that was also formed into loaves and baked. Some sources suggest the bread was heated at very low temperatures and removed while it was still wet; essentially the brewers were creating a yeast bomb to inoculate fermentable grains.&lt;/p>
+&lt;p>During an episode of Milk the Funk podcast, Lars Garshol made the point that historically a large metal kettle for brewing would have been prohibitively expensive for most people, so either adding hot stones to a mash vessel or baking the entire mash was a more affordable option. (This is probably true for most of Europe, at least at one point in time.)&lt;/p>
+&lt;p>So, here&amp;rsquo;s my translation of &lt;em>keptinis&lt;/em> into a loaf of bread.&lt;/p>
+&lt;h3 id="saccharified-scald">Saccharified scald&lt;/h3>
+&lt;p>Malt is &lt;a href="https://exarc.net/issue-2021-2/at/ancient-magic-malt-making">ancient magic&lt;/a>.&lt;/p>
+&lt;p>Yeast can&amp;rsquo;t live on sugar alone. It also needs nutrients like nitrogen, amino acids, minerals (Zn, Mg, Ca), and vitamins to thrive and grow. The primary source for these building blocks is the free amino nitrogen (FAN) and lipids from malted barley. Refined sugars don&amp;rsquo;t contain any of these nutrients.&lt;/p>
+&lt;p>Wort is the liquid extracted from the mashing process during the brewing of beer or whisky. Wort contains the sugars (especially maltose and maltotriose) that will be fermented by the brewing yeast to produce alcohol. An all-malt wort contains all the nutrients yeast needs for fermentation, except oxygen and zinc.&lt;/p>
+&lt;p>Lab studies have shown that rye malt worts contain less maltose and more nitrogen than barley malt worts. Further, rye malts tend to be richer than barley malts in alpha amylase, although barley malts provide slightly higher diastatic power. Including rye also increases the wort&amp;rsquo;s pH.&lt;/p>
+&lt;p>Total dry malts: 300g&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>rye malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>70%&lt;/td>
+&lt;td>210g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>honey malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Ölandsvete&lt;/em> wheat malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->sun-dried barley malt (Chevallier, homemade)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>hot water (140-150°F)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>300g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total scald: 600g&lt;/p>
+&lt;p>&lt;a href="https://www.rootshootmalting.com">&lt;strong>Root Shoot Malting&lt;/strong>&lt;/a> is a craft malthouse located in Loveland, Colorado &amp;ndash; the first in the US to operate on a Kaspar Schulz malting system. They won a gold medal for Genie Pale in 2019, a bronze for Munich 10 in 2020, and a bronze for Genie Pale in 2021.&lt;/p>
+&lt;div class="embed music-spotify">
+&lt;iframe
+style="border-radius:12px"
+src="https://open.spotify.com/embed/episode/6NX9ir3DiRoM0VRgzvM4Mh?utm_source=generator&amp;theme=0"
+width="100%"
+height="152
+"
+frameBorder="0"
+allowfullscreen=""
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">&lt;/iframe>
+&lt;/div>
+&lt;p>I incorporated some high-quality, locally-sourced malts from Root Shoot Malting to add aromas and flavors in the bread:&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221136.jpg"
+alt="3 malts from Root Shoot Malting"/>&lt;figcaption class="right">&lt;p>3 craft malts from Root Shoot Malting: honey (top left), Ölandsvete (top right), and Bono rye&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The rare heritage &lt;strong>&lt;a href="https://breadbuster.github.io/img/byb-2/RootShoot-Oland-wheat-malt.png">&lt;em>Ölandsvete&lt;/em> wheat malt&lt;/a>&lt;/strong> adds light caramel and roasty flavors, as well as full-bodied character.&lt;/p>
+&lt;p>&lt;em>Ölandsvete&lt;/em> (or &lt;em>Ølandsvete&lt;/em>) is an ancient variety of wheat first grown over 6,000 years ago on the second-largest Swedish island &lt;a href="https://en.wikipedia.org/wiki/%C3%96land">Öland&lt;/a>, just off of Sweden&amp;rsquo;s east coast in the Baltic Sea. &lt;em>Ölandsvete&lt;/em> is a low-yield, high-protein (14%-16%) spring wheat that was once common all across Europe and northern Africa. Like many other heritage varieties, &lt;em>Ölandsvete&lt;/em> nearly disappeared &amp;ndash; until a few Swedish farmers started bringing it back in the late 1990s and local bakers started using it in traditional sourdough recipes. The Danish celeb chef Claus Meyer, for example, made a highly popular &lt;a href="https://meyers.dk/opskrifter/the-oland-wheat-bread/p/75089/">Öland bread&lt;/a>. Today, there are only a few farmers in the world who grow the &lt;em>Ölandsvete&lt;/em> variety. One of them is Olander Farms in Loveland, Colorado, the &lt;em>château&lt;/em> of Root Shoot Malting, which is quite possibly the only malthouse in the country to malt this variety. The Family Jones Distillery in Denver, Colorado uses this heritage wheat for its unique single-estate &lt;a href="https://thefamilyjones.co/#premium-spirits-section">Annika Jones Vodka&lt;/a>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221256.jpg"
+alt="Ölandsvete wheat malt"/>&lt;figcaption class="right">&lt;p>Rare heritage &lt;em>Ölandsvete&lt;/em> wheat malt, crafted by Root Shoot Malting.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Unmilled &lt;em>Ölandsvete&lt;/em> malt from Root Shoot smells sweet and nutty, with a hint of honeydew melon. Upon milling, that aroma becomes more pronounced. The fact that this variety came from Scandinavia, grown by farmers with Scandinavian ancestry, for a US baker making a Nordic-Baltic-style bread &amp;ndash; is quite interesting all around.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221323.jpg"
+alt="Bono winter rye malt"/>&lt;figcaption class="right">&lt;p>Bono winter rye malt, crafted by Root Shoot Malting.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The &lt;a href="https://breadbuster.github.io/img/byb-2/RootShoot-rye-malt.png">&lt;strong>Bono winter rye malt&lt;/strong>&lt;/a> contributes some earthy and nutty sunflower seed flavors as well as spiced notes.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221244.jpg"
+alt="honey malt"/>&lt;figcaption class="right">&lt;p>Honey malt, from Genie (a 2-row spring barley), crafted by Root Shoot Malting.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The &lt;a href="https://breadbuster.github.io/img/byb-2/RootShoot-honey-malt.png">&lt;strong>honey malt&lt;/strong>&lt;/a>, from Genie (a 2-row spring barley), lends a pretzel aroma and some tropical tart sweetness. This malt is produced through a very distinct malting process, which makes it closely resemble a melanoidin malt.&lt;/p>
+&lt;p>The honey malt, especially when freshly milled, has an absolutely intoxicating aroma and flavor. I don&amp;rsquo;t smell or taste grapefruit, but I do notice complex sweet tartness of mango, guava, passion fruit, soursop, and lychee; honeyed, tangy, tropical, and terrifically punchy citrus. It leaves an exclamation mark at the tip of my nose &amp;ndash; and reminds me of Java, Indonesia in March/April, when an abundance of tropical fruits are in season. I almost suggested to Root Shoot that they should rename the malt &amp;ldquo;Tropical Fruit Punch.&amp;rdquo; It&amp;rsquo;s a real unique malt that I&amp;rsquo;m definitely going to use a lot more of in my breads.&lt;/p>
+&lt;p>&lt;strong>Process&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Grind the malts, individually or collectively, into a flour.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Place all the malts in a bowl or small saucepan; add hot water in 2-3 increments, stirring constantly.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hold the scald at ~125°F for 2 hours; then raise the temperature to ~150°F and hold for another 6 hours.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Upon initial mixing, the scald had a sweet roasty aroma and a sweet taste.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_161820.jpg"
+alt="scald before saccharification"/>&lt;figcaption class="right">&lt;p>scald right after mixing, before saccharification&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After saccharification, the sweet roasty aroma and taste went through the roof. Most people don&amp;rsquo;t have the opportunity to see or to experience this magical process. I&amp;rsquo;m extremely fortunate.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_015628.jpg"
+alt="scald after saccharification"/>&lt;figcaption class="right">&lt;p>scald after saccharification&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Saccharification is an essential part of the brewing process. A few hundred years ago, making malt and brewing beer at home was a common activity. It happened on farms and in large households. It was a household task.&lt;/p>
+&lt;p>Today it seems to be a mystery to many.&lt;/p>
+&lt;h3 id="caramelized-scald">Caramelized scald&lt;/h3>
+&lt;p>The trick with &lt;em>keptinis&lt;/em> is to properly caramelize the mash in the oven. You want a crust that is charred. Lithuanians typically bake the mash in a deep, wood-fired &lt;em>dúonkepis&lt;/em> oven (&amp;gt;700˚F) to achieve &lt;a href="https://www.curiouscook.com/site/2012/09/caramelization-new-science-new-possibilities.html">caramelization&lt;/a>.&lt;/p>
+&lt;p>After 6 hours of saccharification, I scooped &lt;strong>400g&lt;/strong> (two-thirds) of the sweet scald onto a baking sheet lined with parchment paper, and let the remaining 200g (one-third) continue saccharifying for another 2 hours.&lt;/p>
+&lt;p>Remember I mentioned earlier that Dundulis' recent revival of &lt;em>keptinis&lt;/em> had ~55% of the mash baked to produce more of the right flavor? 2/3 (or ~67%) seemed about right to me, at least for starters.&lt;/p>
+&lt;p>I spread it out into a thin layer, to optimize the crust area for caramelization. Then I baked it in a 350°F oven for 20 minutes until it started to look dark brown in spots and smell toasty (and even slightly burnt).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_225328.jpg"
+alt="oven-caramelized scald"/>&lt;figcaption class="right">&lt;p>oven-caramelized sweet scald crackers&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The process of caramelization creates one of the most naturally delectable and complex combinations of sweet, savory, and bitter flavors there is.&lt;/p>
+&lt;p>As the water evaporates, the sugar concentration and the temperature of the sugar molecules continue to increase. The (now pure) molten sugar will rise above 212°F/100°C (the boiling point) and will go through its &lt;a href="https://www.joyofbaking.com/StagesOfCookedSugar.html">different cooking stages&lt;/a>. Gradually, the sugar molecules begin to break down and new compounds form (including caramel); the thermal decomposition accelerates significantly as the sugar reaches a temperature of 320°F (160°C).&lt;/p>
+&lt;p>IMO, it&amp;rsquo;s best to get a wide range of caramel colors, from the alluring darkest shades (with smokey bitter notes) to the lightest hues.&lt;/p>
+&lt;p>The key to caramelization is the combination of cooking temperature and cooking time. I find it absolutely fascinating that sugar can actually &lt;a href="https://www.seriouseats.com/dry-toasted-sugar-granulated-caramel-recipe">caramelize at temperatures below its melting point&lt;/a>. I speculate this scald might have a different flavor if it&amp;rsquo;s caramelized low and slow, e.g. baked in the gentler heat of a 300°F (149°C) oven for a few hours, or &lt;a href="https://www.curiouscook.com/site/2012/09/caramelization-new-science-new-possibilities.html">at 250°F (125°C) overnight and longer&lt;/a>.&lt;/p>
+&lt;p>Caramelization will reduce fermentability, because caramelizing also binds simple sugars into more complex ones &amp;ndash; possibly too complex for the yeast to digest. Generally, yeast can digest only mono-, di-, and tri-saccharides. Anything more complex than that will remain in solution, adding some residual sweetness but not much (think &lt;em>&lt;a href="https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet">bochets&lt;/a>&lt;/em>, a type of Medieval mead made from caramelized honey).&lt;/p>
+&lt;p>In reality, most of the colors and flavors of &amp;ldquo;caramelization&amp;rdquo; are actually due to Maillard reactions where the sugars interact with amino acids to make large and complex molecules. The amount of browning can be a good clue to how much of the sugars have bonded to create large molecules. The more brown the caramelized sugar, the less fermentable it will be. Some simple sugars are indeed created in the process, but the end result is larger flavor and aroma molecules, which are formed from the initial sugars present.&lt;/p>
+&lt;p>Caramelization doesn&amp;rsquo;t caramelize all sugar molecules, so some sugars will still remain fermentable. A number of Belgian beers use &lt;a href="https://en.wikipedia.org/wiki/Candi_sugar">candi sugar&lt;/a>, a type of caramelized beet sugar, to add flavors, colors, as well as gravity points.&lt;/p>
+&lt;p>The caramelized scald turned out like a Nordic crispbread, but very sticky &amp;ndash; there was a layer of sticky syrupy substance underneath the parchment paper!&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_233038.jpg"
+alt="oven-caramelized scald"/>&lt;figcaption class="right">&lt;p>oven-caramelized scald crackers: net weight 149.5g&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Once the caramelized scald cooled off, I broke it up into smaller pieces. My 400g of liquidy scald yielded ~150g of dried concentrate.&lt;/p>
+&lt;p>Then I ground them up in a coffee grinder into a flour. The ground flour smelled very toasty and caramelized &amp;ndash; like churro, cocoa, and bread crust.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_235538.jpg"
+alt="oven-caramelized scald ground"/>&lt;figcaption class="right">&lt;p>oven-caramelized scald crackers, ground into a flour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After the remaining 200g scald had gone through another 2 hours of saccharification, I stirred all of the caramelized scald flour (~150g) back into it.&lt;/p>
+&lt;p>The scald instantly transformed into something much more wonderful &amp;ndash; a darker shade of chocolaty brown, with a seductive caramel aroma. After vigorous mixing, I let the newly-infused scald sit for another hour at ~150°F, so the flavors could meld.&lt;/p>
+&lt;p>The 600g scald I started with got reduced down to 350g, and became much more concentrated in aromas and flavors.&lt;/p>
+&lt;p>Total scald: 350g&lt;/p>
+&lt;h3 id="barm-opshaug-kveik-ale-yeast">Barm: Opshaug kveik ale yeast&lt;/h3>
+&lt;p>I decided to inoculate the scald with White Labs' &lt;a href="https://www.whitelabs.com/yeast-single?id=157&amp;amp;type=YEAST&amp;amp;style_type=1">WLP518&lt;/a> Opshaug kveik, a clean-fermenting farmhouse ale yeast from Norway.&lt;/p>
+&lt;blockquote>
+&lt;p>this Kveik strain was isolated from a mixed culture which belonged to Harald Opshaug, a farmhouse brewer in Stranda, Norway. This strain was originally used in the 1990s to produce several kornøl-style beers. It is a clean fermenting yeast and has tolerated temperatures up to 95°F (35°C) while finishing fermentation within three to four days. The hop-forward, clean characteristics of this strain make it ideal for IPAs and pale ales.&lt;/p>
+&lt;/blockquote>
+&lt;p>This yeast is traditionally used for Norwegian &lt;em>kornøl&lt;/em> (a farmhouse raw ale), and its low esters complement hops. Maybe it will complement the insanely malty character of the scald, too?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221937.jpg"
+alt="WLP518 Opshaug kveik"/>&lt;figcaption class="right">&lt;p>WLP518 Opshaug kveik ale yeast, by White Labs.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Here&amp;rsquo;s how to get the most out of &lt;a href="https://www.milkthefunk.com/wiki/Kveik">kveiks&lt;/a>, based on my research:&lt;/p>
+&lt;ol>
+&lt;li>Use an all-malt scald.&lt;/li>
+&lt;li>Saccharify the scald as much as possible (&amp;gt;=6 hours).&lt;/li>
+&lt;li>Use just a tiny bit of kveik (seriously underpitching).&lt;/li>
+&lt;li>Ferment aerobically; oxygenate often.&lt;/li>
+&lt;li>Ferment hot (~95°F).&lt;/li>
+&lt;/ol>
+&lt;p>I transferred all of the scald into a clean, shallow, wide-mouthed bowl. I let it cool down to ~95°F. Then I added 1g (~40 drops) of WLP518 liquid yeast.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>caramelized saccharified scald (all)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>350g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>liquid ale yeast (WLP518 - White Labs, CA)&lt;/td>
+&lt;td>0.3%&lt;/td>
+&lt;td>1g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I covered the bowl loosely, and fermented it at &lt;strong>90-95°F&lt;/strong> for &lt;strong>7 hours&lt;/strong>. I gave it a stir every 30 minutes during the first 3 hours to aerate.&lt;/p>
+&lt;p>After 6 hours, the barm more than doubled in volume and became very bubbly.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_155731.jpg"
+alt="barm after fermentation"/>&lt;figcaption class="right">&lt;p>barm doubled in volume, after 6 hours of fermentation with WLP518 Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I stirred it back down, and it bubbled back up again within an hour. Indeed, the kveik ferments a lot faster than common ale yeasts.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_160055.jpg"
+alt="barm after fermentation"/>&lt;figcaption class="right">&lt;p>barm, after 6 hours of fermentation with WLP518 Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The fermented barm had a faintly fruity and beery smell, and a slightly sweet but still very toasty flavor. Very sticky, also.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_160202.jpg"
+alt="barm after fermentation"/>&lt;figcaption class="right">&lt;p>barm, after 7 hours of fermentation with WLP518 Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Total: 351g&lt;/p>
+&lt;h3 id="final-dough">Final dough&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat flour, 100% extraction&lt;/td>
+&lt;td>60%&lt;/td>
+&lt;td>180g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Svedjerug&lt;/em> rye flour, 100% extraction&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>120g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>43%&lt;/td>
+&lt;td>130g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WLP518 barm&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>351g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>3g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I mixed everything together into a shaggy mass (increase hydration as needed), and let it sit at room temperature for 30 minutes to autolyze.&lt;/p>
+&lt;p>I did a few minutes of stretching and folding to aerate the dough and make sure everything was evenly distributed.&lt;/p>
+&lt;p>Bulk ferment: 90 minutes at ~86°F.&lt;/p>
+&lt;p>Shape &amp;amp; final proof: 90 mins at ~90°F.&lt;/p>
+&lt;p>Bake: 400°F for the first 5 minutes, then 350°F for another 40 minutes.&lt;/p>
+&lt;p>Let the baked bread cool off and cure for 12+ hours before cutting. &lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_155858.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>the bread form of Lithuanian &lt;em>keptinis&lt;/em>, fermented with Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="tasting">Tasting&lt;/h3>
+&lt;p>The bread turned out quintessentially brown like a dark caramel. Its dense, opaque, and mysterious appearance reminded me of a brown ale rather than a questionable hazy IPA.&lt;/p>
+&lt;p>&lt;strong>Aroma&lt;/strong>&lt;/p>
+&lt;p>The bread had a very complex aroma: aggressively caramel upfront, followed by scents of chocolate, &lt;a href="https://www.thespruceeats.com/english-toffee-520453">toffee&lt;/a>, molasses, and dark brown sugar; deeply malty and subtly wheaty. It reminded me of the sugary wafts of &lt;a href="https://walkers-nonsuch.co.uk/about-walkers/our-history/">Walker&amp;rsquo;s Nonsuch Toffee&lt;/a> in Longton, Stoke-on-Trent, England.&lt;/p>
+&lt;p>The aroma was so sweet and rich that it immediately transported me into an old-time candy shop where I was surrounded by handmade caramels, dark chocolate, truffles, fudge, etc&amp;hellip;&lt;/p>
+&lt;p>Notes of toasted bread crusts, graham crackers, orange, and cinnamon sat contently in the background.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_165734.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>the bread form of Lithuanian &lt;em>keptinis&lt;/em>, fermented with Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Texture&lt;/strong>&lt;/p>
+&lt;p>The texture was decidedly chewy, soft, moist, and sticky; the tenderness reminded me a lot of &lt;a href="https://www.latimes.com/recipe/mantou-steamed-chinese-buns">Chinese steamed buns&lt;/a> (&lt;em>mantou&lt;/em>). Both the texture and the flavor reminded me of &lt;a href="https://thewoksoflife.com/nian-gao-recipe/">lunar new year sweet rice cake&lt;/a> (made with basic ingredients like brown sugar, water / coconut milk, and glutinous rice flour).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_175123.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Flavor&lt;/strong>&lt;/p>
+&lt;p>The flavor was complex with immediate competition of toffee, toasted bread, orange, cinnamon, walnut, and molasses. There was a hint of butteriness and wheatiness.&lt;/p>
+&lt;p>The flavor kept on developing: There was an explosion of caramel and chocolate flavors as the bread first hit the tongue, balanced by a faintly hoppy undertone. When combined with the subtle earthiness of the grains, the malty flavors became more pronounced. The mildly sweet and nutty flavors of wholegrain wheat and rye started to shine through and became more endearing.&lt;/p>
+&lt;p>As I was about to swallow, the flavors deepened even further &amp;ndash; to rival the aggressively caramely and malty aroma I was smelling initially. Coupled with lingering hints of dates, raisins, plums, and chocolate, it made for a soul-satisfying taste.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_173249.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot of a half-eaten slice&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After I swallowed, the caramely flavor mellowed out and gently transitioned to some bitter / hoppy notes. This was followed by a deluge of saliva &amp;ndash; my mouth was begging for more of this flavor bomb.&lt;/p>
+&lt;p>I don&amp;rsquo;t recall ever having a bread with such a long progression of flavors that slowly marched across my taste buds or teased my palate in such deliberate ways.&lt;/p>
+&lt;p>As the bread was toasted, the caramel flavor gave way to more burnt notes &amp;ndash; not acrid but more like the deep caramelization on the surface of grilled fruits. With further toasting, walnut and molasses took over the flavor. The bread was sweet, although less sweet as it toasted, but it was not cloying.&lt;/p>
+&lt;p>This bread looked and tasted like it should be really sweet &amp;ndash; on par with the tooth-aching intensity of marshmallows, angel food cake, and fudge &amp;ndash; but it just isn&amp;rsquo;t. It&amp;rsquo;s gently sweet with an enjoyable toffee flavor, &lt;em>sans&lt;/em> toothaches.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_173057.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, top crust shot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Mouthfeel&lt;/strong>&lt;/p>
+&lt;p>The crust was thin and crisp. The crumb was juicy (i.e. an evocative sensation that brought back sensory memories of biting into a ripe plum or peach, but not a juicy apple or pear) and soft, not heavy at all like its appearance or flavor suggested. It reminded me of eating a bowl of toasted oatmeal.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_173201.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Overall&lt;/strong>&lt;/p>
+&lt;p>I was &amp;ndash; and still am &amp;ndash; honestly blown away by how good this bread turned out.&lt;/p>
+&lt;p>The flavor was so deep and complex that it&amp;rsquo;s crazy to think this bread was made from just some austere barley, rye, and wheat without any specialty ingredients.&lt;/p>
+&lt;p>I&amp;rsquo;m a fan of Baltic black breads, but this bread is radically different from any black bread I&amp;rsquo;ve ever tasted. It aligns very well with how people describe &lt;em>keptinis&lt;/em> from experienced brewers.&lt;/p>
+&lt;blockquote>
+&lt;p>Hazy dark brown, thin, tan head. Aroma of brown bread, toast, chestnut, cashew, raisin, old banana. Taste has sweetish raisin &amp;amp; prune, sourish berries over brown-bready, almost wholemeal maltiness.&lt;/p>
+&lt;ul>
+&lt;li>an internet review of &lt;em>&lt;a href="https://brewver.com/beers/23908/Kurko-Keptinis">kurko keptinis&lt;/a>&lt;/em> from &lt;em>Širvenos Bravoras&lt;/em> (Dundulis)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>This is definitely an interesting twist on the Baltic bread tradition. Baking the saccharified scald into caramelized sugars is intriguing &amp;ndash; and kind of reminds me of &lt;a href="https://www.thefreshloaf.com/node/13369/altus-amp-formula">altus&lt;/a> and &lt;a href="https://www.thefreshloaf.com/node/55979/alt-altus">alt altus&lt;/a>.&lt;/p>
+&lt;p>The bread had no weird fermentation character or sourness at all. The WLP518 Opshaug kveik strain helped a &amp;ldquo;clean&amp;rdquo; grain flavor shine through &amp;ndash; just like the grain-forward &lt;a href="https://breadbuster.github.io/tags/wlp001/">WLP001&lt;/a> California ale yeast did in my &lt;a href="https://breadbuster.github.io/posts/byb-1-2/">previous bread-plays&lt;/a> &amp;ndash; underneath the complex caramely flavors. I have no doubt this bread will taste completely different if fermented with a sourdough levain instead of a kveik.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_175350.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I have a lot of craft beer yeast breads in the pipeline&amp;hellip;&lt;/p>
+&lt;hr>
+&lt;p>🍻 Special thanks to&lt;/p>
+&lt;ul>
+&lt;li>Bert Sheffield &amp;amp; Erik Fowler, &lt;a href="https://www.whitelabs.com/">White Labs&lt;/a>&lt;/li>
+&lt;li>Craig Miller, &lt;a href="https://www.rootshootmalting.com">Root Shoot Malting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>I malted a batch of heritage Chevallier barley at home (probably undermodified) and sun-dried them before grinding into a flour, to ensure the malt remained as pale as possible.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item></channel></rss>

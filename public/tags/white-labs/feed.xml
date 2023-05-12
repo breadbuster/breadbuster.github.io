@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>white labs on HERESY LEVAIN</title><link>/tags/white-labs/</link><description>Latest experiments in white labs from HERESY LEVAIN</description><language>en-us</language><copyright>© 2023 HERESY LEVAIN 🍞 CC BY-NC-SA 4.0</copyright><lastBuildDate>Mon, 15 May 2023 02:02:44 +0000</lastBuildDate><atom:link href="/tags/white-labs/feed.xml" rel="self" type="application/rss+xml"/><item><title>levure de bière #5.2: Tropical Chico bomboloni</title><link>/posts/byb-5-2/</link><pubDate>Mon, 15 May 2023 02:02:44 +0000</pubDate><guid>/posts/byb-5-2/</guid><description>Experimental thiol-complimentary wholegrain &lt;em>bomboloni&lt;/em> (yeasted Italian donuts), via co-fermentation of 2 yeast strains: California ale yeast and thiolized London Tropics. An intentionally austere dough that highlights the yeast&amp;rsquo;s super power.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;/blockquote>
+&lt;p>Since making that &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">POG bomb&lt;/a> with Berkeley&amp;rsquo;s &lt;a href="https://berkeleyyeast.com/strains/london-tropics/">London Tropics&lt;/a> and &lt;a href="https://berkeleyyeast.com/boost/thiol/">Thiol Boost&lt;/a>, I&amp;rsquo;ve been thinking a lot about the goldmine of thiol precursors in malts &amp;ndash; and malts alone.&lt;/p>
+&lt;p>Given a lot more thiol precursors come from malts than hops, it probably makes more sense to play with different base malts and malt varieties than with new age hops.&lt;/p>
+&lt;p>German scientists have devised &lt;a href="https://pubs.acs.org/doi/full/10.1021/acs.jafc.0c06305">a solvent-free, automated method&lt;/a> for brewers to measure and track hop-derived thiols during the brewing process. How cool would it be, to be able to quantify the amount of thiol precursors in different malts, and find out which malt varieties pair the best with a particular thiolized yeast?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/montana_barley_green.jpg"
+alt="Montana barley into harvest"/>&lt;figcaption class="right">&lt;p>Gorgeous barley heading into harvest, on Karl De Jonge&amp;rsquo;s farm in Gallatin Valley, Montana.&lt;/p>&lt;p>Source: &lt;a href="https://www.facebook.com/gallatinvalleymaltco/photos/a.707201556296362/978615135821668/" target="_blank" rel="noreferrer">Gallatin Valley Malt Co.&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Most maltsters don&amp;rsquo;t list information about their grain varieties, only generic info like the malt type (pale, pilsner, crystal, etc). To find out the specific varietals of grains the malts are made from, I&amp;rsquo;ve had to ask the maltsters directly for COAs (certificates of analysis).&lt;/p>
+&lt;p>I&amp;rsquo;ve worked with enough grains (of different varieties) to know that the varietal can make a big difference in the end-product, e.g. a bread made from 100% &lt;a href="https://breadbuster.github.io/tags/turkey-red/">Turkey Red&lt;/a> is noticeably different from one made from 100% &lt;a href="https://breadbuster.github.io/tags/joaquin-oro/">Joaquin Oro&lt;/a> or &lt;a href="https://breadbuster.github.io/tags/white-sonora/">Sonora Blanca&lt;/a>. In pale ales, modern barley varieties like Metcalfe and Copeland from Montana or western Canada may be more suited to the American style than the others, while heirloom varieties like Golden Promise or Maris Otter add a bit of nutty character to British variations.&lt;/p>
+&lt;p>Many brewers proudly describe their base malts &amp;ndash; the vast majority of the grist in most beers &amp;ndash; simply as &amp;ldquo;2-row.&amp;rdquo; That label merely indicates it&amp;rsquo;s not the &amp;ldquo;inferior&amp;rdquo;, higher-protein 6-row barley variety. But those are broad categories &amp;ndash; just like &lt;a href="https://newenglandapples.org/2020/10/16/russets-small-size-big-flavor/">russet&lt;/a>, &lt;a href="https://www.chelseagreen.com/2022/surprisingly-sweet-crab-apples/">crab&lt;/a>, and club are categories of apples (so much for the Johnny Appleseed fairy tale) &amp;ndash; and imply nothing about the actual barley variety, even less about how the grain is malted. Most brewers just take whatever malt variety is available, maybe occasionally thinking about 2-row vs. 6-row, winter vs. summer, maltster vs. maltster, and US-Canada vs. Europe.&lt;/p>
+&lt;p>As with wheat, I&amp;rsquo;ve learned that if a malt is generic enough to be characterized by just its category, it&amp;rsquo;s not going to give the end-product much flavor or character. But what really made me appreciate malt as a craft, in and of itself, was 2 things:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Learning how to make traditional Baltic peasant rye bread from single-variety grain (rye) during 2020 COVID lockdown. In rural villages in Belarus and Latvia, for example, grandmas still make some of the world&amp;rsquo;s most flavorful (and underrated) breads today &amp;ndash; with only rye flour, water, salt, and natural yeast; they coax incredibly complex flavors out of the unassuming rye kernel through different stages of chemical reactions. That inspired me to malt my own rye for breadmaking: pale rye malt, Russian red fermented rye malt (&lt;em>solod&lt;/em>), chocolate rye malt, and even malt syrup, from different varieties of rye (Abruzzi, Gazelle, Hazlet, Ryman, &lt;em>Svedjerug&lt;/em>, Prima, etc). I was absolutely mesmerized by the different flavor profile and intensity each rye malt (and each rye variety) added to the final bread.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Studying European beer history. European beer styles evolved in tandem with local barley varieties and malt. Particularly in places like Bavaria, &lt;em>Helles&lt;/em> (pale lagers) &amp;ndash; despite being delicately hopped and regularly made with just a single malt &amp;ndash; taste different across breweries, because the malt, which is the whole ballgame, is different. Breweries have access to dozens of different malthouses, each making their pilsner malts slightly differently, from a range of different barley varieties. The same is true &amp;ndash; and even more pronounced &amp;ndash; in the UK, where ale brewers not only know which facility makes their malt, but also have passionate opinions about the barley variety. In cask ales, for example, the differences between different barley varieties and malts are magnified, creating distinct flavors.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/montana_barley.jpg"
+alt="Montana barley"/>&lt;figcaption class="right">&lt;p>Heritage barley near harvest time, on Karl De Jonge&amp;rsquo;s farm in Gallatin Valley, Montana.&lt;/p>&lt;p>Source: &lt;a href="https://www.instagram.com/p/ChQ6zVeLJDc/" target="_blank" rel="noreferrer">Gallatin Valley Malt Co.&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>One of the factors that contributed to the development of the brewing industry as a whole was the spread of pale malts. In the Late Middle Ages, England had been struggling with wood shortages and switched to using the cheaper coal. A major problem with coal was that it produces sulfurous fumes during burning, and the flavors imparted to malt dried in coal-fueled kilns &amp;ndash; and subsequently the beer &amp;ndash; were &lt;a href="https://www.beeretseq.com/where-theres-smoke-theres-pale-ale/">not acceptable&lt;/a>. Hence, in &lt;em>ye olden times&lt;/em> malt had to be dried over wood, peat, or straw &amp;ndash; all of which infused malt with the smoky character of the heat source and gave it a brown color &amp;ndash; or the best Welsh anthracite, the supply of which was quite limited.&lt;/p>
+&lt;p>In 1603, &lt;a href="https://en.wikipedia.org/wiki/Hugh_Plat">Sir Hugh Plat&lt;/a> suggested that coal might be charred in a manner analogous to the way charcoal is produced from wood. He heated some coal without burning it, which distilled the coal, removed its offensive sulfurous smell, and left a residue with a high carbon content and few impurities. This was coke, which proved to be a highly useful fuel for heating and industry.&lt;/p>
+&lt;p>The coke process remained unnoticed until 1642, when malt makers in Derbyshire began to employ coke for roasting malt. Coke demonstrated superior qualities over other fuels at the time: It generates a great deal of heat without the attendant soot and smoke, and it allows better thermal control. Coke-dried malt was considered an improvement in quality over wood-dried malt, and brought about an &amp;ldquo;alteration which all England admired.&amp;rdquo; Brewers were finally able to mass-produce a lighter roast of the malt that was not &amp;ldquo;smoked.&amp;rdquo; This malt was called &amp;ldquo;pale,&amp;rdquo; and it led to the creation of what by the end of the 17th century was called &lt;!-- raw HTML omitted -->&amp;quot;&lt;strong>pale ale&lt;/strong>.&amp;quot;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> Coke became the &lt;em>crème de la crème&lt;/em> of fuels in England. Coke-fired blast furnaces made the production of inexpensive cast iron possible, which was one of the factors that drove the Industrial Revolution.&lt;/p>
+&lt;p>The British Empire was in full sway, with merchants and traders traveling around the world. India was the &amp;ldquo;crown jewel&amp;rdquo; of the empire, hosting a large British military and civilian population with a thirst for beer. The tropical climate in India made local brewing of typical English pale ales impossible. Casks of porters and stouts shipped in from England fared poorly because of the long sea voyage and temperature fluctuations; bottled products produced mixed results as well.&lt;/p>
+&lt;p>In 1790, George Hogeson of the Bow Brewery in London developed a recipe for pale ale that included a huge increase in hops and a much higher alcohol content (both known to have preservative qualities). The export casks were primed with sugar and dry-hopped prior to shipping. The resulting beer arrived in India unspoiled, but much stronger and hoppier than the domestic version. This &amp;ldquo;India Pale Ale&amp;rdquo; (&lt;strong>IPA&lt;/strong>) quickly became hugely popular and profitable.&lt;/p>
+&lt;p>Pale malt has a huge advantage over darker malts: It contains more enzymes and more fermentable sugars, which allows for more efficient beer production; the taste of the finished beer is much cleaner, as yeasts are able to break down a higher percentage of the chemical compounds dissolved in wort. This fact was likely not explicitly known to brewers until the &lt;a href="https://en.wikipedia.org/wiki/Hydrometer#Saccharometer">saccharometer&lt;/a> was invented in the late 18th century. Given that coke was too expensive for commercial brewing back then, pale ales remained mostly exclusive to the households of the wealthy gentry in northern England.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/barley-germinating.jpg"
+alt="germinating barley"/>&lt;figcaption class="right">&lt;p>Germinating barley&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In the US, light lager was the focus of domestic breweries until ~2000. The specific needs of breweries for producing this style of beer trumped the beer&amp;rsquo;s &amp;ldquo;character&amp;rdquo; development. 2-row malt is good enough; the barley and malt industries became streamlined to efficiently produce this neutral, light-flavored product for the purpose of brewing domestic light lagers. This specialization, however, created a structural problem for craft breweries looking for malt flavors &amp;ndash; worse, it led to a zymurgic myopia.&lt;/p>
+&lt;p>As a result, American breweries don&amp;rsquo;t have nearly the selection of malts that Germans have. Weyermann, a common source, makes a high-quality pilsner malt from 2-row spring barley. Brewers love its strong, distinctive character, which really makes a lager pop. The problem is every lager tastes like Weyermann® pilsner malt, which is why so many breweries in Bavaria use different malthouses to differentiate their beers.&lt;/p>
+&lt;p>Craft brewing has gone through eras of hop enlightenment and yeast consciousness. Not too long ago, brewers were content with a handful of C-hops and some Chico yeast. Now hop breeders release dozens of new hops a year; yeast labs and yeast varieties are mushrooming. Brewers are constantly tinkering with ingredients to produce new flavors, and highly attuned to subtle differences.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;I ask my maltsters to include the barley variety mix in their analysis data. Having a malt analysis without varietal data is like describing a dog without knowing the breed.&amp;rdquo;&lt;/p>
+&lt;ul>
+&lt;li>Dan Carey, New Glarus Brewing&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>It seemed like a watershed moment when we first scratched the surface of &amp;ldquo;biotransformation&amp;rdquo; and, subsequently, the effect of ester-rich yeasts on IPAs. As this style has evolved by leaps and bounds, we have gained a better understanding of how hops interact with different processes &amp;ndash; and with yeast.&lt;/p>
+&lt;p>How might different base malts affect beers?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/gallatin_malts.jpg"
+alt="Gallatin malts steeps"/>&lt;figcaption class="right">&lt;p>Color &amp;amp; flavor analysis steeps at Gallatin Valley Malt&lt;/p>&lt;p>Source: &lt;a href="https://www.facebook.com/gallatinvalleymaltco/photos/a.707201556296362/1198845917131921/" target="_blank" rel="noreferrer">Gallatin Valley Malt Co.&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>America does have a number of &lt;a href="https://craftmalting.com/">craft malthouses&lt;/a>. Although many aren&amp;rsquo;t yet able to supply breweries with a reliable source of base malts for a year of regular-production beer, things might change with growing interest that will allow them to increase production and lower prices to compete with mass-produced malts. Some of these craft malts are not only interesting and flavorful, but also benefit the local economy and environment. A world with dozens of small, viable malthouses has the potential to transform beer tremendously, like hops and yeasts did.&lt;/p>
+&lt;p>For example, the single-origin base malts crafted by &lt;a href="https://www.gallatinvalleymalt.com/">Gallatin Valley Malt&lt;/a> (a farmer-owned craft malthouse in Manhattan, Montana) are quite distinct from the same types I&amp;rsquo;ve tried from several other malthouses (including &lt;a href="https://montanacraftmalt.com/">Montana Craft Malt&lt;/a>, which is located only ~1 hour away from Gallatin Valley Malt).&lt;/p>
+&lt;p>Heather Sargent, Head Maltstress at Gallatin Valley Malt, articulates the variability to me:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Malts will generally vary in flavor and analysis between malt houses for several reasons. Where the barley is grown and how it&amp;rsquo;s grown play a huge part in the quality that the Maltster has to work with. Whether or not the grain is blended is another factor. Dry farming vs. irrigated. The way in which the grain is malted. Therefore, brewers can make their determinations based on the outcomes and what they like.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>That means, there are thousands of variations in just the &amp;ldquo;pale malt&amp;rdquo;! And the malt that goes into the recipe matters.&lt;/p>
+&lt;p>Breweries' chalkboards and printed menus often boast hop varieties, hoping (often correctly) that words like Citra, Enigma, or Lemondrop will entice customers to order a pint.&lt;/p>
+&lt;p>It&amp;rsquo;s rare, literally unheard of, for a brewery to advertise the malt bill on a menu (although it does show up from time to time on labels). The most overlooked ingredient can mean the difference between an enjoyable pint and a drain pour, and even help a brewery stand out and differentiate itself from the pack.&lt;/p>
+&lt;p>In what appears to be a fairly mature industry, craft malts have a chance to inject a new wave of innovation into our glasses.&lt;/p>
+&lt;p>The varieties of the grains that go into the malt are just as important as the hops that go into the wort. And not only the variety, but also the growing region (terroir) affects the malt&amp;rsquo;s flavor, haze, and foam stability.&lt;/p>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_175115.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In this experiment, I wanted to change the grains in the malt and see how that would impact the thiols in the final product.&lt;/p>
+&lt;h3 id="saccharified-mash">Saccharified mash&lt;/h3>
+&lt;p>I limited thiol precursor-loaded, diastatic barley malt to 30% of total grains in the mash; the rest was all adjuncts, as far as diastatic powers and thiol precursors are concerned.&lt;/p>
+&lt;p>The light-golden &lt;a href="https://www.gallatinvalleymalt.com/gallatin-pale">pale malt&lt;/a> by Gallatin Valley Malt, made from Genie barley (grown, harvested, and malted right on GVM&amp;rsquo;s own farm in Montana&amp;rsquo;s breadbasket, the fertile &lt;a href="https://bozemanmagazine.com/articles/2018/09/04/102964-gallatin-agricultural-history">Gallatin Valley&lt;/a>, in a true field-to-kiln fashion), has an endearing aroma of sweet biscuits out of the box. When freshly ground, the malt tastes like Honey Nut Cheerios with a yummy sunflower seed butter drizzle &amp;ndash; none of the grass/straw/hay notes I&amp;rsquo;ve noticed in pale malts from some other malthouses.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>%&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Oberkülmer spelt flour (unmalted, unsifted)&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>68g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>pale barley malt (Genie - Gallatin Valley Malt)&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>51g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sourdough breadcrumbs, toasted&lt;/td>
+&lt;td>30%&lt;/td>
+&lt;td>51g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>warm water (~100°F)&lt;/td>
+&lt;td>135%&lt;/td>
+&lt;td>230g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total: 400g&lt;/p>
+&lt;p>I milled the grains into a flour, and mixed everything with water. I intentionally kept the mash thick, because I wanted to create an Italian &lt;em>lievito madre&lt;/em>-style stiff barm.&lt;/p>
+&lt;p>The mash then went through&lt;/p>
+&lt;ul>
+&lt;li>30 minutes at ~105°F&lt;/li>
+&lt;li>30 minutes at ~114°F&lt;/li>
+&lt;li>4 hours at 144-154°F&lt;/li>
+&lt;/ul>
+&lt;p>After saccharification, the mash tasted brightly sweet and malty &amp;ndash; it reminded me of &lt;em>cannelés bordelais&lt;/em> drizzled with a decadent caramel sauce. GVM&amp;rsquo;s flagship &lt;a href="https://www.gallatinvalleymalt.com/gallatin-pale">pale malt&lt;/a> well deserved the silver medal at the 2022 Craft Maltsters Guild.&lt;/p>
+&lt;h3 id="barm">Barm&lt;/h3>
+&lt;p>People seem to love to hate on the &amp;ldquo;Chico&amp;rdquo; strain. I&amp;rsquo;m guessing the main reason is that it&amp;rsquo;s a &amp;ldquo;boring&amp;rdquo; strain that doesn&amp;rsquo;t get you &amp;ldquo;fun&amp;rdquo; flavors like some other yeasts.&lt;/p>
+&lt;p>Interestingly, Jeremy Myers, head of production for Bachs Biermanufaktur in Saarland, Germany, &lt;a href="https://beerandbrewing.com/cold-healthy-and-crowded-lager-fermentation-simplified/">suggests&lt;/a> using White Labs WLP001 for lagers. He says &amp;ldquo;fermenting cold with that yeast leaves behind a beer with just the kind of clean, crisp flavor we want in a lager.&amp;rdquo;&lt;/p>
+&lt;p>IMO, &amp;ldquo;boring&amp;rdquo; strains like WLP001 are clean, versatile, low-ester, and low-phenol. They can be super useful and valuable in the right context. For example, they are &lt;a href="https://breadbuster.github.io/tags/wlp001/">terrific for breads&lt;/a> that are intended to highlight a grain&amp;rsquo;s &lt;em>terroir&lt;/em>. If you ferment a few doughs with WLP001, keeping everything the same except the flours (use different varieties of wheat, e.g. Joaquin Oro vs. Sonora Blanca vs. Turkey Red), I bet you&amp;rsquo;d taste different flavors and &amp;ldquo;grain-forwardness&amp;rdquo; in each baked product. At least I did. In the &lt;a href="https://breadbuster.github.io/posts/byb-1-2/">whole wheat bread&lt;/a> I made with WLP001, the yeast elevated the character of Turkey Red to such a degree that I never thought it was possible (with sourdough or bread yeast), and produced a stunningly pure, robust wheat flavor without the slightest hint of acidity &amp;ndash; it was like eating a box of Triscuit Original or drinking an American wheat beer. Pure, authentic, natural wheatopia.&lt;/p>
+&lt;p>Like how the Chico strain drove IPA 2.0 due to its &amp;ldquo;cleanness&amp;rdquo; that emphasizes malt and allows hops to shine through, I think it has the potential to do the same thing for Pizza/Bread 3.0 (especially when coupled with the &amp;ldquo;local grain&amp;rdquo; movement). Clean strains highlight the humble grain and let the grain flavor shine through, much more so than sourdough or bread yeast.&lt;/p>
+&lt;p>In this case, I scooped out 140g of the cooled mash (260g remaining), and added a 50/50 blend of &lt;a href="https://breadbuster.github.io/tags/london-tropics/">London Tropics&lt;/a> and &lt;a href="https://breadbuster.github.io/tags/wlp001/">WLP001 California ale yeast&lt;/a>. I intended to temper the thiol levels and let other characteristics stand out, to create a multi-layered, balanced bouquet of tropical aromas/flavors. (ICYMI, London Tropics proved to be an incredibly powerful &amp;ldquo;weapon of mass thiolization&amp;rdquo; in my &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">last experiment&lt;/a>.)&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>%&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>saccharified mash&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>140g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>London Tropics liquid yeast (Berkeley Yeast)&lt;/td>
+&lt;td>0.5%&lt;/td>
+&lt;td>0.7g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>California ale yeast (WLP001 - White Labs)&lt;/td>
+&lt;td>0.5%&lt;/td>
+&lt;td>0.7g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total: 141.4g&lt;/p>
+&lt;p>I added both yeasts at the same time, since they have similar optimal temperature range. I let the barm ferment, loosely covered, at 68-72°F for ~18 hours. The barm doubled in volume by the end.&lt;/p>
+&lt;p>Like &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">last time&lt;/a>, POG-type tropical aromas started to manifest ~3 hours in, but never got as pungent, which was expected, since the amount of precursors in the mash was drastically reduced and the inoculation rate of thiolized yeast was halved.&lt;/p>
+&lt;h3 id="final-dough">Final dough&lt;/h3>
+&lt;p>This time, I decided to make a batch of &lt;em>bomboloni&lt;/em> (yeasted Italian donuts), instead of a loaf of bread. And I intentionally made these &lt;em>bomboloni&lt;/em> much more austere than &lt;a href="https://breadbuster.github.io/posts/california-dreamin-5/">the Sonora Blanca version&lt;/a>. I wanted the yeasts to shine, untempered by spices or other add-ins.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>%&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red whole wheat flour&lt;/td>
+&lt;td>50.0%&lt;/td>
+&lt;td>150g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>India Jammu whole wheat flour&lt;/td>
+&lt;td>50.0%&lt;/td>
+&lt;td>150g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>barm&lt;/td>
+&lt;td>47.1%&lt;/td>
+&lt;td>141.4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>saccharified mash&lt;/td>
+&lt;td>86.7%&lt;/td>
+&lt;td>260g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>tap water&lt;/td>
+&lt;td>15.0%&lt;/td>
+&lt;td>45g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1.0%&lt;/td>
+&lt;td>3g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total: 749.4g &amp;mdash;-&amp;gt; makes 12 donuts @ ~62g each&lt;/p>
+&lt;p>No sugar in the dough, because I wanted the sweetness to come from the coating on the outside, which would make the layers complement each other as you bite through them. Heterogeneity and contrast!&lt;/p>
+&lt;p>Unadorned ingredients can make something greater than the sum of its parts.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_174455.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The process was straightforward, too.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Mix everything together into a stiff dough. (The dough smelt gently sweet and fruity, like a floral forest after rain.)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bulk ferment at ~72°F for 6 hours. Fold once every 30 mins, 4 times in total.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Retard in the fermentation fridge (~45°F) for 12 hours.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Divide into 12 pieces (~62g each), and shape into taut balls.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proof at ~72°F for ~6 hours until doubled in size.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heat a pot of coconut oil to 350°F; fry for 5-7 minutes on each side until brown and crispy.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Remove from oil and let dry on a wire rack lined with paper towels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Once cool (but still warm), coat in homemade powdered sugar enhanced with a dash of cinnamon.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_174710.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>These donuts had a super fluffy, airy texture, almost completely concealing the fact they were made from unsifted whole grains. They also had a substantial mouthfeel &amp;ndash; quite contrary to the emptiness I always experience when eating donuts from national donut chains, which tend to be so overloaded with sugar that they melt in your mouth like cotton candy (in a bad way).&lt;/p>
+&lt;p>The tropical aroma was hard to distinguish underneath the cinnamon sugar coating, but a ripe fruit flavor was noticeable in the crumb, alongside an unyielding wheat flavor. It mildly reminded me of Kellogg&amp;rsquo;s Tropical Froot Loops cereal. Definitely not POG bombs this time.&lt;/p>
+&lt;p>Overall, I think these thiol-complimentary &lt;em>bomboloni&lt;/em> turned out much more balanced and delectable than my &lt;a href="https://breadbuster.github.io/posts/byb-5-1/">last thiol-dominant bake&lt;/a> &amp;ndash; once again, proving &amp;ldquo;more isn&amp;rsquo;t always better.&amp;rdquo;&lt;/p>
+&lt;p>Still, I don&amp;rsquo;t think the flavor was quite right &amp;ndash; it didn&amp;rsquo;t have the multi-layered bouquet of aromas/flavors I was expecting. Something was still amiss.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-5-2/20230509_175742.jpg"
+alt="tropical bomboloni"/>&lt;figcaption class="right">&lt;p>Wholegrain thiolized &lt;em>bomboloni&lt;/em> (co-fermentation: London Tropics + California ale yeast)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Never underestimate what a yeast can do.&lt;/p>
+&lt;hr>
+&lt;p>🍻🍻🍻🍻&lt;/p>
+&lt;p>Special thanks to&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://berkeleyyeast.com/">Berkeley Yeast&lt;/a>, for generously offering me the opportunity to do these fun thiol experiments.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heather Sargent (the awesome Head Maltstress at &lt;a href="https://www.gallatinvalleymalt.com/">Gallatin Valley Malt&lt;/a>), for indulging my curiosity in malts and giving me the opportunity to experiment with GVM&amp;rsquo;s high-quality, single-origin malts.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Peckham, Stephen (1880). &lt;em>Special Reports on Petroleum, Coke, and Building Stones.&lt;/em> United States Census Office. 10th census. p. 53.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>levure de bière #4: corn-fused on East Coast</title><link>/posts/byb-4/</link><pubDate>Sun, 23 Apr 2023 20:04:07 +0000</pubDate><guid>/posts/byb-4/</guid><description>A tasty and uniquely blue-colored Midwestern corn bread that combines Kansas wheat, Illinois corn, and East Coast ale yeast. Earthy and toasty aroma, reminiscent of cornfields. Subtle nutty corn flavor with toasty sweetness.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>I spent a few days in New York City and did some things I had not done before.&lt;/p>
+&lt;p>I took a trip uptown to the &lt;a href="https://www.wholefoodsmarket.com/stores/harlem">125th Street Whole Foods&lt;/a>. I went there, because it was a nice change from Lower and Midtown Manhattan. It was an easy trip (right by the 2/3 train), and I liked having reasons to go to Harlem. That Whole Foods is an easy punch line &amp;ndash; widely dubbed &amp;ldquo;&lt;a href="https://nymag.com/intelligencer/2017/07/harlem-gentrification-whole-foods-vanishing-new-york.html">the ultimate gentrifier&lt;/a>.&amp;rdquo; But I feel like people who say that don&amp;rsquo;t actually go there, because it fits in the neighborhood pretty well. And I saw lots of Black Harlemites there.&lt;/p>
+&lt;p>Getting away from middle-class urban spaces was refreshing to me. I enjoyed going out to Flushing, Elmhurst, and Ridgewood. It&amp;rsquo;s a totally different world out there. I went to see some friends who live near Yankee Stadium, and we hit one of the Jamaican spots there. Honestly, I didn&amp;rsquo;t get out of Manhattan much until my second year living in NYC. Then I&amp;rsquo;d start getting off at every stop along the 7 train, discovering all the amazing cuisines I could find there: Asian, African, South American, Persian, Mediterranean, Balkan&amp;hellip;&lt;/p>
+&lt;p>I walked to FieldTrip (a restaurant chain by Chef JJ Johnson that highlights &amp;ldquo;freshly milled, heirloom rice grains&amp;rdquo;) on Malcolm X Boulevard. I got the shrimp bowl (with coconut sticky rice), and a rice crispy treat spiked with dragon fruit juice for dessert. Every cuisine is getting the fast-casual bowl treatment these days.&lt;/p>
+&lt;p>I went to the new Harlem location of Charles Pan-Fried Chicken, on Edgecombe Avenue, for Harlem&amp;rsquo;s best remaining soul food. There used to be a little sandwich shop here that had really good cheesesteaks with a special sauce. I think it was run by the Nation of Islam.&lt;/p>
+&lt;p>On my final day, I met up with some friends at BierWax Queens, a hip-hop and vinyl-themed bar in Ridgewood, run by some DJ, and had an imperial stout on draft (Memory &amp;amp; Perception by Finback Brewery in Queens). Lastly, I stopped by Newyorktitlan, a small hole-in-the-wall Mexican brunch spot nestled in the shadow of the M train near Myrtle-Wyckoff in Bushwick, and had &lt;em>chilaquiles&lt;/em>.&lt;/p>
+&lt;blockquote>
+&lt;p>Why do people live in New York? There is no relationship between them. Except for an inner electricity which results from the simple fact of their being crowded together. A magical sensation of contiguity and attraction for an artificial centrality. This is what makes it a self-attracting universe, which there is no reason to leave. There is no human reason to be here, except for the sheer ecstasy of being crowded together.&lt;/p>
+&lt;p>&amp;ndash; Jean Baudrillard, &lt;em>Amérique&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230422_203120.jpg"
+alt="blue corn bread"/>&lt;figcaption class="right">&lt;p>Midwest blue corn bread: Kansas wheat + Illinois corn + East Coast ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Contrary to what most people think, I always associate corn with the East Coast of the United States. I was first introduced to corn tortillas and &lt;em>paste di meliga&lt;/em> (Italian cornmeal shortbread cookies) in New York City, and then grits in South Carolina.&lt;/p>
+&lt;p>In Old English, corn meant &amp;ldquo;grain&amp;rdquo; instead of maize, because the latter was native to America. Brewing farmhouse ale from maize in Europe was an impossibility, simply because maize didn&amp;rsquo;t grow here. In Orkney, ales brewed from grains are referred to as &amp;ldquo;corn ale.&amp;rdquo;&lt;/p>
+&lt;p>In the New World, however, corn = maize. Corn defined drinking and bread culture during America&amp;rsquo;s Colonial Era as well as the years after the Revolutionary War. Pilgrims made &amp;ldquo;thirded bread&amp;rdquo; (or Boston brown bread) with equal quantities of rye, wheat, and corn. Slather some butter, and it was a complete meal.&lt;/p>
+&lt;p>The colony of Connecticut couldn&amp;rsquo;t sustain wheat production, which meant that &amp;ldquo;thirded bread&amp;rdquo; was not a cultural survivor in the Provision State, although it was popular in other New England colonies. Instead, rye &amp;lsquo;n&amp;rsquo; injun, a steamed bread made with just rye and cornmeal &amp;ndash; &lt;em>sans&lt;/em> the wheat &amp;ndash; survives in Connecticut to this day. It&amp;rsquo;s famously mentioned in Laura Ingalls Wilder&amp;rsquo;s &lt;em>Farmer Boy&lt;/em> as part of one of Mother Wilder&amp;rsquo;s delicious meals.&lt;/p>
+&lt;p>Many varieties of corn had their origin in the northeastern US. Cultivated into the early years of the 20th century, the varieties disappeared from the region almost overnight. Changing farm practices and the abandonment of the local gristmills led to the demise of New England&amp;rsquo;s traditional corn varieties, even as the same varieties were being cultivated and milled widely around the world, from Spain to Japan.&lt;/p>
+&lt;p>Corn is remarkable among the grains, because it&amp;rsquo;s used as food from the emergence of the flower buds to the time the kernels are mature. Even among the dry, mature kernels, there is a range of colors, textures, and flavors. No other grain provides such culinary elasticity.&lt;/p>
+&lt;p>More than just a kitchen ingredient, the corn plant is an elegant organism. The cornfield itself provides more than just a crop of wholesome kernels.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230417_220211.jpg"
+alt="Rovey blue corn"/>&lt;figcaption class="right">&lt;p>Blue corn from Rovey Seed Co. (Farmersville, Illinois)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Once viewed as a gift of the gods, corn has slipped under a cloud, a victim of modernity&amp;rsquo;s prodigal and detached ways. Today few people actively produce corn from seed to harvest, crack the dry corn kernels into small pieces for backyard chickens, grind it for bread, or nixtamalize it for hominy, tamales, tortillas, etc. Furthering that detachment: Over the last century or so, corn has been transformed from a wholegrain dietary staple into an industrial chemistry kit.&lt;/p>
+&lt;p>Most of the corn produced in the US is turned into alcohol, starch, oil, and numerous chemicals used widely in food processing; the by-products are used to fatten livestock. The kernels are treated with a strong acid and &lt;a href="https://en.wikipedia.org/wiki/Corn_wet-milling">wet-milled&lt;/a>, which allows the corn refiner to separate the starches, proteins, fibers, and oils. We consume corn throughout the day in the form of meat, soft drinks, and processed foods, but only rarely as a whole grain. As early as 1954, the corn-refining industry estimated that 50% of Americans' diet was based on corn &amp;ndash; that percentage is probably a lot higher now. Grain corn has been bred and engineered in astounding quantities to provide certain chemical and energy qualities, yet the modern cultivars of the grain are barely suitable as human food. In fact, some genetically modified types of corn are not even approved for human consumption.&lt;/p>
+&lt;hr>
+&lt;p>I just had a chance to experiment with some non-GMO food-grade grain corns from Derek Rovey, the 3rd-generation owner of &lt;a href="http://www.roveyseed.com/">Rovey Seed Co.&lt;/a>, based in Farmersville, Illinois. Turns out the tortillas I enjoyed in New England a few years ago were made with Rovey&amp;rsquo;s corn; I didn&amp;rsquo;t realize it until now.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/4ZXIqfJez5o" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Rovey&amp;rsquo;s corn kernels are good-sized and thoroughly cleaned; I guess they utilize some of the latest cleaning and sorting technology.&lt;/p>
+&lt;p>This variety of blue corn has slightly less protein, less starch, and more sugar than its white and red counterparts. Its deep purple-blue color comes from its rich anthonyacin content, the same health-promoting compound found in dark berries.&lt;/p>
+&lt;p>Blue corn just hits different, and this variety is no exception.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230417_220446.jpg"
+alt="Rovey blue corn"/>&lt;figcaption class="right">&lt;p>Blue corn from Rovey Seed Co. (Farmersville, Illinois)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>First, I tossed a handful of the blue corn kernels on a popcorn popper just out of curiosity. I knew that dent corn has softer kernels (higher content of soft starch) than popcorn, and I just wanted to see how the kernels differ when heated.&lt;/p>
+&lt;p>Well, the blue corn kernels popped more than I expected. They didn&amp;rsquo;t fully explode into a white, fluffy substance like popcorn, but turned out brittle and concussively crunchy like CornNuts® Crunchy Corn Snacks!&lt;/p>
+&lt;p>These bluish-brown &amp;ldquo;corn nuts&amp;rdquo; had a very interesting tortilla flavor, too. It&amp;rsquo;s like eating a super crunchy taco shell. Maybe thousands of years ago, in these very lands, corn was toasted in hot sand until the kernels popped?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230418_192351.jpg"
+alt="Rovey blue corn popped"/>&lt;figcaption class="right">&lt;p>Rovey&amp;rsquo;s blue corn kernels, popped!&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I also made a bread with milled blue corn and WLP008 East Coast ale yeast.&lt;/p>
+&lt;h3 id="saccharified-corn-porridge">Saccharified corn porridge&lt;/h3>
+&lt;p>I intended to achieve 2 goals with the corn porridge:&lt;/p>
+&lt;ol>
+&lt;li>To heighten the flavor of corn in the final dough; and&lt;/li>
+&lt;li>To provide some fermentable starch for amylase in the diastatic malt. Amylase breaks down starch (made up of long chains of water-insoluble glucose molecules) into simple sugars (branched but shorter chains of water-soluble glucose), which can be metabolized by the yeast.&lt;/li>
+&lt;/ol>
+&lt;p>To make corn fermentable, the starch it contains in the endosperm must first be gelatinized (i.e. breaking down the intermolecular bonds of starch molecules).&lt;/p>
+&lt;p>Grain starch is composed of glucose molecules bound together in chains. These grain starch chains come in two types: amylose and amylopectin. Amylose is essentially a straight chain of glucose molecules, not too complicated, but it has the ability to form pretty dense starch granules, particularly in some varieties of corn. Amylopectin has a branched structure of glucose strands and, for many grains, makes up ~75% of the total starch content.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/starch-amylose-amylopectin.png"
+alt="Different sources of starch"/>&lt;figcaption class="right">&lt;p>Different sources of starch, and their respective percentages of amylose and amylopectin.&lt;/p>&lt;p>Source: &lt;a href="https://www.researchgate.net/publication/332008553_Starch-based_films_Major_factors_affecting_their_properties" target="_blank" rel="noreferrer">Thakur et al. (2019)&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Different starches require different temperatures to properly gelatinize. Conveniently, the gelatinization temperature for barley starch is in a similar range to the amylase enzyme activity optimum. However, for corn starch, the gelatinization temperature is significantly higher. Corn starch granules are typically small in size, polyhedral in shape, and have relatively low amylopectin contents. This makes water penetration into the granule difficult at lower temperatures.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/starch-gelatinization.png"
+alt="Different starches gelatinize at different temperature"/>&lt;figcaption class="right">&lt;p>Different starches gelatinize at different temperatures (°C)&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Therefore, commonly recommended corn starch gelatinization temperature range is 158-176°F for ~30 minutes. Since I want to be certain that gelatinization is complete, the simplest way to do this is to cook the corn in boiling water. After gelatinization is complete, the starch can then be converted to sugar by amylase.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>wholegrain blue corn (Rovey Seeds, Illinois)&lt;/td>
+&lt;td>90%&lt;/td>
+&lt;td>180g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt (wind-dried Chevallier)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>boiling water&lt;/td>
+&lt;td>144%&lt;/td>
+&lt;td>252g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Process:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Mill the whole-kernel blue corn into a fine flour (slightly finer than cornmeal).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Roast the corn flour in a dry skillet on the stovetop until fragrant. This helps to bring out the rich, deep aroma and flavor of corn.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Set the malt aside. Mix roasted corn flour with boiling water, until evenly combined. Simmer on the stovetop over low heat (185-195°F) for 30 minutes, stirring frequently. This will sufficiently gelatinize the corn starch.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cool down to ~155°F, stir in the malt, and mix well. Cover and hold at 140-150°F for 12 hours. Saccharification takes place in this temperature range, i.e. amylase converts sugar derivatives or complex carbohydrates into simple soluble fermentable sugars.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>After 12 hours, cool off slowly to room temperature.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>The saccharified roasted corn porridge made from Rovey&amp;rsquo;s blue corn took on a beautiful dark blue color and intoxicating aroma &amp;ndash; reminiscent of fresh tortilla chips and popcorn at the same time! It tasted sweet like unbaked cookies.&lt;/p>
+&lt;p>Total: 452g (to be divided into 152g and 300g)&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230422_204035.jpg"
+alt="blue corn bread"/>&lt;figcaption class="right">&lt;p>Blue corn bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="corn-barm-wlp008">Corn barm: WLP008&lt;/h3>
+&lt;p>Remove 152g of the saccharified corn porridge &amp;ndash; this will become the barm. Set aside the rest for the final dough.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>saccharified corn porridge&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>152g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>East Coast ale yeast (WLP008 - White Labs, CA)&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>1.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;a href="https://www.whitelabs.com/yeast-single?id=108&amp;amp;type=YEAST">WLP008&lt;/a> East Coast ale yeast &amp;ldquo;possesses a similar neutral character of WLP001 California Ale Yeast® with slightly higher ester production.&amp;rdquo;&lt;/p>
+&lt;p>This strain has a slightly lower attenuation (70%-75%) compared to &lt;a href="https://www.whitelabs.com/yeast-single?id=101&amp;amp;type=YEAST">WLP001&lt;/a> (73%-85%), which &amp;ldquo;leaves some mouthfeel and residual sweetness which balances hop bitterness.&amp;rdquo; Sounds perfect for a slightly sweetish corn bread!&lt;/p>
+&lt;p>The recommended temperature range for WLP008 is 68°-73°F. I fermented the barm (semi-aerobically) at 70-73°F for 14 hours. When ripe, the barm became very bubbly and porous, with a faint ethanol aroma.&lt;/p>
+&lt;p>Don&amp;rsquo;t go overboard with fermentation here &amp;ndash; you&amp;rsquo;re making a bread, not moonshine!&lt;/p>
+&lt;p>Total: 153.5g&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230422_213722.jpg"
+alt="blue corn bread"/>&lt;figcaption class="right">&lt;p>Blue corn bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="final-dough">Final dough&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>350g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>saccharified corn porridge&lt;/td>
+&lt;td>85.7%&lt;/td>
+&lt;td>300g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>corn barm&lt;/td>
+&lt;td>43.9%&lt;/td>
+&lt;td>153.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water (bassinage)&lt;/td>
+&lt;td>16%&lt;/td>
+&lt;td>56g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>salt&lt;/td>
+&lt;td>1.1%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Kansas-grown Turkey Red wheat + Illinois-grown dent corn. How &lt;a href="https://www.buzzfeed.com/martyfcmly/how-midwestern-are-you-b7kpy2yh9w">much more Midwestern&lt;/a> can it get?&lt;/p>
+&lt;p>Add everything together and mix thoroughly. The dough will be sticky and delicate. Adjust hydration as necessary. Corn seems to have an endless appetite for water.&lt;/p>
+&lt;p>Cover with a breathable, damp towel. Ferment at 70-73°F for 4 hours; perform 4 rounds of coil-fold, 45 minutes apart.&lt;/p>
+&lt;p>Keep the dough at 68-63°F for another 14 hours.&lt;/p>
+&lt;p>Shape as desired.&lt;/p>
+&lt;p>Final proof: 2 hours at ~72°F.&lt;/p>
+&lt;p>Bake: 45 minutes at 350°F.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230422_202150.jpg"
+alt="blue corn bread"/>&lt;figcaption class="right">&lt;p>Blue corn bread, fresh out of the oven.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="tasting">Tasting&lt;/h3>
+&lt;p>This true Midwestern bread had a striking natural blue color, an incredibly tender texture, and deeply nutty flavor.&lt;/p>
+&lt;p>&lt;strong>Aroma&lt;/strong>&lt;/p>
+&lt;p>Earthy and subtly toasty, with faint ethanol; reminded me of walking through a cornfield.&lt;/p>
+&lt;p>&lt;strong>Texture&lt;/strong>&lt;/p>
+&lt;p>The crust was thin and firm, but not unyielding; it held up the crumb well. Very easy to bite through and evidently gum-friendly (great for grandparents and kids).&lt;/p>
+&lt;p>The crumb felt springy in between my fingers; not crumbly at all like a &lt;a href="https://sallysbakingaddiction.com/my-favorite-cornbread/">typical cornbread&lt;/a>. The corn added a little firmness to the crumb, but it was still very moist and tender, custardy and creamy. The slices held up well like as bookends in sandwiches.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230422_204116.jpg"
+alt="blue corn bread"/>&lt;figcaption class="right">&lt;p>Blue corn bread, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Flavor&lt;/strong>&lt;/p>
+&lt;p>A mild tortilla chip flavor upfront, quickly developing into a mellow sweetness with a fruity undertone and a little hoppiness, and ending with a mouthwatering sensation. Clean taste and a nice balance between nutty corn flavors and toasty sweetness.&lt;/p>
+&lt;p>I guess switching from West Coast ale yeast to East Coast ale yeast increased the malty sweetness and fruity esters, along with other subtle yeast characteristics.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-4/20230422_204411.jpg"
+alt="blue corn bread"/>&lt;figcaption class="right">&lt;p>Blue corn bread, sliced.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Corn definitely has some special emotional pull. I&amp;rsquo;m besotted.&lt;/p>
+&lt;p>Corn&amp;rsquo;s marvelous color and high soft starch content gave me a dozen ideas&amp;hellip; Stay tuned!&lt;/p>
+&lt;hr>
+&lt;p>🍻 Special thanks to&lt;/p>
+&lt;ul>
+&lt;li>Derek Rovey, &lt;a href="http://www.roveyseed.com/">Rovey Seed Co.&lt;/a>&lt;/li>
+&lt;li>Bert Sheffield &amp;amp; Erik Fowler, &lt;a href="https://www.whitelabs.com/">White Labs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Homemade, fully modified.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>levure de bière #2: keptinis + Opshaug kveik ale yeast</title><link>/posts/byb-2/</link><pubDate>Sat, 08 Apr 2023 12:24:42 +0000</pubDate><guid>/posts/byb-2/</guid><description>Lithuania&amp;rsquo;s best-kept secret, &lt;em>keptinis alus&lt;/em> (an exotic farmhouse raw ale made with &amp;lsquo;baked&amp;rsquo; mash), translated into bread. Aromatic caramelized &lt;em>barm&lt;/em> with craft malts. Leavened exclusively with Opshaug &lt;em>kveik&lt;/em> ale yeast.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>Lithuania has a best-kept secret: &lt;em>&lt;strong>keptinis alus&lt;/strong>&lt;/em>, an exotic farmhouse raw ale made with &amp;ldquo;baked&amp;rdquo; mash.&lt;/p>
+&lt;p>This beer style &amp;ndash; like a softer, rounder porter but with stronger, deeper caramel and toffee flavors &amp;ndash; dates back to the Viking era. Nowadays it&amp;rsquo;s made by only a few farmhouse brewers in northeastern Lithuania and 3 commercial breweries: &lt;a href="https://dundulis.lt/en/">Dundulis&lt;/a>, &lt;a href="https://www.ratebeer.com/brewers/ramuno-cizo-alaus-darykla/10373/">Ramunas Čižas&lt;/a>, &lt;a href="https://www.ratebeer.com/brewers/kupiskio-alus/12065/">Kupiškio Alus&lt;/a> (&lt;em>kupiškėnų keptinis&lt;/em> was once voted the best Lithuanian beer on RateBeer.com).&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Kfc-EycOBvk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>The brewing process, which has been passed down orally from generation to generation over the centuries, usually begins with a conventional, but thick, mash for an hour. Meanwhile, the brewer heats an oven to incredibly high temperatures &amp;ndash; likely &amp;gt;700˚F (371˚C). Then the brewer packs the mash into tins that look like bread pans and bake them in the oven. Just before the loaves go in, the brewer removes the fuel from the oven, so that it cools over the course of a few hours. While in the oven, the mash forms a centimeter-thick, deep-brown crust, and goes through Maillard reactions in addition to caramelization. Beneath that crust, the firm mash becomes, in &lt;a href="https://www.garshol.priv.no/blog/394.html">Lars Garshol&lt;/a>&amp;rsquo;s words,&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;sweet, toasted, and caramelly sugary, with earthy, honey-like notes.&amp;rdquo;&lt;/p>
+&lt;/blockquote>
+&lt;p>Imagine sweet mash cookies&amp;hellip;&lt;/p>
+&lt;p>The brewer breaks up the charred mash and creates a second mash, adding hop tea (it&amp;rsquo;s a raw ale, after all) before fermenting. The boatload of toasted sugars imparts massive toasty toffee flavors. I can only imagine the depth of flavors in an old-fashioned &lt;em>keptinis&lt;/em>, as well as its robust notes of caramel and toffee that probably linger for a long time.&lt;/p>
+&lt;p>Lars Garshol also mentioned that Martin Warren of the Poppyland Brewery in Norfolk, England &lt;a href="https://poppylandbrewer.blogspot.com/2015/04/a-great-way-to-lose-day.html">tried to brew a &lt;em>keptinis&lt;/em>&lt;/a> and failed miserably. Here&amp;rsquo;s what Warren did:&lt;/p>
+&lt;blockquote>
+&lt;p>The dry malt bill was mixed in a large bucket until even. Then 1.5kg at a time were put into a large mixing bowl and about 1.4 litres of near boiling water added, enough to wet all the grains and make a stiff mix.&lt;/p>
+&lt;p>This was quickly put into a shallow baking tray to form a flat &amp;lsquo;loaf&amp;rsquo; and turned out onto a newspaper.&lt;/p>
+&lt;/blockquote>
+&lt;p>I&amp;rsquo;m guessing the reasons he wound up with black, unfermentable water with no sugar in it are:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>the mash was too dry;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>the mashing process didn&amp;rsquo;t last long enough to activate the enzymes that convert starches into fermentable sugars; all the enzymes in the malt were destroyed via baking before any conversion took place.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Of course, you&amp;rsquo;d end up with a sugarless water this way.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/keptinis-baked-mash.jpg"
+alt="traditional keptinis baked mash"/>&lt;figcaption class="right">&lt;p>Lithuanian traditional baked mash, at &lt;em>Dundulio Koštuvė&lt;/em> 2022&lt;/p>&lt;p>Source: &lt;a href="https://www.facebook.com/dundulis.alus.gira/posts/pfbid0291AL9yjwHsfeshtTdo48c6irt12VozD6YkCyvDh7o7ZigUgcSoiL5dqpPUKkmj52l" target="_blank" rel="noreferrer">Dundulis&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>When Lithuanians brew &lt;em>keptinis&lt;/em>, they mix the grist and water into a thick porridge-like consistency, and leave it for an hour to convert. After that, they scoop the mash out and caramelize it in the oven.&lt;/p>
+&lt;blockquote>
+&lt;p>Technically, caramelization is the thermal degradation of sugars which leads to the formation of both volatiles (caramel aroma) and brown-colored products (caramel colors). It is similar to Maillard reactions in that it is a non-enzymatic browning reaction, but caramelization occurs by pyrolysis (thermochemical degradation in the absence of oxygen) instead of by chemical reaction. Caramelization is catalyzed by an acid or a base, and generally requires temperatures above 120°C and a pH between 3 and 9.&lt;/p>
+&lt;ul>
+&lt;li>John Mallett, &lt;em>Malt: A Practical Guide from Field to Brewhouse&lt;/em> (the Brewing Elements series)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Baking 30% of the mash probably doesn&amp;rsquo;t give enough flavor to &lt;em>keptinis&lt;/em>. A few years ago, Lithuanian brewery Dundulis made a new effort to &lt;a href="https://dundulis.lt/en/keptinis-baked-ale/">reconstruct traditional &lt;em>keptinis&lt;/em>&lt;/a> that had ~55% of the mash baked, which gave more of the right &lt;em>keptinis&lt;/em> flavor.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/kurko-keptinis.jpg"
+alt="kurko keptinis from Širvenos Bravoras (Dundulis)"/>&lt;figcaption class="right">&lt;p>&lt;em>kurko keptinis&lt;/em> from &lt;em>Širvenos Bravoras&lt;/em> (Dundulis)&lt;/p>&lt;p>Source: &lt;a href="https://mgkolekcija.wordpress.com/2016/04/04/dundulio-magistra-ir-kurko-keptinis/" target="_blank" rel="noreferrer">Modesto blogas apie kolekcijas ir alų&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Curiously, I remember reading about an Iberian beer called &lt;em>caelia&lt;/em> brewed during Roman times with wheat germ that was also formed into loaves and baked. Some sources suggest the bread was heated at very low temperatures and removed while it was still wet; essentially the brewers were creating a yeast bomb to inoculate fermentable grains.&lt;/p>
+&lt;p>During an episode of Milk the Funk podcast, Lars Garshol made the point that historically a large metal kettle for brewing would have been prohibitively expensive for most people, so either adding hot stones to a mash vessel or baking the entire mash was a more affordable option. (This is probably true for most of Europe, at least at one point in time.)&lt;/p>
+&lt;p>So, here&amp;rsquo;s my translation of &lt;em>keptinis&lt;/em> into a loaf of bread.&lt;/p>
+&lt;h3 id="saccharified-scald">Saccharified scald&lt;/h3>
+&lt;p>Malt is &lt;a href="https://exarc.net/issue-2021-2/at/ancient-magic-malt-making">ancient magic&lt;/a>.&lt;/p>
+&lt;p>Yeast can&amp;rsquo;t live on sugar alone. It also needs nutrients like nitrogen, amino acids, minerals (Zn, Mg, Ca), and vitamins to thrive and grow. The primary source for these building blocks is the free amino nitrogen (FAN) and lipids from malted barley. Refined sugars don&amp;rsquo;t contain any of these nutrients.&lt;/p>
+&lt;p>Wort is the liquid extracted from the mashing process during the brewing of beer or whisky. Wort contains the sugars (especially maltose and maltotriose) that will be fermented by the brewing yeast to produce alcohol. An all-malt wort contains all the nutrients yeast needs for fermentation, except oxygen and zinc.&lt;/p>
+&lt;p>Lab studies have shown that rye malt worts contain less maltose and more nitrogen than barley malt worts. Further, rye malts tend to be richer than barley malts in alpha amylase, although barley malts provide slightly higher diastatic power. Including rye also increases the wort&amp;rsquo;s pH.&lt;/p>
+&lt;p>Total dry malts: 300g&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>rye malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>70%&lt;/td>
+&lt;td>210g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>honey malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Ölandsvete&lt;/em> wheat malt (Root Shoot Malting, Colorado)&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->sun-dried barley malt (Chevallier, homemade)&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/td>
+&lt;td>10%&lt;/td>
+&lt;td>30g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>hot water (140-150°F)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>300g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Total scald: 600g&lt;/p>
+&lt;p>&lt;a href="https://www.rootshootmalting.com">&lt;strong>Root Shoot Malting&lt;/strong>&lt;/a> is a craft malthouse located in Loveland, Colorado &amp;ndash; the first in the US to operate on a Kaspar Schulz malting system. They won a gold medal for Genie Pale in 2019, a bronze for Munich 10 in 2020, and a bronze for Genie Pale in 2021.&lt;/p>
+&lt;div class="embed music-spotify">
+&lt;iframe
+style="border-radius:12px"
+src="https://open.spotify.com/embed/episode/6NX9ir3DiRoM0VRgzvM4Mh?utm_source=generator&amp;theme=0"
+width="100%"
+height="152
+"
+frameBorder="0"
+allowfullscreen=""
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">&lt;/iframe>
+&lt;/div>
+&lt;p>I incorporated some high-quality, locally-sourced malts from Root Shoot Malting to add aromas and flavors in the bread:&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221136.jpg"
+alt="3 malts from Root Shoot Malting"/>&lt;figcaption class="right">&lt;p>3 craft malts from Root Shoot Malting: honey (top left), Ölandsvete (top right), and Bono rye&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The rare heritage &lt;strong>&lt;a href="https://breadbuster.github.io/img/byb-2/RootShoot-Oland-wheat-malt.png">&lt;em>Ölandsvete&lt;/em> wheat malt&lt;/a>&lt;/strong> adds light caramel and roasty flavors, as well as full-bodied character.&lt;/p>
+&lt;p>&lt;em>Ölandsvete&lt;/em> (or &lt;em>Ølandsvete&lt;/em>) is an ancient variety of wheat first grown over 6,000 years ago on the second-largest Swedish island &lt;a href="https://en.wikipedia.org/wiki/%C3%96land">Öland&lt;/a>, just off of Sweden&amp;rsquo;s east coast in the Baltic Sea. &lt;em>Ölandsvete&lt;/em> is a low-yield, high-protein (14%-16%) spring wheat that was once common all across Europe and northern Africa. Like many other heritage varieties, &lt;em>Ölandsvete&lt;/em> nearly disappeared &amp;ndash; until a few Swedish farmers started bringing it back in the late 1990s and local bakers started using it in traditional sourdough recipes. The Danish celeb chef Claus Meyer, for example, made a highly popular &lt;a href="https://meyers.dk/opskrifter/the-oland-wheat-bread/p/75089/">Öland bread&lt;/a>. Today, there are only a few farmers in the world who grow the &lt;em>Ölandsvete&lt;/em> variety. One of them is Olander Farms in Loveland, Colorado, the &lt;em>château&lt;/em> of Root Shoot Malting, which is quite possibly the only malthouse in the country to malt this variety. The Family Jones Distillery in Denver, Colorado uses this heritage wheat for its unique single-estate &lt;a href="https://thefamilyjones.co/#premium-spirits-section">Annika Jones Vodka&lt;/a>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221256.jpg"
+alt="Ölandsvete wheat malt"/>&lt;figcaption class="right">&lt;p>Rare heritage &lt;em>Ölandsvete&lt;/em> wheat malt, crafted by Root Shoot Malting.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Unmilled &lt;em>Ölandsvete&lt;/em> malt from Root Shoot smells sweet and nutty, with a hint of honeydew melon. Upon milling, that aroma becomes more pronounced. The fact that this variety came from Scandinavia, grown by farmers with Scandinavian ancestry, for a US baker making a Nordic-Baltic-style bread &amp;ndash; is quite interesting all around.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221323.jpg"
+alt="Bono winter rye malt"/>&lt;figcaption class="right">&lt;p>Bono winter rye malt, crafted by Root Shoot Malting.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The &lt;a href="https://breadbuster.github.io/img/byb-2/RootShoot-rye-malt.png">&lt;strong>Bono winter rye malt&lt;/strong>&lt;/a> contributes some earthy and nutty sunflower seed flavors as well as spiced notes.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221244.jpg"
+alt="honey malt"/>&lt;figcaption class="right">&lt;p>Honey malt, from Genie (a 2-row spring barley), crafted by Root Shoot Malting.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The &lt;a href="https://breadbuster.github.io/img/byb-2/RootShoot-honey-malt.png">&lt;strong>honey malt&lt;/strong>&lt;/a>, from Genie (a 2-row spring barley), lends a pretzel aroma and some tropical tart sweetness. This malt is produced through a very distinct malting process, which makes it closely resemble a melanoidin malt.&lt;/p>
+&lt;p>The honey malt, especially when freshly milled, has an absolutely intoxicating aroma and flavor. I don&amp;rsquo;t smell or taste grapefruit, but I do notice complex sweet tartness of mango, guava, passion fruit, soursop, and lychee; honeyed, tangy, tropical, and terrifically punchy citrus. It leaves an exclamation mark at the tip of my nose &amp;ndash; and reminds me of Java, Indonesia in March/April, when an abundance of tropical fruits are in season. I almost suggested to Root Shoot that they should rename the malt &amp;ldquo;Tropical Fruit Punch.&amp;rdquo; It&amp;rsquo;s a real unique malt that I&amp;rsquo;m definitely going to use a lot more of in my breads.&lt;/p>
+&lt;p>&lt;strong>Process&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Grind the malts, individually or collectively, into a flour.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Place all the malts in a bowl or small saucepan; add hot water in 2-3 increments, stirring constantly.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hold the scald at ~125°F for 2 hours; then raise the temperature to ~150°F and hold for another 6 hours.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Upon initial mixing, the scald had a sweet roasty aroma and a sweet taste.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_161820.jpg"
+alt="scald before saccharification"/>&lt;figcaption class="right">&lt;p>scald right after mixing, before saccharification&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After saccharification, the sweet roasty aroma and taste went through the roof. Most people don&amp;rsquo;t have the opportunity to see or to experience this magical process. I&amp;rsquo;m extremely fortunate.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_015628.jpg"
+alt="scald after saccharification"/>&lt;figcaption class="right">&lt;p>scald after saccharification&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Saccharification is an essential part of the brewing process. A few hundred years ago, making malt and brewing beer at home was a common activity. It happened on farms and in large households. It was a household task.&lt;/p>
+&lt;p>Today it seems to be a mystery to many.&lt;/p>
+&lt;h3 id="caramelized-scald">Caramelized scald&lt;/h3>
+&lt;p>The trick with &lt;em>keptinis&lt;/em> is to properly caramelize the mash in the oven. You want a crust that is charred. Lithuanians typically bake the mash in a deep, wood-fired &lt;em>dúonkepis&lt;/em> oven (&amp;gt;700˚F) to achieve &lt;a href="https://www.curiouscook.com/site/2012/09/caramelization-new-science-new-possibilities.html">caramelization&lt;/a>.&lt;/p>
+&lt;p>After 6 hours of saccharification, I scooped &lt;strong>400g&lt;/strong> (two-thirds) of the sweet scald onto a baking sheet lined with parchment paper, and let the remaining 200g (one-third) continue saccharifying for another 2 hours.&lt;/p>
+&lt;p>Remember I mentioned earlier that Dundulis' recent revival of &lt;em>keptinis&lt;/em> had ~55% of the mash baked to produce more of the right flavor? 2/3 (or ~67%) seemed about right to me, at least for starters.&lt;/p>
+&lt;p>I spread it out into a thin layer, to optimize the crust area for caramelization. Then I baked it in a 350°F oven for 20 minutes until it started to look dark brown in spots and smell toasty (and even slightly burnt).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_225328.jpg"
+alt="oven-caramelized scald"/>&lt;figcaption class="right">&lt;p>oven-caramelized sweet scald crackers&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The process of caramelization creates one of the most naturally delectable and complex combinations of sweet, savory, and bitter flavors there is.&lt;/p>
+&lt;p>As the water evaporates, the sugar concentration and the temperature of the sugar molecules continue to increase. The (now pure) molten sugar will rise above 212°F/100°C (the boiling point) and will go through its &lt;a href="https://www.joyofbaking.com/StagesOfCookedSugar.html">different cooking stages&lt;/a>. Gradually, the sugar molecules begin to break down and new compounds form (including caramel); the thermal decomposition accelerates significantly as the sugar reaches a temperature of 320°F (160°C).&lt;/p>
+&lt;p>IMO, it&amp;rsquo;s best to get a wide range of caramel colors, from the alluring darkest shades (with smokey bitter notes) to the lightest hues.&lt;/p>
+&lt;p>The key to caramelization is the combination of cooking temperature and cooking time. I find it absolutely fascinating that sugar can actually &lt;a href="https://www.seriouseats.com/dry-toasted-sugar-granulated-caramel-recipe">caramelize at temperatures below its melting point&lt;/a>. I speculate this scald might have a different flavor if it&amp;rsquo;s caramelized low and slow, e.g. baked in the gentler heat of a 300°F (149°C) oven for a few hours, or &lt;a href="https://www.curiouscook.com/site/2012/09/caramelization-new-science-new-possibilities.html">at 250°F (125°C) overnight and longer&lt;/a>.&lt;/p>
+&lt;p>Caramelization will reduce fermentability, because caramelizing also binds simple sugars into more complex ones &amp;ndash; possibly too complex for the yeast to digest. Generally, yeast can digest only mono-, di-, and tri-saccharides. Anything more complex than that will remain in solution, adding some residual sweetness but not much (think &lt;em>&lt;a href="https://www.atlasobscura.com/articles/how-to-make-medieval-mead-bochet">bochets&lt;/a>&lt;/em>, a type of Medieval mead made from caramelized honey).&lt;/p>
+&lt;p>In reality, most of the colors and flavors of &amp;ldquo;caramelization&amp;rdquo; are actually due to Maillard reactions where the sugars interact with amino acids to make large and complex molecules. The amount of browning can be a good clue to how much of the sugars have bonded to create large molecules. The more brown the caramelized sugar, the less fermentable it will be. Some simple sugars are indeed created in the process, but the end result is larger flavor and aroma molecules, which are formed from the initial sugars present.&lt;/p>
+&lt;p>Caramelization doesn&amp;rsquo;t caramelize all sugar molecules, so some sugars will still remain fermentable. A number of Belgian beers use &lt;a href="https://en.wikipedia.org/wiki/Candi_sugar">candi sugar&lt;/a>, a type of caramelized beet sugar, to add flavors, colors, as well as gravity points.&lt;/p>
+&lt;p>The caramelized scald turned out like a Nordic crispbread, but very sticky &amp;ndash; there was a layer of sticky syrupy substance underneath the parchment paper!&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_233038.jpg"
+alt="oven-caramelized scald"/>&lt;figcaption class="right">&lt;p>oven-caramelized scald crackers: net weight 149.5g&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Once the caramelized scald cooled off, I broke it up into smaller pieces. My 400g of liquidy scald yielded ~150g of dried concentrate.&lt;/p>
+&lt;p>Then I ground them up in a coffee grinder into a flour. The ground flour smelled very toasty and caramelized &amp;ndash; like churro, cocoa, and bread crust.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230404_235538.jpg"
+alt="oven-caramelized scald ground"/>&lt;figcaption class="right">&lt;p>oven-caramelized scald crackers, ground into a flour&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After the remaining 200g scald had gone through another 2 hours of saccharification, I stirred all of the caramelized scald flour (~150g) back into it.&lt;/p>
+&lt;p>The scald instantly transformed into something much more wonderful &amp;ndash; a darker shade of chocolaty brown, with a seductive caramel aroma. After vigorous mixing, I let the newly-infused scald sit for another hour at ~150°F, so the flavors could meld.&lt;/p>
+&lt;p>The 600g scald I started with got reduced down to 350g, and became much more concentrated in aromas and flavors.&lt;/p>
+&lt;p>Total scald: 350g&lt;/p>
+&lt;h3 id="barm-opshaug-kveik-ale-yeast">Barm: Opshaug kveik ale yeast&lt;/h3>
+&lt;p>I decided to inoculate the scald with White Labs' &lt;a href="https://www.whitelabs.com/yeast-single?id=157&amp;amp;type=YEAST&amp;amp;style_type=1">WLP518&lt;/a> Opshaug kveik, a clean-fermenting farmhouse ale yeast from Norway.&lt;/p>
+&lt;blockquote>
+&lt;p>this Kveik strain was isolated from a mixed culture which belonged to Harald Opshaug, a farmhouse brewer in Stranda, Norway. This strain was originally used in the 1990s to produce several kornøl-style beers. It is a clean fermenting yeast and has tolerated temperatures up to 95°F (35°C) while finishing fermentation within three to four days. The hop-forward, clean characteristics of this strain make it ideal for IPAs and pale ales.&lt;/p>
+&lt;/blockquote>
+&lt;p>This yeast is traditionally used for Norwegian &lt;em>kornøl&lt;/em> (a farmhouse raw ale), and its low esters complement hops. Maybe it will complement the insanely malty character of the scald, too?&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230403_221937.jpg"
+alt="WLP518 Opshaug kveik"/>&lt;figcaption class="right">&lt;p>WLP518 Opshaug kveik ale yeast, by White Labs.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Here&amp;rsquo;s how to get the most out of &lt;a href="https://www.milkthefunk.com/wiki/Kveik">kveiks&lt;/a>, based on my research:&lt;/p>
+&lt;ol>
+&lt;li>Use an all-malt scald.&lt;/li>
+&lt;li>Saccharify the scald as much as possible (&amp;gt;=6 hours).&lt;/li>
+&lt;li>Use just a tiny bit of kveik (seriously underpitching).&lt;/li>
+&lt;li>Ferment aerobically; oxygenate often.&lt;/li>
+&lt;li>Ferment hot (~95°F).&lt;/li>
+&lt;/ol>
+&lt;p>I transferred all of the scald into a clean, shallow, wide-mouthed bowl. I let it cool down to ~95°F. Then I added 1g (~40 drops) of WLP518 liquid yeast.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>caramelized saccharified scald (all)&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>350g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>liquid ale yeast (WLP518 - White Labs, CA)&lt;/td>
+&lt;td>0.3%&lt;/td>
+&lt;td>1g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I covered the bowl loosely, and fermented it at &lt;strong>90-95°F&lt;/strong> for &lt;strong>7 hours&lt;/strong>. I gave it a stir every 30 minutes during the first 3 hours to aerate.&lt;/p>
+&lt;p>After 6 hours, the barm more than doubled in volume and became very bubbly.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_155731.jpg"
+alt="barm after fermentation"/>&lt;figcaption class="right">&lt;p>barm doubled in volume, after 6 hours of fermentation with WLP518 Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I stirred it back down, and it bubbled back up again within an hour. Indeed, the kveik ferments a lot faster than common ale yeasts.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_160055.jpg"
+alt="barm after fermentation"/>&lt;figcaption class="right">&lt;p>barm, after 6 hours of fermentation with WLP518 Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The fermented barm had a faintly fruity and beery smell, and a slightly sweet but still very toasty flavor. Very sticky, also.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230405_160202.jpg"
+alt="barm after fermentation"/>&lt;figcaption class="right">&lt;p>barm, after 7 hours of fermentation with WLP518 Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Total: 351g&lt;/p>
+&lt;h3 id="final-dough">Final dough&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat flour, 100% extraction&lt;/td>
+&lt;td>60%&lt;/td>
+&lt;td>180g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;em>Svedjerug&lt;/em> rye flour, 100% extraction&lt;/td>
+&lt;td>40%&lt;/td>
+&lt;td>120g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>43%&lt;/td>
+&lt;td>130g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WLP518 barm&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>351g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>3g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I mixed everything together into a shaggy mass (increase hydration as needed), and let it sit at room temperature for 30 minutes to autolyze.&lt;/p>
+&lt;p>I did a few minutes of stretching and folding to aerate the dough and make sure everything was evenly distributed.&lt;/p>
+&lt;p>Bulk ferment: 90 minutes at ~86°F.&lt;/p>
+&lt;p>Shape &amp;amp; final proof: 90 mins at ~90°F.&lt;/p>
+&lt;p>Bake: 400°F for the first 5 minutes, then 350°F for another 40 minutes.&lt;/p>
+&lt;p>Let the baked bread cool off and cure for 12+ hours before cutting. &lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_155858.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>the bread form of Lithuanian &lt;em>keptinis&lt;/em>, fermented with Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="tasting">Tasting&lt;/h3>
+&lt;p>The bread turned out quintessentially brown like a dark caramel. Its dense, opaque, and mysterious appearance reminded me of a brown ale rather than a questionable hazy IPA.&lt;/p>
+&lt;p>&lt;strong>Aroma&lt;/strong>&lt;/p>
+&lt;p>The bread had a very complex aroma: aggressively caramel upfront, followed by scents of chocolate, &lt;a href="https://www.thespruceeats.com/english-toffee-520453">toffee&lt;/a>, molasses, and dark brown sugar; deeply malty and subtly wheaty. It reminded me of the sugary wafts of &lt;a href="https://walkers-nonsuch.co.uk/about-walkers/our-history/">Walker&amp;rsquo;s Nonsuch Toffee&lt;/a> in Longton, Stoke-on-Trent, England.&lt;/p>
+&lt;p>The aroma was so sweet and rich that it immediately transported me into an old-time candy shop where I was surrounded by handmade caramels, dark chocolate, truffles, fudge, etc&amp;hellip;&lt;/p>
+&lt;p>Notes of toasted bread crusts, graham crackers, orange, and cinnamon sat contently in the background.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_165734.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>the bread form of Lithuanian &lt;em>keptinis&lt;/em>, fermented with Opshaug kveik ale yeast&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Texture&lt;/strong>&lt;/p>
+&lt;p>The texture was decidedly chewy, soft, moist, and sticky; the tenderness reminded me a lot of &lt;a href="https://www.latimes.com/recipe/mantou-steamed-chinese-buns">Chinese steamed buns&lt;/a> (&lt;em>mantou&lt;/em>). Both the texture and the flavor reminded me of &lt;a href="https://thewoksoflife.com/nian-gao-recipe/">lunar new year sweet rice cake&lt;/a> (made with basic ingredients like brown sugar, water / coconut milk, and glutinous rice flour).&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_175123.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Flavor&lt;/strong>&lt;/p>
+&lt;p>The flavor was complex with immediate competition of toffee, toasted bread, orange, cinnamon, walnut, and molasses. There was a hint of butteriness and wheatiness.&lt;/p>
+&lt;p>The flavor kept on developing: There was an explosion of caramel and chocolate flavors as the bread first hit the tongue, balanced by a faintly hoppy undertone. When combined with the subtle earthiness of the grains, the malty flavors became more pronounced. The mildly sweet and nutty flavors of wholegrain wheat and rye started to shine through and became more endearing.&lt;/p>
+&lt;p>As I was about to swallow, the flavors deepened even further &amp;ndash; to rival the aggressively caramely and malty aroma I was smelling initially. Coupled with lingering hints of dates, raisins, plums, and chocolate, it made for a soul-satisfying taste.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_173249.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot of a half-eaten slice&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After I swallowed, the caramely flavor mellowed out and gently transitioned to some bitter / hoppy notes. This was followed by a deluge of saliva &amp;ndash; my mouth was begging for more of this flavor bomb.&lt;/p>
+&lt;p>I don&amp;rsquo;t recall ever having a bread with such a long progression of flavors that slowly marched across my taste buds or teased my palate in such deliberate ways.&lt;/p>
+&lt;p>As the bread was toasted, the caramel flavor gave way to more burnt notes &amp;ndash; not acrid but more like the deep caramelization on the surface of grilled fruits. With further toasting, walnut and molasses took over the flavor. The bread was sweet, although less sweet as it toasted, but it was not cloying.&lt;/p>
+&lt;p>This bread looked and tasted like it should be really sweet &amp;ndash; on par with the tooth-aching intensity of marshmallows, angel food cake, and fudge &amp;ndash; but it just isn&amp;rsquo;t. It&amp;rsquo;s gently sweet with an enjoyable toffee flavor, &lt;em>sans&lt;/em> toothaches.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_173057.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, top crust shot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Mouthfeel&lt;/strong>&lt;/p>
+&lt;p>The crust was thin and crisp. The crumb was juicy (i.e. an evocative sensation that brought back sensory memories of biting into a ripe plum or peach, but not a juicy apple or pear) and soft, not heavy at all like its appearance or flavor suggested. It reminded me of eating a bowl of toasted oatmeal.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_173201.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;strong>Overall&lt;/strong>&lt;/p>
+&lt;p>I was &amp;ndash; and still am &amp;ndash; honestly blown away by how good this bread turned out.&lt;/p>
+&lt;p>The flavor was so deep and complex that it&amp;rsquo;s crazy to think this bread was made from just some austere barley, rye, and wheat without any specialty ingredients.&lt;/p>
+&lt;p>I&amp;rsquo;m a fan of Baltic black breads, but this bread is radically different from any black bread I&amp;rsquo;ve ever tasted. It aligns very well with how people describe &lt;em>keptinis&lt;/em> from experienced brewers.&lt;/p>
+&lt;blockquote>
+&lt;p>Hazy dark brown, thin, tan head. Aroma of brown bread, toast, chestnut, cashew, raisin, old banana. Taste has sweetish raisin &amp;amp; prune, sourish berries over brown-bready, almost wholemeal maltiness.&lt;/p>
+&lt;ul>
+&lt;li>an internet review of &lt;em>&lt;a href="https://brewver.com/beers/23908/Kurko-Keptinis">kurko keptinis&lt;/a>&lt;/em> from &lt;em>Širvenos Bravoras&lt;/em> (Dundulis)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>This is definitely an interesting twist on the Baltic bread tradition. Baking the saccharified scald into caramelized sugars is intriguing &amp;ndash; and kind of reminds me of &lt;a href="https://www.thefreshloaf.com/node/13369/altus-amp-formula">altus&lt;/a> and &lt;a href="https://www.thefreshloaf.com/node/55979/alt-altus">alt altus&lt;/a>.&lt;/p>
+&lt;p>The bread had no weird fermentation character or sourness at all. The WLP518 Opshaug kveik strain helped a &amp;ldquo;clean&amp;rdquo; grain flavor shine through &amp;ndash; just like the grain-forward &lt;a href="https://breadbuster.github.io/tags/wlp001/">WLP001&lt;/a> California ale yeast did in my &lt;a href="https://breadbuster.github.io/posts/byb-1-2/">previous bread-plays&lt;/a> &amp;ndash; underneath the complex caramely flavors. I have no doubt this bread will taste completely different if fermented with a sourdough levain instead of a kveik.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-2/20230406_175350.jpg"
+alt="keptinis &amp;#43; kveik"/>&lt;figcaption class="right">&lt;p>Lithuanian &lt;em>keptinis&lt;/em> bread with Opshaug kveik ale yeast, crumbshot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I have a lot of craft beer yeast breads in the pipeline&amp;hellip;&lt;/p>
+&lt;hr>
+&lt;p>🍻 Special thanks to&lt;/p>
+&lt;ul>
+&lt;li>Bert Sheffield &amp;amp; Erik Fowler, &lt;a href="https://www.whitelabs.com/">White Labs&lt;/a>&lt;/li>
+&lt;li>Craig Miller, &lt;a href="https://www.rootshootmalting.com">Root Shoot Malting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>I malted a batch of heritage Chevallier barley at home (probably undermodified) and sun-dried them before grinding into a flour, to ensure the malt remained as pale as possible.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>levure de bière #1.2: California ale yeast</title><link>/posts/byb-1-2/</link><pubDate>Sun, 02 Apr 2023 22:55:42 +0000</pubDate><guid>/posts/byb-1-2/</guid><description>A high-hydration whole-wheat bread leavened exclusively with WLP001 California ale yeast &lt;em>barm&lt;/em>. The crumb turned out much lighter and airier than the poolish version, more like sourdough breads. The taste was similarly clean and wheat-emphatic, without the slightest tang of acidity, reminiscent of Triscuit Original whole wheat crackers or Anchor Brewing&amp;rsquo;s Summer Wheat.</description><content>&lt;p>&lt;em>Beer = liquid bread. Want to stay updated on my &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">craft beer yeast bread-plays&lt;/a>? Subscribe to the &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>!&lt;/em>&lt;/p>
+&lt;hr>
+&lt;p>As mentioned in my &lt;a href="https://breadbuster.github.io/img/byb-1-1/">last breadpost&lt;/a>, &lt;strong>barm&lt;/strong> is simply a thick yeasty froth or scum formed on the top of a fermenting liquid, like beer or wine.&lt;/p>
+&lt;p>The original method of making yeast bread in Britain was a by-product of ale-making. When traditional ale is made, a yeasty froth appears on top of the fermenting liquid (the wort). This used to be scooped off, washed, and then added to bread dough as a leaven. Bread made this way is sweet, light, and fluffy, and the leavening yeast used to be called &amp;ldquo;barm&amp;rdquo;. Its unpredictability gives us the word &lt;!-- raw HTML omitted -->&amp;ldquo;barmy&amp;rdquo;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->.&lt;/p>
+&lt;p>Barm first appeared in written records before the 12th century. It came from Middle English &lt;em>berme&lt;/em>, which came from Old English &lt;em>beorma&lt;/em>; it&amp;rsquo;s akin to Middle Low German &lt;em>berm&lt;/em> (yeast), Latin &lt;em>fermentum&lt;/em> (yeast), &lt;em>fervēre&lt;/em> (to boil), and Old Irish &lt;em>berbaid&lt;/em> (he boils). The word has been in use more loosely since the 13th century in reference to the foam or &amp;ldquo;head&amp;rdquo; of a pint of beer.&lt;/p>
+&lt;p>Using barm to leaven bread appears to be an ancient method developed by Gaelic peoples in the mists of time (no wonder Scottish bakers were the last in Britain to ditch baking with barm), and was quite different from that used in Europe, i.e. leaven bread with a sourdough or leaven (called &amp;ldquo;levain&amp;rdquo; in French). When the Romans first conquered Gaul (modern-day France), they were astonished by the light sweet bread made by the Celtic inhabitants. Barm bread survived with the Celtic peoples in Britain, Scotland and Éire, but was not common in Europe &amp;ndash; in fact, it was even condemned during the Enlightenment as &amp;ldquo;unwholesome&amp;rdquo;.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_111008.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>whole-wheat barm bread, leavened exclusively with White Labs' WLP001 California ale yeast.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In England, noblemen&amp;rsquo;s bread &amp;ldquo;&lt;a href="https://en.wikipedia.org/wiki/Manchet">manchet&lt;/a>&amp;rdquo; was always made with barm, whereas the commoners' bread &amp;ldquo;maslin&amp;rdquo; was usually leavened with a sourdough. Barm bread survived until World War II &amp;ndash; and even later in northern England largely as &lt;a href="https://en.wikipedia.org/wiki/Barm_cake">barm cakes&lt;/a>.&lt;/p>
+&lt;p>In the 19th century, the barm process was refined and industrialized; &amp;ldquo;yeast&amp;rdquo; began to be manufactured on a large scale, and used worldwide as &lt;em>the&lt;/em> method to leaven bread.&lt;/p>
+&lt;p>Curiously, the old method of making a sponge, i.e. a thick batter of flour and water with the barm, was still used with the new industrially-produced yeast, and was re-introduced to Europe from Vienna where the first yeast factories were established. Viennese bakers who emigrated to France around 1840 initiated the production of Viennese breads and other luxury bakery products in Paris using such technique. This became popular in France as a &amp;ldquo;&lt;a href="https://bakerpedia.com/processes/poolish/">poolish&lt;/a>&amp;rdquo; (an Old English version of &amp;ldquo;Polish&amp;rdquo;, as this method was first developed in Poland); bakers switched from using combinations of yeast and sourdough (&lt;em>sur levain&lt;/em>) to yeast alone for making crusty bread such as baguettes at bakeshops.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_111040.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>whole-wheat barm bread, leavened exclusively with White Labs' WLP001 California ale yeast.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>At the beginning of the 20th century, barm was no longer universally held in high esteem.&lt;/p>
+&lt;p>A 1902 domestic science book, &lt;em>&lt;a href="https://chestofbooks.com/food/science/Handbook-Of-Household-Science/Yeasts-Part-2.html">Hand-Book Of Household Science&lt;/a>&lt;/em> by Juniata L. Shepperd, considered acidity in barm bread a defect:&lt;/p>
+&lt;blockquote>
+&lt;p>There is another variety of patent yeast known as &amp;ldquo;flour barm.&amp;rdquo; This is extensively used in Scotland. The chief peculiarity of bread from this is its decidedly acid taste, thought to be due principally to lactic acid. Much salt is used in making this bread, and it has not the flavor of what, in some other countries, is called the best bread.&lt;/p>
+&lt;/blockquote>
+&lt;p>A decade later, James Grant wrote in &lt;em>&lt;a href="https://archive.org/stream/grantsbreadchem00granrich/grantsbreadchem00granrich_djvu.txt">The Chemistry Of Breadmaking&lt;/a>&lt;/em> (1912):&lt;/p>
+&lt;blockquote>
+&lt;p>Bread prepared by the aid of barms is generally of poor volume and colour, rather liable to be holey, with dull bloom and texture somewhat variable, but the flavour as a rule is good. Barms are suitable for working strong, harsh flours by long, slow processes.&lt;/p>
+&lt;/blockquote>
+&lt;p>Hmmmm. The artisanal, open-crumb, slightly tangy, naturally leavened bread &lt;em>en vogue&lt;/em> all over the US today was not beloved in Europe a century ago.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_111157.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>whole-wheat barm bread, leavened exclusively with White Labs' WLP001 California ale yeast.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Interestingly, the old barm method survived the invasions of Romans, Saxons and Normans. Which makes sense because it produced the sweetest, lightest bread in the right hands. Like other ancient breads, barm bread was highly digestible and nutritious because the ferments were never single strains like they are today, and included lactic acid bacteria which also gave the bread a marvelous flavor.&lt;/p>
+&lt;p>Barm bread has recently enjoyed some revival because it&amp;rsquo;s a characteristic ancient bread of Britain, a true heritage. Today some British bakers still add ale to bread dough to give it the ancient flavor, which sets the British bread culture apart from others. It&amp;rsquo;s a shame that the process was &lt;a href="https://sourdough.com/blog/enzyme-bread-tech">bastardized by industrialization&lt;/a> to produce modern unwholesome yeast breads.&lt;/p>
+&lt;h4 id="how-to-get-barm">how to get barm&lt;/h4>
+&lt;p>So how do you get barm? There are several ways.&lt;/p>
+&lt;p>Option #1: You can always ask your neighborhood &lt;strong>craft brewers&lt;/strong> or &lt;strong>home-brewing friends&lt;/strong> for some spare barm. It can be an interesting educational process, as apparently an ancient law declares that the brewer is bound to accede to your request. Your first task, though, is to convince the brewer that you mean to create bread with the barm and not a rival beer!&lt;/p>
+&lt;p>Option #2: &lt;a href="http://www.danlepard.com/">Dan Lepard&lt;/a>, an Australian-British baking celeb, has a famous &lt;strong>shortcut for a quick barm&lt;/strong> in his book &lt;em>&lt;a href="https://www.thehandmadeloaf.com/">The Handmade Loaf&lt;/a>&lt;/em>, intended for people who don&amp;rsquo;t have malts and hops lying around the kitchen.&lt;/p>
+&lt;p>Basically, it involves gelatinizing 1 part of white flour with 5 parts of &lt;a href="https://en.wikipedia.org/wiki/Brewing#Bottle_conditioning">bottle-conditioned&lt;/a> ale (heated to 158°F/70°C), letting it cool off to room temperature, and then inoculating with 0.4 part of leaven or yeast culture.&lt;/p>
+&lt;p>I haven&amp;rsquo;t tried his recipe, because there seems to be some weird contradiction. I bet a lot of people assume that the live yeast in the beer has something to do with making the bread rise. Nope, it doesn&amp;rsquo;t. Heating a fresh bottle of beer to &amp;gt;104°F (40°C) kills the live yeast in it, long before it reaches 158°F/70° where you&amp;rsquo;re supposed to whisk in the flour.&lt;/p>
+&lt;p>You use bottle-conditioned beer for the same reasons you use freshly milled organic flour &amp;ndash; a bottle-conditioned beer has more flavor than one without. If you don&amp;rsquo;t understand these reasons, the recipe will still work.&lt;/p>
+&lt;p>I believe the purpose of heating the beer is to cook off some of the alcohol, which retards the action of yeast. Lepard was effectively using the beer as a flavoring, and then re-introducing yeasts via a leaven; however lovely the results may be, it&amp;rsquo;s &lt;em>not&lt;/em> a genuine barm bread. Lepard also says this is a perfect replica of the complex barm of the old times for the home bakers. Meh. I&amp;rsquo;m not satisfied with this method nor do I care for shortcuts. I want to make a barm from scratch.&lt;/p>
+&lt;p>Which leads me to option #3: &lt;strong>DIY from scratch&lt;/strong>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_110840.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>whole-wheat barm bread, leavened exclusively with White Labs' WLP001 California ale yeast.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="historic-barm">historic barm&lt;/h4>
+&lt;p>William Jago&amp;rsquo;s 1911 classic, &lt;em>&lt;a href="https://archive.org/details/technologyofbrea00jagorich">The Technology of Bread-Making&lt;/a>&lt;/em>, gives three variations:&lt;/p>
+&lt;ul>
+&lt;li>compound barm (malt and hops);&lt;/li>
+&lt;li>virgin barm (spontaneous fermentation with flour and water only); and&lt;/li>
+&lt;li>Parisian barm (malt and flour).&lt;/li>
+&lt;/ul>
+&lt;p>&amp;ldquo;Compound barm&amp;rdquo; is essentially unboiled wort, made with malt, hops and water, and then inoculated with an existing culture.&lt;/p>
+&lt;p>&amp;ldquo;Virgin barm&amp;rdquo;, containing only water and flour, differs from a sourdough starter in that it&amp;rsquo;s made with boiling water, i.e. the flour is gelatinized. Virgin barm should be left alone to ferment spontaneously, but even in 1911 bakers added &amp;ldquo;store&amp;rdquo; (an existing culture) to speed up the process.&lt;/p>
+&lt;p>&amp;ldquo;Parisian barm&amp;rdquo; includes malt again, together with scalded flour, but no hops. Virgin barm differed from Parisian only in being self-fermented.&lt;/p>
+&lt;p>I&amp;rsquo;m interested in creating a barm that will increase the biodiversity of yeasts and maximize the aroma/flavor of the bread.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_112234.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>whole-wheat barm bread, leavened exclusively with White Labs' WLP001 California ale yeast.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h4 id="19th-century-parisian-barm">19th-century Parisian barm&lt;/h4>
+&lt;p>John Kirkland, in his 1927 book &lt;em>The Baker’s ABC&lt;/em>, wrote about barm:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;hellip;since bakers, or others for them, began to make a fermenting agent for themselves, about 1800, that has been described as bar, while the word yeast has been retained for the brewery product, as well for the more modern article sold in more solid form. Barm contains yeast cells, generally as a variety of species, as well as some of the liquor in which the yeast has been grown. Barms are of many kinds and all degrees of “strength”; that is, a particular lot may contain few or many yeast cells and much or little of the acids, peptones, alcohols, &amp;amp;c., which have resulted from earlier fermentations. Probably the earliest barm made, as distinguished from leavens &amp;ndash; was that from malt and hops as the baker in the first instance merely copied the brewer or the distiller.&lt;/p>
+&lt;p>This barm was known as compound or comp or patents. Some makers used a quantity of flour in the mixture, some did not. In Scotland, where barms were first made and where they continue in favour, the compound barm was displaced by a kind made with &lt;strong>scalded flour and malt&lt;/strong>. To this was given the name of &amp;ldquo;Parisian&amp;rdquo;, although no precise evidence to show that it was copied from the practice of Parisian bakers. Another sort which may contain a little malt , but may be all scalded and raw flour, is called “Virgin barm”.&lt;/p>
+&lt;/blockquote>
+&lt;p>If there is such a thing as a &amp;ldquo;Parisian barm&amp;rdquo;, then I first learned this &amp;ldquo;scalded flour and malt&amp;rdquo; method from &lt;em>Russian&lt;/em> bakers, not Parisians.&lt;/p>
+&lt;p>Parisian barm was introduced from Paris to Scotland in the late 19th century. It&amp;rsquo;s essentially a scientific modification of the techniques of ancient Egypt and modern France.&lt;/p>
+&lt;p>William Jago&amp;rsquo;s &lt;em>&lt;a href="https://archive.org/details/technologyofbrea00jagorich">The Technology of Bread-Making&lt;/a>&lt;/em>, mentioned above, does offer a recipe for &amp;ldquo;Parisian barm&amp;rdquo;, supplied by a Mr. J. Meikle, who was apparently a well-known baker and bread writer familiar with the Scottish baking trade. Meikle&amp;rsquo;s descriptions show an evolution of baking practice beginning with, and developing away from, beer-brewing techniques.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/1910-Parisian-barm.png"
+alt="Meikle&amp;#39;s Parisian barm recipe"/>&lt;figcaption class="right">&lt;p>Mr. J. Meikle&amp;rsquo;s Parisian barm recipe&lt;/p>&lt;p>Source: &lt;a href="https://archive.org/details/technologyofbrea00jagorich/page/238/mode/2up" target="_blank" rel="noreferrer">The Technology of Bread-Making (1911) by William Jago&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>This is very similar to the &lt;em>opara&lt;/em> (yeasted scald-sponge) method I&amp;rsquo;ve always relied on to make complex Baltic rye breads.&lt;/p>
+&lt;p>&lt;em>&lt;a href="https://www.gutenberg.org/files/53627/53627-h/53627-h.htm">The Bread and Biscuit Baker&amp;rsquo;s and Sugar-Boiler&amp;rsquo;s Assistant&lt;/a>&lt;/em> (1890) by Robert Wells gives a Parisian barm recipe using hops:&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/1890-Parisian-barm.png"
+alt="Robert Wells&amp;#39; Parisian barm recipe"/>&lt;figcaption class="right">&lt;p>Robert Wells' Parisian barm recipe&lt;/p>&lt;p>Source: &lt;a href="https://www.gutenberg.org/files/53627/53627-h/53627-h.htm" target="_blank" rel="noreferrer">&lt;em>The Bread and Biscuit Baker&amp;rsquo;s and Sugar-Boiler&amp;rsquo;s Assistant&lt;/em> (1890)&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Why does Wells include hops in Parisian barm and Jago doesn&amp;rsquo;t? I speculate there might be a few reasons:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Barm made with hops is able to &amp;ldquo;overcome the power of foreign ferments longer than that made without hops, because the bitter of the hops is not suited to bacterial growth&amp;rdquo;, according to Shepperd&amp;rsquo;s &lt;em>&lt;a href="http://chestofbooks.com/food/science/Handbook-Of-Household-Science/Yeasts-Part-2.html%20">Hand-Book Of Household Science&lt;/a>&lt;/em> (1902). However, &amp;ldquo;one can use but little of a yeast made with hops without injuring the flavor of the bread, and a weak yeast acts so slowly as to cause disastrous results, it is better to make yeast oftener without hops, and use plenty of it in bread making.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Since barm without hops didn&amp;rsquo;t keep as well, maybe some bakers just continued using hops to prevent barm spoilage while others didn&amp;rsquo;t. Pasteurisation arrived in the late 1870s and fewer hops were needed as a preservative. It certainly shows that disputes over what is or isn&amp;rsquo;t a poolish, a sourdough, a barm, etc. predate internet bread-geek forums.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hopstalgia, i.e. carryover from tradition or reverence for the old days, when barm used to be made from malt and hops as the baker copied the brewer/distiller. As mentioned above, one of the reasons that bakers moved away from beer yeast in the first place was because the hops made it unpleasantly bitter. The older generations who had grown up eating hoppy barm bread most likely developed an acquired taste and nostalgia for it. Compound barm (malt and hops), for example, was considered by many of the older bakers to be &amp;ldquo;&lt;em>the&lt;/em> barm for flavour in bread&amp;rdquo;, according to Jago&amp;rsquo;s 1911 &lt;a href="https://archive.org/details/technologyofbrea00jagorich">book&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h4 id="my-21-century-barm">my 21-century barm&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat flour, 100% extraction&lt;/td>
+&lt;td>90.6%&lt;/td>
+&lt;td>125g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;!-- raw HTML omitted -->diastatic barley malt&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->(sun-dried Chevallier)&lt;/td>
+&lt;td>9.4%&lt;/td>
+&lt;td>13g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>hot water (180-185°F)&lt;/td>
+&lt;td>181%&lt;/td>
+&lt;td>250g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>liquid yeast (WLP001 - White Labs, CA)&lt;/td>
+&lt;td>1.8%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Step 1: gelatinize the flour&lt;/strong>&lt;/p>
+&lt;p>Put the whole wheat flour in a bowl; add hot water in 2-3 increments, stirring constantly.&lt;/p>
+&lt;p>&lt;strong>Step 2: saccharify the scald&lt;/strong>&lt;/p>
+&lt;p>Add the malt at the end (to prevent malt enzymes from being destroyed) and mix again. Cover and hold at 150-155°F for 6 hours.&lt;/p>
+&lt;p>The scald becomes sweet/saccharified, since the diastatic malt contains amylase that converts starch into simple sugars. Saccharifying literally means &amp;ldquo;to convert into sugar.&amp;rdquo; Or, in more scientific words, saccharifying is the process of converting a sugar derivative or complex carbohydrate into a simple soluble fermentable sugar by hydrolysis.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230331_082732.jpg"
+alt="The barm, after 6 hours of saccharification and before fermentation."/>&lt;figcaption class="right">&lt;p>The barm, after 6 hours of saccharification and before fermentation.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Why scald the flour first?&lt;/p>
+&lt;p>In order for the scald (&amp;ldquo;mash&amp;rdquo; in brewing) to be successful, we need heat and water to gelatinize the starch granules, essentially opening up their inner depths to expose the starch chains.&lt;/p>
+&lt;p>However, heat and water alone don&amp;rsquo;t break down starch into simpler sugars &amp;ndash; not on their own, anyway. In order to do that, we need enzymes. Malted barley, particularly pale (diastatic) malt, is packed with natural enzymes that can break down these long starch chains into much shorter fermentables that can be metabolized by yeasts.&lt;/p>
+&lt;p>To the plant, starch serves as a reserve of energy that the embryo plant can use when it starts to germinate. In late summer to early fall, the seed falls off the stalk. If it immediately starts to grow after hitting the ground, it would grow too much before winter and not survive the cold. This also means that the seed comes off the stalk in a storage form known as starch, which is very hardy and doesn&amp;rsquo;t degrade nearly as quickly as sugar. So the seed will just sit in a field until the time is right for it to start growing. Then, when that time comes, many complex biological and chemical changes start to kick in, converting the starches into readily available sugars for the growing plant. Enzymes in the seed will activate, start degrading the cell walls, and break down the long chemical chains of starch into the short chains of maltose (a simple sugar). The growing plant can utilize this maltose until its stalk has poked above the surface of the ground, starting to produce its own sugar through photosynthesis.&lt;/p>
+&lt;p>Malting mimics this natural process, so we can activate those enzymes that will convert the starch into sweet, tasty maltose that yeast loves to eat.&lt;/p>
+&lt;p>Certain enzymes are produced during the malting process; the two major ones are α-amylase and β-amylase.&lt;/p>
+&lt;p>A-amylase basically liquefies starch and turns it into a carbohydrate stew. It also chops up the starch at 1-4 links. Every time it cuts the chain, a reducing end and a non-reducing end are formed on the chain. Β-amylase can work only on the non-reducing end. It will lop off 2 molecules of the carb stew and blend with one water molecule, producing maltose. B-amylase also can lop off 3 molecules of starch, mixing with one water molecule producing maltriose. Maltriose is the sugar that yeast use during lagering phase.&lt;/p>
+&lt;p>After α-amylase and β-amylase can reduce the chain no further, α-limit and β-limit dextrins are formed. β-limit dextrin can chop the starch down to a 1-6 link. Once, the enzyme gets to a branch, they&amp;rsquo;re done. Enzymes such as dextrinase and maltase are de-branching enzymes, typically destroyed during the kilning of modern malts. There are a limited amount left in minimally modified pilsner malt. De-branching enzymes help α-amylase and β-amylase produce many non-reducing ends. The more the non-reducing ends, the more β-amylase has to work with &amp;ndash; and faster.&lt;/p>
+&lt;p>Brewers typically boil their wort after mashing to sanitize it and to boost hop utilization (among other things), which denatures all the enzymes. Since I don&amp;rsquo;t nuke the saccarified scald like brewers (leaving it a &amp;ldquo;raw ale&amp;rdquo;), I get to keep the valuable secondary enzymes in play for more starch conversion to take place.&lt;/p>
+&lt;p>Secondary enzymes, compared to their amylase cousins, aren&amp;rsquo;t very active under thermophilic conditions. However, they do become more active during mesophilic fermentation and give us a &amp;ldquo;secondary conversion&amp;rdquo; in beerspeak. This secondary conversion actually increases the amount of fermentable sugars by as much as 15%, which is a huge boost to plant efficiency.&lt;/p>
+&lt;p>Like a beer mash, there are many kinds of sugars in saccharified scald:&lt;/p>
+&lt;ul>
+&lt;li>fructose, glucose, and sucrose: ~30%&lt;/li>
+&lt;li>maltose: ~45%, which, like trehalose, is made from 2 glucose molecules, but with a different bond between them.&lt;/li>
+&lt;li>maltotriose: ~20%, which is 3 glucose molecules, with the exact same bond between them as in maltose.&lt;/li>
+&lt;/ul>
+&lt;p>The increased concentration of sugar could lead to caramelization, which makes the beer less fermentable (among other things). Since I&amp;rsquo;m not after alcohol production, this is not a problem. In fact, the extra sugar might even enhance the flavor profile.&lt;/p>
+&lt;p>Again, I used &lt;a href="https://www.whitelabs.com/yeast-single?id=101&amp;amp;type=YEAST">WLP001 California ale yeast&lt;/a> in this barm. WLP001 has an attenuation rate of 73%-85%.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230321_143837.jpg"
+alt="WLP001 California Ale Yeast"/>&lt;figcaption class="right">&lt;p>A homebrew pouch of WLP001 California Ale Yeast, from White Labs.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In brewing, attenuation refers to the conversion of sugars into alcohol and carbon dioxide by the fermentation process; the greater the attenuation, the more sugar has been converted into alcohol. A more attenuated beer is drier and more alcoholic than a less attenuated beer made from the same wort. High-attenuating yeast indicates that the particular strain ferments more of the sugars available in a wort relative to other yeast strains. This results in a drier finish in the finished beer.&lt;/p>
+&lt;p>A 50% attenuation rate means that 50% of the sugars have been converted into alcohol and CO₂ by yeast. A 100% attenuation means all of the sugars have been consumed by yeast.&lt;/p>
+&lt;p>Beer fermented with normal brewer&amp;rsquo;s yeast will never have 100% attenuation. A 100% fermentable sugar solution will only attenuate to the level that the yeast can tolerate the alcohol or lack of nutrients; whereas in a wort that contains 30% non-fermentables; a yeast that can go to 80% attenuation will stop at 70% attenuation because there is nothing left to ferment. This is important because it can help predict the final gravity and alcohol content of a beer. A yeast with low attenuation will leave a beer with more sugar and more body than a yeast with high attenuation. This can also be very helpful when selecting a yeast strain for a recipe.&lt;/p>
+&lt;blockquote>
+&lt;p>You should let the yeast know what it is to ferment. It&amp;rsquo;s actually a living thing.&lt;/p>
+&lt;p>&amp;ndash; Yves Benoit, head brewmaster at Brouwerij De Brabandere&lt;/p>
+&lt;/blockquote>
+&lt;p>Fermentability of a wort is based on much more than temperature of the mash. The composition of the grist (e.g. total diastatic power) can have a much bigger effect than temperature alone. Unfermentable sugars have the greatest impact on your attenuation than any other factors. You can turn a dry stout into a sweet one by adding just lactose. Usually, the more the non-fermentables in the mash (crystal malt, partially kilned malt, etc), the lower the attenuation. Manipulating temperatures is a tool for overcoming the limitations of the grist.&lt;/p>
+&lt;p>In &lt;a href="https://books.google.com/books/about/Brewing_with_Wheat.html?id=jc2QAwAAQBAJ">&lt;em>Brewing with Wheat&lt;/em>&lt;/a>, Stan Hieronymus mentions how brewers change their mash profile for each batch of grain, knowing that while it all may be wheat, the wheat from one particular farmer is different than the wheat from another. This is exactly like baking bread with different wheat varieties from different farms!&lt;/p>
+&lt;p>&lt;strong>Step 3: inoculate with yeast&lt;/strong>&lt;/p>
+&lt;p>Let the scald cool off gradually to ~75°F. Add &lt;strong>2.5g of WLP001&lt;/strong> (~100 drops); stir vigorously and mix thoroughly.&lt;/p>
+&lt;p>Ferment at &lt;strong>70°F-73°F&lt;/strong> (high end of WLP001&amp;rsquo;s recommended temperature range of 64°F-73°F) to bring out the yeast&amp;rsquo;s character. After &lt;strong>12 hours&lt;/strong>, the barm doubled in volume and started to fall and pull away from the sides of the bowl. It was ready.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230331_204415.jpg"
+alt="WLP001 barm, after 12 hours of fermentation"/>&lt;figcaption class="right">&lt;p>WLP001 barm, after 12 hours of fermentation at 70°F-73°F.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Given the liquid yeast contains about 2.5 billion cells per mL and 2.5g has roughly 6.25 billion cells, the inoculation rate in the barm is about 16 million cells per gram.&lt;/p>
+&lt;p>Despite lower inoculation, I could tell the yeast was having much more fun in this saccharified scald loaded with nutrients than in the previous &lt;a href="https://breadbuster.github.io/img/byb-1-1/">straight poolish&lt;/a>.&lt;/p>
+&lt;p>Mr. J. Meikle was certainly spot on:&lt;/p>
+&lt;blockquote>
+&lt;p>Parisian barm while fermenting behaves like a thin ferment made with distillers' yeast, sugar and a handful of flour, only the bells and gas bubbles are larger and brighter.&lt;/p>
+&lt;/blockquote>
+&lt;h4 id="final-dough">final dough&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>375g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>375g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>barm&lt;/td>
+&lt;td>104%&lt;/td>
+&lt;td>390.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>7.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>olive oil&lt;/td>
+&lt;td>5%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>The mixing process is the same as the &lt;a href="https://breadbuster.github.io/img/byb-1-1/">straight poolish verison&lt;/a>.&lt;/p>
+&lt;p>I let the dough ferment at &lt;strong>70-73°F&lt;/strong> for &lt;strong>8 hours&lt;/strong>, followed by another &lt;strong>14 hours&lt;/strong> at &lt;strong>60-63°F&lt;/strong>. The dough had nearly doubled in volume after 22 hours. That&amp;rsquo;s when I baked it.&lt;/p>
+&lt;p>I just tipped the dough out onto a baking sheet; no shaping or slashing. I baked it at 350°F for 25 minutes.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_094542.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>WLP001 whole-wheat barm bread, baked.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Again, the bread smelled like buttery biscuits and toasted crackers during baking.&lt;/p>
+&lt;p>The bread felt much lighter in my hand than the &lt;a href="https://breadbuster.github.io/img/byb-1-1/">poolish version&lt;/a>. The crumb turned out more like my usual sourdough &lt;em>pan de cristal&lt;/em> &amp;ndash; airy and open, with bigger, more irregular holes.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_095350.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>WLP001 whole-wheat barm bread, sliced.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Mr. J. Meikle was spot on again:&lt;/p>
+&lt;blockquote>
+&lt;p>The barm has the strength, without the &amp;ldquo;rampness,&amp;rdquo; of compound, and the mildness without the weakness of Virgin.&lt;/p>
+&lt;/blockquote>
+&lt;p>The bread had a springy and chewy texture, and a nutty, slightly salty flavor that&amp;rsquo;s noticeably more complex than the &lt;a href="https://breadbuster.github.io/img/byb-1-1/">straight poolish verison&lt;/a>.&lt;/p>
+&lt;p>I tasted the same &lt;strong>clean, robust wheat flavor&lt;/strong> without a trace of tanginess, like eating Triscuit® Original whole wheat crackers (America&amp;rsquo;s favorite shredded wheat snacks), the opposite of sourdough breads.&lt;/p>
+&lt;p>I don&amp;rsquo;t think I&amp;rsquo;ve ever tasted a bread with such a dominating wheat flavor.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_110354.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>WLP001 whole-wheat barm bread, sliced.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Just like how WLP001 accentuates hop flavors in beers, I think the yeast accentuates wheat flavors in breads. The flavor of Turkey Red seems 5x-10x amplified in this WLP001 bread than in any of my sourdough breads.&lt;/p>
+&lt;p>The closest beer comparison I could think of is probably &lt;a href="https://www.anchorbrewing.com/blog/american-wheat-beers-heritage-and-history/">&lt;strong>American wheat beer&lt;/strong>&lt;/a>, something like &lt;a href="https://www.anchorbrewing.com/beer/summer_beer">Anchor Brewing&amp;rsquo;s Summer® Wheat&lt;/a>, the first American wheat beer brewed since Prohibition and released in the summer of 1984: medium-bodied, wheat-emphatic, clean and balanced; a smooth, crisp, and slightly bready mouthfeel.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_110548.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>WLP001 whole-wheat barm bread, sliced.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Adding 2% salt to the final dough was a good idea &amp;ndash; the extra salt opened up the taste buds.&lt;/p>
+&lt;p>The bread tasted great with a sharp cheddar and good mustard like Alstertor beer mustard, which IMO is the Charlize Theron of mustards: smooth, but not without an edge.&lt;/p>
+&lt;p>There&amp;rsquo;s nothing like sitting down at the end of a day with a glass of your own fresh ale and a loaf of fresh homemade bread. The only thing to add might be homemade cheese or prosciutto!&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-2/20230402_112353.jpg"
+alt="WLP001 whole-wheat barm bread"/>&lt;figcaption class="right">&lt;p>WLP001 whole-wheat barm bread, sliced.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;code>Note&lt;/code>:&lt;/p>
+&lt;p>I don&amp;rsquo;t think retarding beer yeast doughs at lower temperatures, as you would with sourdough breads, contributes much in terms of flavor or texture. It only makes scheduling easier.&lt;/p>
+&lt;p>&lt;em>Special thanks to White Labs, especially Erik Fowler in San Diego, CA and Bert Sheffield in Asheville, NC.&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>How is this barm related to the adjective &lt;em>barmy&lt;/em>? When it first emerged in the language in the early 1500s, the adjective &lt;em>barmy&lt;/em> meant precisely that: full of froth, foam, or barm. But before long a figurative meaning had developed, so that by the early 17th century people who were just as excitably lively or as bubbly as a pint of beer&amp;rsquo;s foaming barm were being described in equivalent terms. From there, the more recent use of barmy to mean &amp;ldquo;unhinged&amp;rdquo;, &amp;ldquo;deranged&amp;rdquo;, or generally &amp;ldquo;not thinking straight&amp;rdquo; emerged &amp;ndash; the latter of which, at least, could always be blamed on consuming a bit too much barm.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>I malted a batch of heritage Chevallier barley at home myself and sun-dried them before grinding into a flour, to ensure the malt remained as pale as possible.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item><item><title>levure de bière #1.1: California ale yeast</title><link>/posts/byb-1-1/</link><pubDate>Thu, 30 Mar 2023 19:55:42 +0000</pubDate><guid>/posts/byb-1-1/</guid><description>A very high hydration &lt;em>pan de cristal&lt;/em> leavened exclusively with White Labs' WLP001 California Ale Yeast. A 48-hour whole-wheat &lt;em>poolish&lt;/em> was used in the final dough, which went through another 24 hours of fermentation. This bread had a very clean wheaty character and neutral aroma &amp;amp; flavor &amp;ndash; a perfect baseline for my upcoming experiments.</description><content>&lt;p>Happy Thirsty Thursday! I will be going on a &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">bread-baking adventure with craft beer yeasts&lt;/a> over the next few weeks/months. (You can stay updated on my experiments through a &lt;a href="https://tinyletter.com/breadbuster">newsletter&lt;/a>.)&lt;/p>
+&lt;blockquote>
+&lt;p>Just a glass of beer, a piece of dry bread &amp;ndash; and in one moment the brain is stronger, the mind is clearer and the will is firm!&lt;/p>
+&lt;ul>
+&lt;li>Fyodor Dostoyevsky, &lt;em>Crime and Punishment&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>I&amp;rsquo;m not a big drinker. I enjoy &lt;!-- raw HTML omitted -->craft beers and spirits&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> every now and then, but I &lt;a href="https://www.nytimes.com/2022/02/07/dining/drinks/wine-millennials.html">don&amp;rsquo;t drink often enough&lt;/a> to even think about brewing them at home. While many people were driven to drink more during the Covid lockdown, I went the other way. I do have tanks of Russian &lt;em>&lt;a href="https://en.wikipedia.org/wiki/Kvass">kvass&lt;/a>&lt;/em> and Romanian &lt;em>&lt;a href="https://en.wikipedia.org/wiki/Bor%C8%99_(bran)">borș&lt;/a>&lt;/em> brewing in house all the time.&lt;/p>
+&lt;p>For some time now, I&amp;rsquo;ve been fascinated by the centuries-old relationship between beer and bread &amp;ndash; it&amp;rsquo;s absolutely gripping, and the more I learn, the more gripping it gets. Today, for instance, I was learning about the old, strong relationship in Europe between bakers and brewers. Ages ago, breweries and bakeries lived side-by-side harmoniously. Brewers happily went about their noble work &amp;ndash; mashing, sparging, and fermenting. One blessed by-product of the brewing process was a foam that formed frothily on top of the fermenting liquor. The dusty baker next door would welcome consignments of this malty foam &amp;ndash; known as &amp;ldquo;barm&amp;rdquo; &amp;ndash; and utilize the natural yeasts in it to leaven his dough. It made perfect sense, and as historical records have shown, ale and bread were the staple diet in the old days.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;As we brew, so we bake.&amp;rdquo; - an old adage&lt;/p>
+&lt;/blockquote>
+&lt;p>Previously, I had thought that before commercial yeasts were developed, all bakers used sourdough to make their bread. Nope! Up until the 19th century, village bakers either depended on village brewers for their yeast (&amp;ldquo;barm&amp;rdquo;) in order to leaven their bread, or they literally brewed up their own &amp;ldquo;barm&amp;rdquo; for baking.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_132800.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Andreas Krennmair&amp;rsquo;s book, &lt;em>Vienna Lager&lt;/em>, has an interesting take on how the relationship between brewers and bakers changed in the 19th century when brewers switched from ales to lagers:&lt;/p>
+&lt;blockquote>
+&lt;p>Industrialisation had a profound effect on other breweries in and around Vienna: because of the quick success of Anton Dreher&amp;rsquo;s beer and brewing methods, all other breweries switched to bottom fermentation just within a few years. This rapid change had an unintended implication for another craft that had previously been reliant on breweries: baking. In the centuries before, bakers had been reliant on fresh beer yeast, which brewers always had available in abundance. When brewers started switching to bottom fermentation, the yeast given to bakers also changed its properties: &amp;hellip;the yeast suddenly contained hop bittering compounds and hop resins that turned these yeast darker and bitter-tasting, making it unsuitable for baking. &amp;hellip;so the Viennese baker&amp;rsquo;s guild announced in 1845 that they would award a prize to the person who could produce a leaven that was suitable to replace the much sought-after top-fermenting beer yeast.&lt;/p>
+&lt;/blockquote>
+&lt;p>Coincidentally, the 1800s were the golden age of the hop industry; hop acreage reached its peak in 1878.&lt;/p>
+&lt;p>By the end of the century, yeast specifically cultivated for breadmaking had become commercially available in blocks, and later in dry, granulated forms. Slowly &amp;ndash; and sadly &amp;ndash; the close bond between breweries and bakeries faded away.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_132906.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>&lt;a href="https://www.toastale.com/">Toast Ale&lt;/a>, a London-based craft brewery, makes beer from waste bread. In the &lt;a href="https://www.willhawkes.net/blog/2023/3/20/march2023newsletter">March 2023 edition&lt;/a> of Will Hawkes&amp;rsquo;s newsletter &lt;em>London Beer City&lt;/em>, Toast&amp;rsquo;s founder talked about the company&amp;rsquo;s funding (some from Heineken), marketing strategy (&amp;ldquo;buyer personas&amp;rdquo;) and business model:&lt;/p>
+&lt;blockquote>
+&lt;p>While the impact of bread on the flavour of the beer is limited (typically, bread replaces 25 percent of the malted barley), I’ve always thought the implied message of Toast, that you can make great beer out of old bread, was a difficult one for the brewing industry. What happened to the ‘finest malt and hops’?&lt;/p>
+&lt;p>&amp;hellip;those who drink Toast’s beers are at ease with the idea of surplus bread being used to make it. In common with most people, I suspect, they don’t really care about malt and hops. They just want something nice to drink.&lt;/p>
+&lt;/blockquote>
+&lt;p>The idea of making bread with breweries' by-products has intrigued me for a long time. I&amp;rsquo;ve baked and enjoyed &lt;a href="https://breadbuster.github.io/posts/breadford-von-regrainton/">breads infused with brewer&amp;rsquo;s spent grains&lt;/a>, as well as ones leavened with &lt;a href="https://breadbuster.github.io/tags/yeast-water/">wild yeasts captured from fruits&lt;/a>. But how about baking bread with brewer&amp;rsquo;s yeast?&lt;/p>
+&lt;h3 id="bakers-yeast-vs-brewers-yeast">baker&amp;rsquo;s yeast vs. brewer&amp;rsquo;s yeast&lt;/h3>
+&lt;p>In the mid-19th century, when bakers ditched breweries' barms &lt;em>en masse&lt;/em> and started looking for new sources of yeast, for a few years a new trade of &amp;ldquo;barm-brewers&amp;rdquo; sprang up who specialized in propagating yeast for bakers.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/1860-barm.png"
+alt="a paper given to the Royal Scottish Society of Arts in 1860"/>&lt;figcaption class="right">&lt;p>A paper given to the Royal Scottish Society of Arts in 1860, describing the various modes of leavening bread.&lt;/p>&lt;p>Source: &lt;a href="https://books.google.ie/books?id=ueM0AAAAMAAJ&amp;amp;pg=PA235" target="_blank" rel="noreferrer">Transactions of the Royal Scottish Society of Arts, Volume 5&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>This in turn was displaced by the introduction of compressed blocks of yeast known as &amp;ldquo;fresh yeast&amp;rdquo; today. As &lt;a href="https://dafteejit.com/2020/03/the-history-of-modern-baking-yeast/">Andreas Krennmair writes&lt;/a>, the process of making compressed yeast was invented by a brewer, who used brewer&amp;rsquo;s yeast. This has inspired Lars Marius Garshol to ponder, &amp;ldquo;&lt;a href="https://www.garshol.priv.no/blog/411.html">Does bread yeast exist?&lt;/a>&amp;rdquo;.&lt;/p>
+&lt;p>In fact, most forms of brewer&amp;rsquo;s yeast and baker&amp;rsquo;s yeast currently on the market all come from the same species of yeast called &lt;em>&lt;code>Saccharomyces cerevisiae&lt;/code>&lt;/em>. The yeast derives its name from the Latinized Greek meaning &amp;ldquo;sugar fungus&amp;rdquo;, because it converts sugars into CO₂ and ethanol during aerobic fermentation &amp;ndash; which makes beer alcoholic and inflates a lump of dough into a fluffy loaf of bread.&lt;/p>
+&lt;p>All &lt;em>S. cerevisiae&lt;/em> strains share a common natural history. Some, through artificial selection, are better adapted for certain processes, while others have more than one use.&lt;/p>
+&lt;p>Before the arrival of industrial yeasts, baker&amp;rsquo;s yeast used to be much more diverse, but what we call &amp;ldquo;bread yeast&amp;rdquo; today is simply particular strains of &lt;em>S. cerevisiae&lt;/em> monocultures that have been selected by yeast manufacturers primarily for their ability to rapidly metabolize wheat starch, produce large quantities of CO₂ while fermenting the dough, and make bread light. The quick-rising yeast now available in stores is an improved strain developed using modern genetic methods. Professional bakers use commercial yeasts that produce a fast and strong rise and a clean taste (less flavor and depth) in the finished loaf of bread.&lt;/p>
+&lt;p>Modern bread yeast manufacturers narrowly focus their yeast development on two issues:&lt;/p>
+&lt;ol>
+&lt;li>gas production.&lt;/li>
+&lt;li>speed of rising.&lt;/li>
+&lt;/ol>
+&lt;p>Variants are produced with these goals in mind, to suit different technical requirements of the baking industry.&lt;/p>
+&lt;p>For example, instant yeasts (aka. fast-rising, rapid-rise, quick-rise, and bread machine yeast), are manufactured to dissolve more quickly than active dry yeasts; they can be mixed directly into flour and other dry ingredients, without the need to &amp;ldquo;proof&amp;rdquo; the yeast in warm water first. Lesaffre, one of the world&amp;rsquo;s largest yeast producers, has formulated &lt;a href="https://lesaffre.ae/en/our-products/professional-products/saf-instant-gold-500g/">Saf-Instant® Gold dry yeast&lt;/a> specifically for sweet doughs (with &amp;gt;=5% sugar/weight of flour) like Hawaiian rolls and &lt;em>panettoni&lt;/em>, as well as &lt;a href="https://lesaffrebaking.com/product/saf-instant-red/">Saf-Instant® Red&lt;/a> that excels in sugarless doughs.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_132311.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>A number of people claim that baker&amp;rsquo;s yeast brews good beers (since most bread yeasts are &lt;!-- raw HTML omitted -->phenolic&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->).&lt;/p>
+&lt;p>A 2018 paper published in the &lt;em>Journal of the Institute of Brewing&lt;/em>, titled &amp;ldquo;&lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jib.503">evaluation of &lt;em>Saccharomyces cerevisiae&lt;/em> strains isolated from non-brewing environments in beer production&lt;/a>&amp;rdquo;, tested 12 novel &lt;em>S. cerevisiae&lt;/em> strains isolated from grape must, bakery, wine, and apple stillage in the production of beer. The researchers found that&lt;/p>
+&lt;blockquote>
+&lt;p>The most suitable strain for beer production, based on fermentative ability and volatile profile, was a baker&amp;rsquo;s yeast&amp;hellip;. Interestingly, some esters were above the sensory threshold.&lt;/p>
+&lt;/blockquote>
+&lt;p>Another example: The Finnish farmhouse ale &lt;em>sahti&lt;/em> is fermented with baking strains, rather than &lt;!-- raw HTML omitted -->brewing strains&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->, of &lt;em>S. cerevisiae&lt;/em>. A 2020 paper, titled &amp;ldquo;&lt;a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jib.608">sourdough derived strains of &lt;em>Saccharomyces cerevisiae&lt;/em> and their potential for farmhouse ale brewing&lt;/a>&amp;rdquo;, concludes&lt;/p>
+&lt;blockquote>
+&lt;p>sourdough isolates of &lt;em>S. cerevisiae&lt;/em> are suitable for &lt;em>sahti&lt;/em> production, but could also be applied to other beer styles as a way to differentiate products.&lt;/p>
+&lt;/blockquote>
+&lt;p>However, I haven&amp;rsquo;t heard the other way round, i.e. brewer&amp;rsquo;s yeast makes good bread.&lt;/p>
+&lt;p>Manufacturers of beer and wine yeasts all describe multiple varieties of yeasts, each producing a slightly differently flavored product. In the case of wine, some yeasts are tied to specific cultivars of grapes. The importance of yeast strains in producing different varieties of beer is illustrated by White Labs' assortment of beer yeasts:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.whitelabs.com/yeast-single?id=169&amp;amp;type=YEAST">WLP566&lt;/a> Belgian Saison II Ale Yeast: &amp;ldquo;a moderate phenol producer with clove-like flavor and aromatic notes present in the finished beer&amp;rdquo;&lt;/li>
+&lt;li>&lt;a href="https://www.whitelabs.com/yeast-single?id=174&amp;amp;type=YEAST">WLP590&lt;/a> French Saison Ale Yeast: &amp;ldquo;produces flavors and aromas of pear, apple and cracked pepper&amp;rdquo;&lt;/li>
+&lt;li>&lt;a href="https://www.whitelabs.com/yeast-single?id=267&amp;amp;type=YEAST">WLP077&lt;/a> Tropicale Yeast Blend: &amp;ldquo;a balance of tropical flavors and aromas, such as passionfruit, grapefruit, and mango&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>Wouldn&amp;rsquo;t it be lovely to be able to make a bread that produces a &amp;ldquo;clove-like&amp;rdquo; aroma and flavor when it&amp;rsquo;s toasted? Or a loaf with a slight hint of smoky tomato that might make it ideal for &lt;em>bruschetta&lt;/em>?&lt;/p>
+&lt;p>What if breads in a bakery might, for the first time, be differentiated by subtleties of aroma? Imagine a boule with a hint of plum and thyme under an overtone of apple &amp;ndash; next to a boule made with the same recipe but a different yeast and thus yielding a hazelnut aroma.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_132413.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Beer is, after all, liquid bread. Like brewers, I&amp;rsquo;m constantly on the lookout for special flours and yeasts to make that unique, satisfying loaf.&lt;/p>
+&lt;p>I keep thinking about experimenting with combinations of different yeast strains in a dough to see how they might enhance a bread&amp;rsquo;s flavor and aroma. The yeast monoculture practice be damned.&lt;/p>
+&lt;p>What does it take to make a good loaf of bread with brewer&amp;rsquo;s yeast? Is it possible in the modern era? I want to find out.&lt;/p>
+&lt;p>There is a vast catalog of yeast strains used by brewers and wine makers that I want to experiment with, and it&amp;rsquo;s never been easier to collaborate with people over the internet.&lt;/p>
+&lt;h4 id="california-ale-yeast">California ale yeast&lt;/h4>
+&lt;p>The first craft beer yeast I decided to experiment is &lt;a href="https://www.whitelabs.com/yeast-single?id=101&amp;amp;type=YEAST">WLP001&lt;/a> California Ale Yeast®, which is White Labs' OG yeast strain, first produced in 1995.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230321_143837.jpg"
+alt="WLP001 California Ale Yeast"/>&lt;figcaption class="right">&lt;p>A homebrew pouch of WLP001 California Ale Yeast, from White Labs.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>This &lt;!-- raw HTML omitted -->&amp;ldquo;Chico&amp;rdquo;&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted --> strain (named after the &lt;em>châteaux&lt;/em> of Sierra Nevada Brewing Company) is probably the most widely used beer strain on the West Coast, if not in the entire country. It&amp;rsquo;s a driving force behind IPA 2.0, aka. the yeast that launched 1,000 beers.&lt;/p>
+&lt;blockquote>
+&lt;p>WLP001 is famous for its clean flavors and hardy fermentations and is known for its use in hoppy beers. It accentuates hop flavors and aromas and attenuates well, even for high-gravity beers. A higher-than-average attenuation leads to drier beers as well as medium flocculation to leave a clean and crisp beer. With a healthy pitch and yeast, WLP001 is also quick at reabsorbing diacetyl.&lt;/p>
+&lt;/blockquote>
+&lt;p>The yeast has a very beery aroma right out of the package.&lt;/p>
+&lt;p>A &amp;ldquo;clean-fermenting&amp;rdquo; strain with a neutral flavor and aroma profile (instead of a &amp;ldquo;fruity&amp;rdquo; or &amp;ldquo;estery&amp;rdquo; strain) would be an interesting baseline for comparisons with other yeasts.&lt;/p>
+&lt;p>Another reason for starting with WLP001 is that a clean fermenter showcases a brewer&amp;rsquo;s recipe formulation (e.g. choice of malts, hops, brewing temperatures, and fermentation temperatures) more than other strains. Since I&amp;rsquo;ve made &lt;a href="https://breadbuster.github.io/tags/pan-de-cristal/">these kinds of breads&lt;/a> many times, it&amp;rsquo;d be fairly easy for me to tell how the ale yeast differs from sourdough.&lt;/p>
+&lt;h5 id="wlp001-poolish">WLP001 poolish&lt;/h5>
+&lt;p>Many researchers have reported that the dough fermentation by &lt;em>S. cerevisiae&lt;/em> promoted an increase in the contents of phenolic compounds due to the structural breakdown of cell wall, leading to the liberation of phenolic compounds and/or metabolization of phenolics by yeast.&lt;/p>
+&lt;p>On the other hand, thermal processing may have negative effects on these bioactive compounds, likely caused by oxidation, isomerization, and interaction with wheat proteins.&lt;/p>
+&lt;p>One technical challenge of baking with yeast is making the yeast&amp;rsquo;s distinct character shine through.&lt;/p>
+&lt;p>Maybe a poolish (a preferment with 25% of total flour) with super low yeast inoculation would help? A poolish particularly elevates the bread&amp;rsquo;s creamy, slightly nutty character and crisp, thin crust. (Yum.)&lt;/p>
+&lt;p>So I made a loose preferment that used roughly equal parts of whole wheat flour and water by weight with a tiny bit of California ale yeast &amp;ndash; and no salt.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat flour, 100% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>125g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>120%&lt;/td>
+&lt;td>150g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ale yeast (WLP001 - White Labs, CA)&lt;/td>
+&lt;td>2%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I mixed the whole wheat flour and water together in a &lt;strong>shallow, wide-open bowl&lt;/strong>. I prefer it to tall, narrow fermenters because high hydrostatic pressure and CO₂ levels tend to inhibit ester formation.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230326_145734.jpg"
+alt="WLP001 yeast poolish, before fermentation"/>&lt;figcaption class="right">&lt;p>WLP001 yeast poolish, before fermentation.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I added ~100 drops of WLP001, which totaled ~2.5g. I whipped it vigorously into the mixture.&lt;/p>
+&lt;p>White Labs' homebrew yeasts typically have a concentration of &amp;gt;=100 billion cells per 40 mL, i.e. 2.5 billion cells per mL. Assume 2.5g of the liquid yeast contains roughly 6.25 billion cells, the inoculation rate in the poolish is about 22-23 million cells per gram.&lt;/p>
+&lt;blockquote>
+&lt;p>These [West Coast] yeasts have a potential ester profile. If you play with fermentation temperature, you can really influence the character of the beer.&lt;/p>
+&lt;ul>
+&lt;li>Richard Norgrove, Bear Republic Brewing Company (Healdsburg, California)&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>WLP001 has a fermentation temperature range of 64°F-73°F. I loosely covered up the poolish (leaving an air gap) and let it ferment at the high side of the recommended temperatures (&lt;strong>70°F-73°F&lt;/strong>), in order to bring out the yeast&amp;rsquo;s character. I checked on it every few hours and gave it a stir to aerate the mixture.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230326_145753.jpg"
+alt="WLP001 yeast poolish, before fermentation"/>&lt;figcaption class="right">&lt;p>WLP001 yeast poolish, before fermentation.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I provided WLP001 all the time it needed to propagate, and let the poolish tell me when it was done. It ended up going for &lt;strong>48 hours&lt;/strong>. This was to ensure vigorous and complete fermentation before the poolish was mixed into the final dough.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230328_153644.jpg"
+alt="WLP001 yeast poolish, after 48 hours of fermentation"/>&lt;figcaption class="right">&lt;p>WLP001 yeast poolish, after 48 hours of fermentation.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Clean strains usually ferment more slowly than fruitier strains and flocculate at a medium rate, remaining in suspension long enough to condition the beer properly.&lt;/p>
+&lt;p>When ripe, the poolish doubled in volume. It was brimming with almost uniform micro-bubbles, instead of the bigger, more irregular bubbles you get with sourdough or bread yeast.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230328_153717.jpg"
+alt="WLP001 yeast poolish, after 48 hours of fermentation"/>&lt;figcaption class="right">&lt;p>WLP001 yeast poolish, after 48 hours of fermentation.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Upon initial mixing, the mixture had a mild toasty wheat aroma from freshly milled Turkey Red wheat. The toasty wheat aroma was replaced by a slight yeasty twang after 12 hours, so I assume that&amp;rsquo;s when the yeast started working. After 48 hours, the yeasty aroma was completely gone. The smell was very clean &amp;ndash; maybe with a hint of fresh beer.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230328_153656.jpg"
+alt="WLP001 yeast poolish, after 48 hours of fermentation"/>&lt;figcaption class="right">&lt;p>WLP001 yeast poolish, after 48 hours of fermentation.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>A quick search on home-brewing forums show that &lt;a href="https://www.homebrewtalk.com/threads/wlp001-peach-flavor.211921/">peach esters&lt;/a> and &lt;a href="https://www.homebrewtalk.com/threads/wlp001-flocculation-and-clearing.242072/">slow flocculation&lt;/a> seem to be the two major complaints people have with WLP001. Neither is a problem for my bread.&lt;/p>
+&lt;h4 id="final-dough">final dough&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat, 80% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>375g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>water&lt;/td>
+&lt;td>105%&lt;/td>
+&lt;td>395g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>WLP001 poolish&lt;/td>
+&lt;td>74%&lt;/td>
+&lt;td>277.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>1%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>olive oil&lt;/td>
+&lt;td>5%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I decided &lt;em>not&lt;/em> to use a levain (sourdough), in order to have a more clean aroma/flavor profile of the ale yeast. So, this dough was leavened purely by a poolish with WLP001.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230328_221805.jpg"
+alt="WLP001 yeast poolish dough"/>&lt;figcaption class="right">&lt;p>WLP001 yeast poolish dough&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The process is similar to the &lt;a href="https://breadbuster.github.io/posts/california-dreamin-2/">&lt;em>pan de San Joaquín&lt;/em>&lt;/a>:&lt;/p>
+&lt;ol>
+&lt;li>Autolyze the flour at 70% hydration for 2 hours in the fridge.&lt;/li>
+&lt;li>Add the poolish. Mix until well incorporated.&lt;/li>
+&lt;li>Double hydration: Slowly drizzle in the remaining water, and &lt;a href="https://www.youtube.com/watch?v=zgz0oAhgwyg">Rubaud-mix&lt;/a> until thoroughly absorbed. Cover the dough and let it rest for 20 minutes at room temperature.&lt;/li>
+&lt;li>Mix in the salt. Let the dough rest for a few minutes.&lt;/li>
+&lt;li>Gently mix in the olive oil. Let the dough rest and relax for 30 minutes.&lt;/li>
+&lt;li>Bulk ferment the dough at &lt;strong>~73°F&lt;/strong> for &lt;strong>8 hours&lt;/strong>, performing a coil-fold every 45 minutes during the first 3 hours.&lt;/li>
+&lt;li>Transfer the dough to a cooler place &lt;strong>~65°F&lt;/strong> and leave (loosely covered) for another &lt;strong>16 hours&lt;/strong>.&lt;/li>
+&lt;li>Divide into 2 pieces. No shaping or slashing necessary. Bake as usual: 25-30 minutes at 350°F.&lt;/li>
+&lt;/ol>
+&lt;h4 id="total">total&lt;/h4>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ingredient&lt;/th>
+&lt;th>baker&amp;rsquo;s %&lt;/th>
+&lt;th>weight&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Turkey Red wheat, 80% extraction&lt;/td>
+&lt;td>100%&lt;/td>
+&lt;td>500g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>H₂O&lt;/td>
+&lt;td>109%&lt;/td>
+&lt;td>545g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>liquid ale yeast (WLP001)&lt;/td>
+&lt;td>0.5%&lt;/td>
+&lt;td>2.5g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>sea salt&lt;/td>
+&lt;td>0.8%&lt;/td>
+&lt;td>4g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>olive oil&lt;/td>
+&lt;td>4%&lt;/td>
+&lt;td>20g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h4 id="tasting">tasting&lt;/h4>
+&lt;p>The bread smelled like buttery biscuits and toasted crackers during baking.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_132240.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish, crumb shot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The crumb had almost uniform micro-bubbles &amp;ndash; just like the poolish &amp;ndash; rather than the bigger, irregular air holes you get with sourdough or bread yeast.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230329_233127.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>
+&lt;/figure>
+&lt;p>It had a very clean wheat flavor &amp;ndash; something I hadn&amp;rsquo;t noticed in a sourdough bread and it really stood out to me in this bread. It reminded me of eating Triscuits, with a slight hint of dankness.&lt;/p>
+&lt;p>I think this clean and neutral bread would be a good baseline for my upcoming craft beer yeast experiments.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230329_233251.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>
+&lt;/figure>
+&lt;p>The crust turned a beautiful mahogany color that I hadn&amp;rsquo;t seen before with sourdough breads.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_133023.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish, crust shot&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Overall, I would say the yeast struggled in this dough, probably because it had no nutrients. Which gives me &lt;a href="https://breadbuster.github.io/posts/byb-1-2/">an interesting idea&lt;/a>.&lt;/p>
+&lt;figure>&lt;img loading="lazy"
+src="https://breadbuster.github.io/img/byb-1-1/20230330_132603.jpg"
+alt="pan de cristal with WLP001 yeast poolish"/>&lt;figcaption class="right">&lt;p>&lt;em>pan de cristal&lt;/em> with WLP001 yeast poolish&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;hr>
+&lt;p>&lt;em>This is my 1st &lt;a href="https://breadbuster.github.io/tags/craft-beer-yeast">&lt;em>pain maison à la levure de bière&lt;/em>&lt;/a>. Special thanks to White Labs, especially Erik Fowler (Head of Education &amp;amp; Craft Hospitality) in San Diego, CA and Bert Sheffield (R&amp;amp;D Chef) in Asheville, NC.&lt;/em>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Tom Acitelli, author and journalist who writes about wine, beer and spirits, has written some interesting books about America&amp;rsquo;s craft brewing &amp;amp; distilling revolution: &lt;em>The Audacity of Hops: The History of America&amp;rsquo;s Craft Beer Revolution&lt;/em> (2013), &lt;em>American Wine: A Coming-of-Age Story&lt;/em> (2015), and &lt;em>Whiskey Business: How Small-Batch Distillers Are Transforming American Spirits&lt;/em> (2017).&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>A phenol is a hydroxylated aromatic ring, a compound with a 6-membered carbon ring bonded directly to a hydroxyl group (-OH). These are the same class of compounds used in some antiseptics, and some consumers describe their flavor and aroma as medicinal. The health benefits of phenolic acids are primarily due to their antioxidant properties, but these acids also show anti-ulcer, anti-diabetic, anti-cancer, anti-inflammatory, anti-aging, anti-microbial, cardioprotective, hepatoprotective and neuroprotective activities.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>Ale strains of &lt;em>S. cerevisiae&lt;/em> are &amp;ldquo;top-fermenting&amp;rdquo; (I prefer &amp;ldquo;top-harvesting&amp;rdquo; and &amp;ldquo;warmish-fermenting&amp;rdquo; for clearer communication) yeasts. They are relatively hydrophobic, such that upon flocculating or clumping together, they tend to connect to the CO₂ produced and float to the surface of the fermenter contents. As a result, brewers were able to collect the yeast and create more colonies for future beers. On the other hand, lagers are made with &lt;em>S. pastorianus&lt;/em> strains, which are &amp;ldquo;bottom-fermenting&amp;rdquo; (or &amp;ldquo;bottom-harvesting&amp;rdquo; and &amp;ldquo;cold-fermenting&amp;rdquo;, to be more specific) and widely thought to have originated from a natural hybridization event that occurred between a &lt;em>S. cerevisiae&lt;/em> strain and a non-&lt;em>S. cerevisiae&lt;/em> strain, probably a &lt;em>S. bayanus&lt;/em> strain. From this perspective, ales are considered closer to the ancient beer type than lagers.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>&amp;ldquo;Chico&amp;rdquo; refers to Chico, California, the first location of Sierra Nevada Brewing Company&amp;rsquo;s OG taproom, where the strain is sourced. In 1979, two home brewers established the Sierra Nevada Brewing Company to expand their beloved hobby into a business. The pair&amp;rsquo;s first beer release was the famed Pale Ale, the beer that proved beers with an aggressively hopped backbone could be successful. Although labeled as a pale ale, it was really the &amp;ldquo;OG IPA&amp;rdquo; as it highlighted hops that no other beers had done before. Sierra Nevada brewers nicknamed this strain of yeast &amp;ldquo;Chico&amp;rdquo;, after the brewery&amp;rsquo;s hometown.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></content></item></channel></rss>
